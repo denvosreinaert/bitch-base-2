@@ -1,0 +1,58 @@
+{
+  "uuid": "f5c57d33-cce3-4c18-bda0-9fd33f5d1a8d",
+  "starterPrompted": true,
+  "starterLocked": false,
+  "starterSelected": true,
+  "starterUUID": "86baa93c-2c70-4024-8165-f982dd04afd7",
+  "keyItems": [],
+  "battleTheme": "cobblemon:battle.pvp.default",
+  "extraData": {},
+  "advancementData": {
+    "totalCaptureCount": 6,
+    "totalEggsCollected": 0,
+    "totalEggsHatched": 0,
+    "totalEvolvedCount": 0,
+    "totalBattleVictoryCount": 7,
+    "totalPvPBattleVictoryCount": 0,
+    "totalPvWBattleVictoryCount": 6,
+    "totalPvNBattleVictoryCount": 1,
+    "totalShinyCaptureCount": 0,
+    "totalTradedCount": 0,
+    "totalTypeCaptureCounts": {
+      "normal": 1,
+      "electric": 2,
+      "fairy": 1,
+      "rock": 1,
+      "ground": 1,
+      "water": 1
+    },
+    "totalDefeatedCounts": {
+      "cobblemon:lechonk": 1,
+      "cobblemon:sentret": 1,
+      "cobblemon:ledyba": 1,
+      "cobblemon:minior": 1,
+      "cobblemon:igglybuff": 1,
+      "cobblemon:petilil": 1
+    },
+    "aspectsCollected": {
+      "cobblemon:patrat": [
+        "male"
+      ],
+      "cobblemon:electrike": [
+        "male"
+      ],
+      "cobblemon:snubbull": [
+        "female"
+      ],
+      "cobblemon:blitzle": [
+        "female"
+      ],
+      "cobblemon:geodude": [
+        "male"
+      ],
+      "cobblemon:poliwhirl": [
+        "female"
+      ]
+    }
+  }
+}

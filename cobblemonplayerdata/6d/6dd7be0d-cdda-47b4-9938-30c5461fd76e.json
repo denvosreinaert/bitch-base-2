@@ -1,0 +1,126 @@
+{
+  "uuid": "6dd7be0d-cdda-47b4-9938-30c5461fd76e",
+  "starterPrompted": true,
+  "starterLocked": false,
+  "starterSelected": true,
+  "starterUUID": "32e99513-dd69-4099-b3f3-7d74cb1c8334",
+  "keyItems": [],
+  "battleTheme": "cobblemon:battle.pvp.default",
+  "extraData": {},
+  "advancementData": {
+    "totalCaptureCount": 28,
+    "totalEggsCollected": 0,
+    "totalEggsHatched": 30,
+    "totalEvolvedCount": 1,
+    "totalBattleVictoryCount": 4,
+    "totalPvPBattleVictoryCount": 0,
+    "totalPvWBattleVictoryCount": 4,
+    "totalPvNBattleVictoryCount": 0,
+    "totalShinyCaptureCount": 1,
+    "totalTradedCount": 2,
+    "totalTypeCaptureCounts": {
+      "water": 2,
+      "electric": 4,
+      "normal": 11,
+      "bug": 5,
+      "flying": 3,
+      "poison": 1,
+      "fairy": 2,
+      "dark": 2,
+      "grass": 3,
+      "fire": 1,
+      "ground": 1
+    },
+    "totalDefeatedCounts": {},
+    "aspectsCollected": {
+      "cobblemon:chewtle": [
+        "female"
+      ],
+      "cobblemon:mareep": [
+        "female",
+        "male"
+      ],
+      "cobblemon:flaaffy": [
+        "male"
+      ],
+      "cobblemon:glameow": [
+        "female"
+      ],
+      "cobblemon:yamper": [
+        "female"
+      ],
+      "cobblemon:vivillon": [
+        "male",
+        "vivillon-wings-fancy"
+      ],
+      "cobblemon:wooloo": [
+        "female",
+        "color-none"
+      ],
+      "cobblemon:spinda": [
+        "male",
+        "special-spots-none",
+        "face-spots2-6",
+        "right-ear-spots-6",
+        "face-spots-2",
+        "left-ear-spots-1"
+      ],
+      "cobblemon:zigzagoon": [
+        "male",
+        "female"
+      ],
+      "cobblemon:caterpie": [
+        "male"
+      ],
+      "cobblemon:weedle": [
+        "male"
+      ],
+      "cobblemon:igglybuff": [
+        "male"
+      ],
+      "cobblemon:scatterbug": [
+        "male"
+      ],
+      "cobblemon:purrloin": [
+        "female"
+      ],
+      "cobblemon:sprigatito": [
+        "male"
+      ],
+      "cobblemon:meowscarada": [
+        "male",
+        "alpha"
+      ],
+      "cobblemon:fidough": [
+        "female"
+      ],
+      "cobblemon:numel": [
+        "shiny",
+        "female"
+      ],
+      "cobblemon:magikarp": [
+        "female",
+        "magikarp-jump-standard",
+        "gyarados-eye-color-red"
+      ],
+      "cobblemon:pidove": [
+        "male"
+      ],
+      "cobblemon:lillipup": [
+        "male"
+      ],
+      "cobblemon:eevee": [
+        "male"
+      ],
+      "cobblemon:zebstrika": [
+        "female"
+      ],
+      "cobblemon:hoppip": [
+        "female"
+      ],
+      "cobblemon:buneary": [
+        "male"
+      ]
+    }
+  }
+}
