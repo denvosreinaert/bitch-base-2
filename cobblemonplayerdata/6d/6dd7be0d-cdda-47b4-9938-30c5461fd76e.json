@@ -8,7 +8,7 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 28,
+    "totalCaptureCount": 30,
     "totalEggsCollected": 0,
     "totalEggsHatched": 30,
     "totalEvolvedCount": 1,
@@ -17,7 +17,7 @@
     "totalPvWBattleVictoryCount": 4,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 1,
-    "totalTradedCount": 2,
+    "totalTradedCount": 4,
     "totalTypeCaptureCounts": {
       "water": 2,
       "electric": 4,
@@ -26,9 +26,9 @@
       "flying": 3,
       "poison": 1,
       "fairy": 2,
-      "dark": 2,
+      "dark": 3,
       "grass": 3,
-      "fire": 1,
+      "fire": 2,
       "ground": 1
     },
     "totalDefeatedCounts": {},
@@ -101,7 +101,9 @@
       "cobblemon:magikarp": [
         "female",
         "magikarp-jump-standard",
-        "gyarados-eye-color-red"
+        "gyarados-eye-color-red",
+        "male",
+        "gyarados-eye-color-purple"
       ],
       "cobblemon:pidove": [
         "male"
@@ -119,6 +121,12 @@
         "female"
       ],
       "cobblemon:buneary": [
+        "male"
+      ],
+      "cobblemon:vulpix": [
+        "female"
+      ],
+      "cobblemon:zorua": [
         "male"
       ]
     }

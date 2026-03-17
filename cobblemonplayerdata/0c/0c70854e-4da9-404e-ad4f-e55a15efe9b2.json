@@ -8,31 +8,32 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 100,
-    "totalEggsCollected": 43,
-    "totalEggsHatched": 878,
-    "totalEvolvedCount": 2,
-    "totalBattleVictoryCount": 88,
+    "totalCaptureCount": 113,
+    "totalEggsCollected": 57,
+    "totalEggsHatched": 948,
+    "totalEvolvedCount": 3,
+    "totalBattleVictoryCount": 92,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 83,
+    "totalPvWBattleVictoryCount": 87,
     "totalPvNBattleVictoryCount": 5,
     "totalShinyCaptureCount": 0,
-    "totalTradedCount": 4,
+    "totalTradedCount": 6,
     "totalTypeCaptureCounts": {
-      "normal": 40,
+      "normal": 47,
       "ground": 13,
       "electric": 4,
-      "fairy": 10,
-      "water": 8,
-      "grass": 11,
+      "fairy": 12,
+      "water": 9,
+      "grass": 13,
       "ghost": 3,
-      "dark": 4,
+      "dark": 5,
       "fire": 10,
       "bug": 1,
-      "psychic": 6,
+      "psychic": 7,
       "poison": 2,
       "steel": 1,
-      "rock": 1
+      "rock": 1,
+      "dragon": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:patrat": 5,
@@ -167,7 +168,9 @@
         "male"
       ],
       "cobblemon:rapidash": [
-        "male"
+        "male",
+        "female",
+        "galarian"
       ],
       "cobblemon:cubone": [
         "female",
@@ -238,7 +241,8 @@
         "male"
       ],
       "cobblemon:lopunny": [
-        "male"
+        "male",
+        "female"
       ],
       "cobblemon:turtwig": [
         "male"
@@ -304,6 +308,27 @@
         "male"
       ],
       "cobblemon:lickitung": [
+        "female"
+      ],
+      "cobblemon:oinkologne": [
+        "male"
+      ],
+      "cobblemon:eevee": [
+        "male"
+      ],
+      "cobblemon:swirlix": [
+        "female"
+      ],
+      "cobblemon:lurantis": [
+        "female"
+      ],
+      "cobblemon:deino": [
+        "male"
+      ],
+      "cobblemon:vaporeon": [
+        "male"
+      ],
+      "cobblemon:audino": [
         "female"
       ]
     }

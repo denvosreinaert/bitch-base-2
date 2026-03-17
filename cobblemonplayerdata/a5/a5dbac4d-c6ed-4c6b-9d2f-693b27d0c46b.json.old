@@ -12,35 +12,35 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 145,
+    "totalCaptureCount": 154,
     "totalEggsCollected": 30,
     "totalEggsHatched": 492,
     "totalEvolvedCount": 20,
-    "totalBattleVictoryCount": 511,
+    "totalBattleVictoryCount": 529,
     "totalPvPBattleVictoryCount": 2,
-    "totalPvWBattleVictoryCount": 172,
-    "totalPvNBattleVictoryCount": 337,
-    "totalShinyCaptureCount": 9,
+    "totalPvWBattleVictoryCount": 180,
+    "totalPvNBattleVictoryCount": 347,
+    "totalShinyCaptureCount": 11,
     "totalTradedCount": 66,
     "totalTypeCaptureCounts": {
-      "normal": 22,
+      "normal": 24,
       "water": 21,
-      "poison": 12,
+      "poison": 14,
       "ground": 15,
       "electric": 12,
       "fire": 14,
       "fighting": 13,
-      "grass": 19,
-      "bug": 15,
-      "rock": 6,
+      "grass": 20,
+      "bug": 16,
+      "rock": 7,
       "dragon": 6,
-      "flying": 16,
+      "flying": 17,
       "fairy": 5,
-      "ghost": 5,
-      "psychic": 16,
+      "ghost": 6,
+      "psychic": 19,
       "ice": 3,
-      "steel": 5,
-      "dark": 7
+      "steel": 6,
+      "dark": 8
     },
     "totalDefeatedCounts": {
       "cobblemon:hoppip": 2,
@@ -105,7 +105,11 @@
       "cobblemon:espurr": 1,
       "cobblemon:shinx": 1,
       "cobblemon:poliwhirl": 1,
-      "cobblemon:granbull": 1
+      "cobblemon:granbull": 1,
+      "cobblemon:vivillon": 1,
+      "cobblemon:hydreigon": 1,
+      "cobblemon:castform": 1,
+      "cobblemon:revavroom": 1
     },
     "aspectsCollected": {
       "cobblemon:kangaskhan": [
@@ -772,6 +776,33 @@
       "cobblemon:kecleon": [
         "male",
         "alpha"
+      ],
+      "cobblemon:gothita": [
+        "male"
+      ],
+      "cobblemon:unown": [
+        "shiny",
+        "genderless",
+        "character-e",
+        "character-z"
+      ],
+      "cobblemon:kartana": [
+        "genderless"
+      ],
+      "cobblemon:nihilego": [
+        "genderless"
+      ],
+      "cobblemon:pidgey": [
+        "female"
+      ],
+      "cobblemon:yungoos": [
+        "female"
+      ],
+      "cobblemon:venonat": [
+        "female"
+      ],
+      "cobblemon:sableye": [
+        "male"
       ]
     }
   }
