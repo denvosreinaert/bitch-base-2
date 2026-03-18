@@ -5707,6 +5707,60 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/cherry_cabinet": {
+    "criteria": {
+      "has_cherry_trapdoor": "2026-03-17 02:31:03 +0100"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/spruce_bridge_pier": {
+    "criteria": {
+      "has_planks": "2026-03-17 02:56:35 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2026-03-17 02:56:35 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2026-03-17 02:56:35 +0100"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/spruce": {
+    "criteria": {
+      "has_wood": "2026-03-17 02:56:35 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_hedge": {
+    "criteria": {
+      "has_minecraft:spruce_leaves": "2026-03-17 02:57:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2026-03-17 02:57:20 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/campfire_pot/casteliacone": {
+    "criteria": {
+      "has_snowball": "2026-03-17 02:57:20 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2026-03-17 02:57:20 +0100"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/spruce_counter": {
     "criteria": {
       "has_spruce_counter": "2026-03-17 03:01:43 +0100"
@@ -5716,12 +5770,6 @@
   "refurbished_furniture:recipes/misc/constructing/spruce_table": {
     "criteria": {
       "has_minecraft:spruce_planks": "2026-03-17 03:01:43 +0100"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/spruce_bridge_pier": {
-    "criteria": {
-      "has_planks": "2026-03-17 02:56:35 +0100"
     },
     "done": true
   },
@@ -5743,21 +5791,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/snow": {
-    "criteria": {
-      "has_snowball": "2026-03-17 02:57:20 +0100"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_drawer": {
     "criteria": {
       "has_minecraft:spruce_planks": "2026-03-17 03:01:43 +0100"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/spruce_hedge": {
-    "criteria": {
-      "has_minecraft:spruce_leaves": "2026-03-17 02:57:05 +0100"
     },
     "done": true
   },
@@ -5791,12 +5827,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stripped_cherry_wood": {
-    "criteria": {
-      "has_log": "2026-03-17 03:21:03 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2026-03-17 03:01:43 +0100"
@@ -5827,21 +5857,9 @@
     },
     "done": true
   },
-  "cobblemon:recipes/campfire_pot/casteliacone": {
-    "criteria": {
-      "has_snowball": "2026-03-17 02:57:20 +0100"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/spruce_corner_trim": {
     "criteria": {
       "has_spruce_corner_trim": "2026-03-17 03:01:43 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cherry_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2026-03-17 03:21:03 +0100"
     },
     "done": true
   },
@@ -5863,12 +5881,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/spruce_wood": {
-    "criteria": {
-      "has_log": "2026-03-17 02:56:35 +0100"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/spruce_couch": {
     "criteria": {
       "has_spruce_couch": "2026-03-17 03:01:43 +0100"
@@ -5887,21 +5899,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/spruce_planks": {
-    "criteria": {
-      "has_logs": "2026-03-17 02:56:35 +0100"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/spruce_nightstand": {
     "criteria": {
       "has_spruce_nightstand": "2026-03-17 03:01:43 +0100"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/cherry_cabinet": {
-    "criteria": {
-      "has_cherry_trapdoor": "2026-03-17 02:31:03 +0100"
     },
     "done": true
   },
@@ -5938,12 +5938,6 @@
   "minecraft:recipes/redstone/spruce_fence_gate": {
     "criteria": {
       "has_planks": "2026-03-17 03:01:43 +0100"
-    },
-    "done": true
-  },
-  "mcwdoors:recipes/spruce": {
-    "criteria": {
-      "has_wood": "2026-03-17 02:56:35 +0100"
     },
     "done": true
   },
@@ -5989,15 +5983,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/snow_block": {
-    "criteria": {
-      "has_snowball": "2026-03-17 02:57:20 +0100"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/spruce_side_table": {
     "criteria": {
       "has_spruce_side_table": "2026-03-17 03:01:43 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_cherry_wood": {
+    "criteria": {
+      "has_log": "2026-03-17 03:21:03 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2026-03-17 03:21:03 +0100"
     },
     "done": true
   },

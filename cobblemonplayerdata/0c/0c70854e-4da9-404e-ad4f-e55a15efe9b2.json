@@ -8,48 +8,51 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 113,
-    "totalEggsCollected": 57,
-    "totalEggsHatched": 948,
-    "totalEvolvedCount": 3,
-    "totalBattleVictoryCount": 92,
+    "totalCaptureCount": 144,
+    "totalEggsCollected": 68,
+    "totalEggsHatched": 1520,
+    "totalEvolvedCount": 15,
+    "totalBattleVictoryCount": 131,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 87,
-    "totalPvNBattleVictoryCount": 5,
-    "totalShinyCaptureCount": 0,
+    "totalPvWBattleVictoryCount": 121,
+    "totalPvNBattleVictoryCount": 10,
+    "totalShinyCaptureCount": 1,
     "totalTradedCount": 6,
     "totalTypeCaptureCounts": {
-      "normal": 47,
+      "normal": 52,
       "ground": 13,
-      "electric": 4,
-      "fairy": 12,
-      "water": 9,
-      "grass": 13,
-      "ghost": 3,
+      "electric": 11,
+      "fairy": 17,
+      "water": 14,
+      "grass": 16,
+      "ghost": 4,
       "dark": 5,
-      "fire": 10,
+      "fire": 11,
       "bug": 1,
-      "psychic": 7,
-      "poison": 2,
-      "steel": 1,
-      "rock": 1,
-      "dragon": 1
+      "psychic": 9,
+      "poison": 4,
+      "steel": 3,
+      "rock": 3,
+      "dragon": 1,
+      "ice": 1,
+      "flying": 1,
+      "fighting": 2
     },
     "totalDefeatedCounts": {
-      "cobblemon:patrat": 5,
+      "cobblemon:patrat": 7,
       "cobblemon:cottonee": 1,
       "cobblemon:pidove": 1,
       "cobblemon:fidough": 1,
       "cobblemon:taillow": 2,
-      "cobblemon:bunnelby": 1,
+      "cobblemon:bunnelby": 2,
       "cobblemon:doduo": 1,
-      "cobblemon:mareep": 3,
+      "cobblemon:mareep": 4,
       "cobblemon:hoppip": 3,
       "cobblemon:tandemaus": 1,
       "cobblemon:yungoos": 1,
       "cobblemon:zigzagoon": 3,
       "cobblemon:sentret": 4,
-      "cobblemon:lechonk": 3,
+      "cobblemon:lechonk": 4,
       "cobblemon:combee": 3,
       "cobblemon:electrike": 1,
       "cobblemon:spinarak": 1,
@@ -64,7 +67,20 @@
       "cobblemon:wooloo": 1,
       "cobblemon:raticate": 1,
       "cobblemon:woobat": 1,
-      "cobblemon:ledyba": 1
+      "cobblemon:ledyba": 1,
+      "cobblemon:furret": 1,
+      "cobblemon:skwovet": 1,
+      "cobblemon:phantump": 1,
+      "cobblemon:butterfree": 1,
+      "cobblemon:ninetales": 1,
+      "cobblemon:miltank": 3,
+      "cobblemon:nidoking": 1,
+      "cobblemon:whirlipede": 1,
+      "cobblemon:noctowl": 1,
+      "cobblemon:mudsdale": 1,
+      "cobblemon:gossifleur": 1,
+      "cobblemon:pachirisu": 1,
+      "cobblemon:drednaw": 1
     },
     "aspectsCollected": {
       "cobblemon:komala": [
@@ -112,7 +128,8 @@
       ],
       "cobblemon:zigzagoon": [
         "male",
-        "female"
+        "female",
+        "shiny"
       ],
       "cobblemon:polteageist": [
         "genderless",
@@ -228,7 +245,8 @@
         "female"
       ],
       "cobblemon:minun": [
-        "male"
+        "male",
+        "female"
       ],
       "cobblemon:poliwhirl": [
         "female"
@@ -302,7 +320,8 @@
       ],
       "cobblemon:gardevoir": [
         "female",
-        "alpha"
+        "alpha",
+        "male"
       ],
       "cobblemon:kirlia": [
         "male"
@@ -330,6 +349,105 @@
       ],
       "cobblemon:audino": [
         "female"
+      ],
+      "cobblemon:pichu": [
+        "female",
+        "male"
+      ],
+      "cobblemon:umbreon": [
+        "male"
+      ],
+      "cobblemon:pachirisu": [
+        "male"
+      ],
+      "cobblemon:plusle": [
+        "male"
+      ],
+      "cobblemon:tinkaton": [
+        "female",
+        "alpha"
+      ],
+      "cobblemon:pikachu": [
+        "male",
+        "female"
+      ],
+      "cobblemon:torchic": [
+        "male"
+      ],
+      "cobblemon:lapras": [
+        "female"
+      ],
+      "cobblemon:squirtle": [
+        "male"
+      ],
+      "cobblemon:foongus": [
+        "female"
+      ],
+      "cobblemon:ivysaur": [
+        "male"
+      ],
+      "cobblemon:ninetales": [
+        "female"
+      ],
+      "cobblemon:raikou": [
+        "genderless"
+      ],
+      "cobblemon:mimikyu": [
+        "male",
+        "disguised-form"
+      ],
+      "cobblemon:tinkatuff": [
+        "female"
+      ],
+      "cobblemon:donphan": [
+        "female"
+      ],
+      "cobblemon:stonjourner": [
+        "female"
+      ],
+      "cobblemon:glaceon": [
+        "male"
+      ],
+      "cobblemon:leafeon": [
+        "male"
+      ],
+      "cobblemon:jolteon": [
+        "female"
+      ],
+      "cobblemon:quaxly": [
+        "male"
+      ],
+      "cobblemon:espeon": [
+        "male"
+      ],
+      "cobblemon:sylveon": [
+        "male"
+      ],
+      "cobblemon:gyarados": [
+        "female",
+        "magikarp-jump-standard",
+        "gyarados-eye-color-purple"
+      ],
+      "cobblemon:skiddo": [
+        "male"
+      ],
+      "cobblemon:aron": [
+        "female"
+      ],
+      "cobblemon:machop": [
+        "male"
+      ],
+      "cobblemon:abra": [
+        "male"
+      ],
+      "cobblemon:cleffa": [
+        "female"
+      ],
+      "cobblemon:riolu": [
+        "male"
+      ],
+      "cobblemon:clefairy": [
+        "male"
       ]
     }
   }

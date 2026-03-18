@@ -9117,6 +9117,12 @@
     },
     "done": true
   },
+  "cobblemon:first_battle_victory": {
+    "criteria": {
+      "win": "2026-03-16 21:06:48 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_quartz": "2026-03-16 21:28:30 +0100"
@@ -9141,12 +9147,6 @@
     },
     "done": true
   },
-  "cobblemon:first_battle_victory": {
-    "criteria": {
-      "win": "2026-03-16 21:06:48 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2026-03-16 21:28:30 +0100"
@@ -9156,6 +9156,66 @@
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2026-03-16 21:28:30 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2026-03-17 18:26:59 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2026-03-17 18:26:59 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/fancy_painting": {
+    "criteria": {
+      "has_fancy_painting": "2026-03-17 19:07:38 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2026-03-17 23:02:21 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/douse_drive": {
+    "criteria": {
+      "has_netherite_scrap": "2026-03-17 23:02:21 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/burn_drive": {
+    "criteria": {
+      "has_netherite_scrap": "2026-03-17 23:02:21 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/chill_drive": {
+    "criteria": {
+      "has_netherite_scrap": "2026-03-17 23:02:21 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2026-03-17 23:02:38 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/shock_drive": {
+    "criteria": {
+      "has_netherite_scrap": "2026-03-17 23:02:21 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2026-03-17 23:02:38 +0100"
     },
     "done": true
   },
