@@ -8,34 +8,35 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 39,
+    "totalCaptureCount": 41,
     "totalEggsCollected": 0,
     "totalEggsHatched": 6,
     "totalEvolvedCount": 11,
-    "totalBattleVictoryCount": 459,
+    "totalBattleVictoryCount": 466,
     "totalPvPBattleVictoryCount": 1,
-    "totalPvWBattleVictoryCount": 403,
-    "totalPvNBattleVictoryCount": 55,
+    "totalPvWBattleVictoryCount": 409,
+    "totalPvNBattleVictoryCount": 56,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 2,
     "totalTypeCaptureCounts": {
       "electric": 3,
-      "bug": 1,
-      "flying": 4,
+      "bug": 2,
+      "flying": 5,
       "fire": 6,
       "ghost": 2,
       "ground": 3,
       "rock": 2,
       "dragon": 4,
       "water": 6,
-      "psychic": 4,
+      "psychic": 5,
       "normal": 9,
       "poison": 1,
       "ice": 2,
       "dark": 5,
       "fighting": 1,
       "fairy": 1,
-      "steel": 1
+      "steel": 1,
+      "grass": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:slowpoke": 3,
@@ -136,10 +137,10 @@
       "cobblemon:floette": 1,
       "cobblemon:fearow": 3,
       "cobblemon:manectric": 1,
-      "cobblemon:phantump": 1,
+      "cobblemon:phantump": 2,
       "cobblemon:kricketune": 1,
       "cobblemon:tarountula": 1,
-      "cobblemon:pachirisu": 2,
+      "cobblemon:pachirisu": 3,
       "cobblemon:tentacool": 2,
       "cobblemon:carvanha": 2,
       "cobblemon:arrokuda": 2,
@@ -198,7 +199,7 @@
       "cobblemon:scorbunny": 2,
       "cobblemon:slugma": 2,
       "cobblemon:mudbray": 2,
-      "cobblemon:murkrow": 1,
+      "cobblemon:murkrow": 2,
       "cobblemon:solosis": 1,
       "cobblemon:bellsprout": 2,
       "cobblemon:klawf": 1,
@@ -235,7 +236,8 @@
       "cobblemon:loudred": 4,
       "cobblemon:drifblim": 1,
       "cobblemon:furfrou": 1,
-      "cobblemon:klefki": 1
+      "cobblemon:klefki": 1,
+      "cobblemon:toedscool": 1
     },
     "aspectsCollected": {
       "cobblemon:mareep": [
@@ -395,6 +397,13 @@
       ],
       "cobblemon:wobbuffet": [
         "female",
+        "alpha"
+      ],
+      "cobblemon:celebi": [
+        "genderless"
+      ],
+      "cobblemon:masquerain": [
+        "male",
         "alpha"
       ]
     }

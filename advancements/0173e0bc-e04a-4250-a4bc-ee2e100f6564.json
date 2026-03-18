@@ -9201,21 +9201,129 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/magenta_dye_from_lilac": {
-    "criteria": {
-      "has_lilac": "2026-03-17 23:02:38 +0100"
-    },
-    "done": true
-  },
   "mega_showdown:recipes/misc/shock_drive": {
     "criteria": {
       "has_netherite_scrap": "2026-03-17 23:02:21 +0100"
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2026-03-17 23:02:38 +0100"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/magenta_dye_from_lilac": {
     "criteria": {
       "has_lilac": "2026-03-17 23:02:38 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/lisia_mega_tiara": {
+    "criteria": {
+      "has_keystone": "2026-03-18 16:38:38 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/mega_bracelet_red": {
+    "criteria": {
+      "has_keystone": "2026-03-18 16:38:38 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:mega_showdown/mega/find_keystone": {
+    "criteria": {
+      "obtained_keystone": "2026-03-18 16:38:38 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/keystone_block": {
+    "criteria": {
+      "has_keystone": "2026-03-18 16:38:38 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/mega_bracelet_green": {
+    "criteria": {
+      "has_keystone": "2026-03-18 16:38:38 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/lysandre_ring": {
+    "criteria": {
+      "has_keystone": "2026-03-18 16:38:38 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/mega_bracelet_black": {
+    "criteria": {
+      "has_keystone": "2026-03-18 16:38:38 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/brendan_mega_cuff": {
+    "criteria": {
+      "has_keystone": "2026-03-18 16:38:38 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/korrina_glove": {
+    "criteria": {
+      "has_keystone": "2026-03-18 16:38:38 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/mega_bracelet_pink": {
+    "criteria": {
+      "has_keystone": "2026-03-18 16:38:38 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/mega_bracelet_blue": {
+    "criteria": {
+      "has_keystone": "2026-03-18 16:38:38 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/archie_anchor": {
+    "criteria": {
+      "has_keystone": "2026-03-18 16:38:38 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/mega_bracelet": {
+    "criteria": {
+      "has_keystone": "2026-03-18 16:38:38 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/mega_ring": {
+    "criteria": {
+      "has_keystone": "2026-03-18 16:38:38 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/may_bracelet": {
+    "criteria": {
+      "has_keystone": "2026-03-18 16:38:38 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/mega_bracelet_yellow": {
+    "criteria": {
+      "has_keystone": "2026-03-18 16:38:38 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/keystone": {
+    "criteria": {
+      "has_keystone": "2026-03-18 16:38:38 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/maxie_glasses": {
+    "criteria": {
+      "has_keystone": "2026-03-18 16:38:38 +0100"
     },
     "done": true
   },
