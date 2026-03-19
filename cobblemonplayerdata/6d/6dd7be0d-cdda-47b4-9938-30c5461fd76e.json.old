@@ -8,28 +8,30 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 30,
-    "totalEggsCollected": 0,
-    "totalEggsHatched": 30,
+    "totalCaptureCount": 40,
+    "totalEggsCollected": 2,
+    "totalEggsHatched": 32,
     "totalEvolvedCount": 1,
-    "totalBattleVictoryCount": 4,
+    "totalBattleVictoryCount": 8,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 4,
+    "totalPvWBattleVictoryCount": 8,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 1,
     "totalTradedCount": 4,
     "totalTypeCaptureCounts": {
       "water": 2,
-      "electric": 4,
-      "normal": 11,
+      "electric": 5,
+      "normal": 14,
       "bug": 5,
       "flying": 3,
       "poison": 1,
       "fairy": 2,
-      "dark": 3,
-      "grass": 3,
-      "fire": 2,
-      "ground": 1
+      "dark": 4,
+      "grass": 5,
+      "fire": 4,
+      "ground": 1,
+      "dragon": 1,
+      "psychic": 1
     },
     "totalDefeatedCounts": {},
     "aspectsCollected": {
@@ -128,6 +130,37 @@
       ],
       "cobblemon:zorua": [
         "male"
+      ],
+      "cobblemon:shinx": [
+        "male"
+      ],
+      "cobblemon:druddigon": [
+        "female",
+        "alpha"
+      ],
+      "cobblemon:nickit": [
+        "male"
+      ],
+      "cobblemon:torchic": [
+        "male"
+      ],
+      "cobblemon:fomantis": [
+        "male"
+      ],
+      "cobblemon:deerling": [
+        "female",
+        "spring"
+      ],
+      "cobblemon:tandemaus": [
+        "genderless",
+        "maushold-family-four"
+      ],
+      "cobblemon:yungoos": [
+        "male"
+      ],
+      "cobblemon:grumpig": [
+        "female",
+        "alpha"
       ]
     }
   }

@@ -8,35 +8,35 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 144,
+    "totalCaptureCount": 167,
     "totalEggsCollected": 68,
-    "totalEggsHatched": 1520,
+    "totalEggsHatched": 1784,
     "totalEvolvedCount": 15,
-    "totalBattleVictoryCount": 131,
+    "totalBattleVictoryCount": 165,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 121,
-    "totalPvNBattleVictoryCount": 10,
+    "totalPvWBattleVictoryCount": 152,
+    "totalPvNBattleVictoryCount": 13,
     "totalShinyCaptureCount": 1,
     "totalTradedCount": 6,
     "totalTypeCaptureCounts": {
-      "normal": 52,
-      "ground": 13,
+      "normal": 56,
+      "ground": 15,
       "electric": 11,
-      "fairy": 17,
-      "water": 14,
-      "grass": 16,
-      "ghost": 4,
-      "dark": 5,
-      "fire": 11,
-      "bug": 1,
-      "psychic": 9,
-      "poison": 4,
-      "steel": 3,
-      "rock": 3,
+      "fairy": 19,
+      "water": 17,
+      "grass": 18,
+      "ghost": 5,
+      "dark": 8,
+      "fire": 13,
+      "bug": 2,
+      "psychic": 12,
+      "poison": 5,
+      "steel": 5,
+      "rock": 4,
       "dragon": 1,
-      "ice": 1,
+      "ice": 6,
       "flying": 1,
-      "fighting": 2
+      "fighting": 3
     },
     "totalDefeatedCounts": {
       "cobblemon:patrat": 7,
@@ -45,20 +45,20 @@
       "cobblemon:fidough": 1,
       "cobblemon:taillow": 2,
       "cobblemon:bunnelby": 2,
-      "cobblemon:doduo": 1,
-      "cobblemon:mareep": 4,
-      "cobblemon:hoppip": 3,
+      "cobblemon:doduo": 2,
+      "cobblemon:mareep": 7,
+      "cobblemon:hoppip": 4,
       "cobblemon:tandemaus": 1,
       "cobblemon:yungoos": 1,
       "cobblemon:zigzagoon": 3,
-      "cobblemon:sentret": 4,
+      "cobblemon:sentret": 5,
       "cobblemon:lechonk": 4,
       "cobblemon:combee": 3,
       "cobblemon:electrike": 1,
       "cobblemon:spinarak": 1,
       "cobblemon:rattata": 1,
-      "cobblemon:ekans": 1,
-      "cobblemon:mudbray": 1,
+      "cobblemon:ekans": 2,
+      "cobblemon:mudbray": 2,
       "cobblemon:cubone": 1,
       "cobblemon:manectric": 1,
       "cobblemon:jumpluff": 1,
@@ -71,16 +71,27 @@
       "cobblemon:furret": 1,
       "cobblemon:skwovet": 1,
       "cobblemon:phantump": 1,
-      "cobblemon:butterfree": 1,
+      "cobblemon:butterfree": 3,
       "cobblemon:ninetales": 1,
-      "cobblemon:miltank": 3,
+      "cobblemon:miltank": 5,
       "cobblemon:nidoking": 1,
       "cobblemon:whirlipede": 1,
       "cobblemon:noctowl": 1,
       "cobblemon:mudsdale": 1,
       "cobblemon:gossifleur": 1,
       "cobblemon:pachirisu": 1,
-      "cobblemon:drednaw": 1
+      "cobblemon:drednaw": 1,
+      "cobblemon:lickitung": 1,
+      "cobblemon:pidgey": 1,
+      "cobblemon:fomantis": 1,
+      "cobblemon:eldegoss": 1,
+      "cobblemon:sandygast": 1,
+      "cobblemon:galvantula": 1,
+      "cobblemon:linoone": 1,
+      "cobblemon:ponyta": 1,
+      "cobblemon:maschiff": 1,
+      "cobblemon:sneasel": 1,
+      "cobblemon:mamoswine": 1
     },
     "aspectsCollected": {
       "cobblemon:komala": [
@@ -129,7 +140,8 @@
       "cobblemon:zigzagoon": [
         "male",
         "female",
-        "shiny"
+        "shiny",
+        "galarian"
       ],
       "cobblemon:polteageist": [
         "genderless",
@@ -282,7 +294,8 @@
         "normal-form"
       ],
       "cobblemon:meowth": [
-        "female"
+        "female",
+        "alolan"
       ],
       "cobblemon:perrserker": [
         "male",
@@ -448,6 +461,66 @@
       ],
       "cobblemon:clefairy": [
         "male"
+      ],
+      "cobblemon:exeggutor": [
+        "male"
+      ],
+      "cobblemon:scorbunny": [
+        "male"
+      ],
+      "cobblemon:rhydon": [
+        "male"
+      ],
+      "cobblemon:quaquaval": [
+        "female",
+        "alpha"
+      ],
+      "cobblemon:dachsbun": [
+        "male",
+        "alpha"
+      ],
+      "cobblemon:spewpa": [
+        "male"
+      ],
+      "cobblemon:vanillite": [
+        "female"
+      ],
+      "cobblemon:spheal": [
+        "female"
+      ],
+      "cobblemon:honedge": [
+        "female"
+      ],
+      "cobblemon:seel": [
+        "female"
+      ],
+      "cobblemon:eiscue": [
+        "male",
+        "ice_face"
+      ],
+      "cobblemon:jynx": [
+        "female",
+        "alpha"
+      ],
+      "cobblemon:smoochum": [
+        "female"
+      ],
+      "cobblemon:roselia": [
+        "male"
+      ],
+      "cobblemon:steelix": [
+        "female",
+        "alpha"
+      ],
+      "cobblemon:entei": [
+        "genderless"
+      ],
+      "cobblemon:mabosstiff": [
+        "female",
+        "alpha"
+      ],
+      "cobblemon:snubbull": [
+        "female"
       ]
     }
   }

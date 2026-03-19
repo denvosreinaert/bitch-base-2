@@ -12,35 +12,35 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 170,
-    "totalEggsCollected": 30,
-    "totalEggsHatched": 596,
+    "totalCaptureCount": 189,
+    "totalEggsCollected": 44,
+    "totalEggsHatched": 624,
     "totalEvolvedCount": 20,
-    "totalBattleVictoryCount": 588,
+    "totalBattleVictoryCount": 621,
     "totalPvPBattleVictoryCount": 2,
-    "totalPvWBattleVictoryCount": 200,
-    "totalPvNBattleVictoryCount": 386,
+    "totalPvWBattleVictoryCount": 230,
+    "totalPvNBattleVictoryCount": 389,
     "totalShinyCaptureCount": 14,
     "totalTradedCount": 66,
     "totalTypeCaptureCounts": {
-      "normal": 25,
+      "normal": 26,
       "water": 22,
-      "poison": 16,
-      "ground": 16,
-      "electric": 12,
-      "fire": 18,
+      "poison": 17,
+      "ground": 18,
+      "electric": 13,
+      "fire": 19,
       "fighting": 14,
       "grass": 20,
       "bug": 17,
       "rock": 7,
-      "dragon": 7,
-      "flying": 19,
-      "fairy": 6,
-      "ghost": 7,
+      "dragon": 8,
+      "flying": 20,
+      "fairy": 17,
+      "ghost": 10,
       "psychic": 21,
-      "ice": 3,
-      "steel": 8,
-      "dark": 12
+      "ice": 4,
+      "steel": 21,
+      "dark": 13
     },
     "totalDefeatedCounts": {
       "cobblemon:hoppip": 2,
@@ -53,7 +53,7 @@
       "cobblemon:numel": 5,
       "cobblemon:luxio": 2,
       "cobblemon:hippopotas": 1,
-      "cobblemon:snubbull": 1,
+      "cobblemon:snubbull": 2,
       "cobblemon:patrat": 1,
       "cobblemon:trubbish": 2,
       "cobblemon:tandemaus": 1,
@@ -78,7 +78,7 @@
       "cobblemon:manectric": 3,
       "cobblemon:polteageist": 1,
       "cobblemon:steelix": 2,
-      "cobblemon:exploud": 1,
+      "cobblemon:exploud": 2,
       "cobblemon:minccino": 1,
       "cobblemon:lillipup": 1,
       "cobblemon:farigiraf": 1,
@@ -111,8 +111,16 @@
       "cobblemon:castform": 1,
       "cobblemon:revavroom": 1,
       "cobblemon:butterfree": 1,
-      "cobblemon:charcadet": 6,
-      "cobblemon:falinks": 2
+      "cobblemon:charcadet": 8,
+      "cobblemon:falinks": 4,
+      "cobblemon:deino": 3,
+      "cobblemon:golett": 1,
+      "cobblemon:spiritomb": 10,
+      "cobblemon:klink": 1,
+      "cobblemon:sableye": 1,
+      "cobblemon:magnemite": 1,
+      "cobblemon:glimmora": 1,
+      "cobblemon:klinklang": 1
     },
     "aspectsCollected": {
       "cobblemon:kangaskhan": [
@@ -728,7 +736,8 @@
         "male"
       ],
       "cobblemon:noivern": [
-        "female"
+        "female",
+        "male"
       ],
       "cobblemon:garchomp": [
         "male"
@@ -854,6 +863,27 @@
       ],
       "cobblemon:riolu": [
         "male"
+      ],
+      "cobblemon:weavile": [
+        "male",
+        "alpha"
+      ],
+      "cobblemon:honedge": [
+        "female"
+      ],
+      "cobblemon:exploud": [
+        "female",
+        "alpha"
+      ],
+      "cobblemon:mawile": [
+        "female",
+        "male"
+      ],
+      "cobblemon:golurk": [
+        "genderless"
+      ],
+      "cobblemon:magnemite": [
+        "genderless"
       ]
     }
   }

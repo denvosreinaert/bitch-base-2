@@ -581,6 +581,7 @@
       "obtain_chesto_berry": "2026-03-11 20:22:14 +0100",
       "obtain_kasib_berry": "2026-03-12 16:06:19 +0100",
       "obtain_pecha_berry": "2026-03-11 18:58:22 +0100",
+      "obtain_razz_berry": "2026-03-18 20:11:38 +0100",
       "obtain_wepear_berry": "2026-03-03 22:04:12 +0100"
     },
     "done": false
@@ -9324,6 +9325,174 @@
   "mega_showdown:recipes/misc/maxie_glasses": {
     "criteria": {
       "has_keystone": "2026-03-18 16:38:38 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/blocks/apricorn_stairs": {
+    "criteria": {
+      "has_planks": "2026-03-18 20:03:07 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/blocks/apricorn_slab": {
+    "criteria": {
+      "has_planks": "2026-03-18 20:03:07 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2026-03-18 20:39:58 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/blocks/apricorn_trapdoor": {
+    "criteria": {
+      "has_planks": "2026-03-18 20:03:07 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2026-03-18 20:39:58 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/blocks/apricorn_button": {
+    "criteria": {
+      "has_planks": "2026-03-18 20:03:07 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2026-03-18 20:39:58 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2026-03-18 20:39:58 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2026-03-18 20:14:45 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/blocks/apricorn_fence": {
+    "criteria": {
+      "has_planks": "2026-03-18 20:03:07 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/copper_bulb": {
+    "criteria": {
+      "has_copper_block": "2026-03-18 20:39:58 +0100"
+    },
+    "done": true
+  },
+  "rctmod:trainers/defeat_team_galactic_boss_cyrus_2": {
+    "criteria": {
+      "defeat_team_galactic_boss_cyrus_2": "2026-03-18 21:13:45 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_grate": {
+    "criteria": {
+      "has_copper_block": "2026-03-18 20:39:58 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/blocks/apricorn_door": {
+    "criteria": {
+      "has_planks": "2026-03-18 20:03:07 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/agriculture/razz_berry_smelt_to_dye": {
+    "criteria": {
+      "has_berry": "2026-03-18 20:11:38 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/milk_bottle": {
+    "criteria": {
+      "has_milk_bucket": "2026-03-18 20:14:45 +0100"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2026-03-18 20:38:58 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2026-03-18 20:47:40 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_grate_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2026-03-18 20:39:58 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2026-03-18 20:14:45 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2026-03-18 20:47:40 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2026-03-18 20:39:58 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/blocks/apricorn_sign": {
+    "criteria": {
+      "has_planks": "2026-03-18 20:03:07 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2026-03-18 20:39:58 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/blocks/apricorn_pressure_plate": {
+    "criteria": {
+      "has_planks": "2026-03-18 20:03:07 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/food/cheese": {
+    "criteria": {
+      "has_milk": "2026-03-18 20:14:45 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/blocks/apricorn_fence_gate": {
+    "criteria": {
+      "has_planks": "2026-03-18 20:03:07 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2026-03-18 20:39:58 +0100"
     },
     "done": true
   },

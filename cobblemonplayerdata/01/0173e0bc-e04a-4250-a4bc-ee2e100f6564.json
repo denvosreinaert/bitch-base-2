@@ -8,14 +8,14 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 41,
+    "totalCaptureCount": 44,
     "totalEggsCollected": 0,
     "totalEggsHatched": 6,
-    "totalEvolvedCount": 11,
-    "totalBattleVictoryCount": 466,
+    "totalEvolvedCount": 12,
+    "totalBattleVictoryCount": 484,
     "totalPvPBattleVictoryCount": 1,
-    "totalPvWBattleVictoryCount": 409,
-    "totalPvNBattleVictoryCount": 56,
+    "totalPvWBattleVictoryCount": 418,
+    "totalPvNBattleVictoryCount": 65,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 2,
     "totalTypeCaptureCounts": {
@@ -25,9 +25,9 @@
       "fire": 6,
       "ghost": 2,
       "ground": 3,
-      "rock": 2,
+      "rock": 4,
       "dragon": 4,
-      "water": 6,
+      "water": 7,
       "psychic": 5,
       "normal": 9,
       "poison": 1,
@@ -35,7 +35,7 @@
       "dark": 5,
       "fighting": 1,
       "fairy": 1,
-      "steel": 1,
+      "steel": 2,
       "grass": 1
     },
     "totalDefeatedCounts": {
@@ -74,7 +74,7 @@
       "cobblemon:spinarak": 2,
       "cobblemon:hoothoot": 4,
       "cobblemon:timburr": 1,
-      "cobblemon:drifloon": 2,
+      "cobblemon:drifloon": 3,
       "cobblemon:lillipup": 2,
       "cobblemon:meowth": 2,
       "cobblemon:snorunt": 1,
@@ -178,7 +178,7 @@
       "cobblemon:scraggy": 2,
       "cobblemon:dodrio": 2,
       "cobblemon:scatterbug": 1,
-      "cobblemon:bouffalant": 2,
+      "cobblemon:bouffalant": 3,
       "cobblemon:gloom": 2,
       "cobblemon:poochyena": 1,
       "cobblemon:binacle": 1,
@@ -233,11 +233,13 @@
       "cobblemon:carbink": 1,
       "cobblemon:spiritomb": 1,
       "cobblemon:carnivine": 2,
-      "cobblemon:loudred": 4,
+      "cobblemon:loudred": 6,
       "cobblemon:drifblim": 1,
       "cobblemon:furfrou": 1,
       "cobblemon:klefki": 1,
-      "cobblemon:toedscool": 1
+      "cobblemon:toedscool": 1,
+      "cobblemon:magnemite": 1,
+      "cobblemon:galvantula": 1
     },
     "aspectsCollected": {
       "cobblemon:mareep": [
@@ -405,6 +407,19 @@
       "cobblemon:masquerain": [
         "male",
         "alpha"
+      ],
+      "cobblemon:simipour": [
+        "male",
+        "alpha"
+      ],
+      "cobblemon:haxorus": [
+        "female"
+      ],
+      "cobblemon:bonsly": [
+        "female"
+      ],
+      "cobblemon:aron": [
+        "female"
       ]
     }
   }
