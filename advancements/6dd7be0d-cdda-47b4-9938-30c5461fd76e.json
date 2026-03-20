@@ -455,10 +455,13 @@
   },
   "cobblemon:craft_all_balls": {
     "criteria": {
+      "net_ball": "2026-03-19 20:52:19 +0100",
       "great_ball": "2026-03-14 19:25:24 +0100",
       "poke_ball": "2026-03-15 02:30:45 +0100",
+      "safari_ball": "2026-03-20 00:45:00 +0100",
       "premier_ball": "2026-03-14 23:09:31 +0100",
-      "ultra_ball": "2026-03-14 23:28:18 +0100"
+      "ultra_ball": "2026-03-14 23:28:18 +0100",
+      "fast_ball": "2026-03-20 01:29:37 +0100"
     },
     "done": false
   },
@@ -1015,8 +1018,10 @@
     "criteria": {
       "obtain_sitrus_berry": "2026-03-14 23:51:46 +0100",
       "obtain_lum_berry": "2026-03-19 00:24:31 +0100",
+      "obtain_cheri_berry": "2026-03-19 20:48:50 +0100",
       "obtain_oran_berry": "2026-03-15 22:49:37 +0100",
       "obtain_rawst_berry": "2026-03-15 01:39:14 +0100",
+      "obtain_aspear_berry": "2026-03-19 23:26:11 +0100",
       "obtain_pecha_berry": "2026-03-16 22:37:41 +0100"
     },
     "done": false
@@ -1294,7 +1299,8 @@
   },
   "cobblemon:recipes/balls/level_ball": {
     "criteria": {
-      "has_black_apricorn": "2026-03-15 00:26:31 +0100"
+      "has_black_apricorn": "2026-03-15 00:26:31 +0100",
+      "has_yellow_apricorn": "2026-03-20 00:03:12 +0100"
     },
     "done": false
   },
@@ -1318,7 +1324,8 @@
   },
   "cobblemon:recipes/balls/repeat_ball": {
     "criteria": {
-      "has_black_apricorn": "2026-03-15 00:26:31 +0100"
+      "has_black_apricorn": "2026-03-15 00:26:31 +0100",
+      "has_yellow_apricorn": "2026-03-20 00:03:12 +0100"
     },
     "done": false
   },
@@ -1332,9 +1339,10 @@
     "criteria": {
       "has_blue_apricorn": "2026-03-19 00:43:51 +0100",
       "has_black_apricorn": "2026-03-15 00:26:31 +0100",
-      "has_white_apricorn": "2026-03-17 02:03:26 +0100"
+      "has_white_apricorn": "2026-03-17 02:03:26 +0100",
+      "has_yellow_apricorn": "2026-03-20 00:03:12 +0100"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/balls/dusk_ball": {
     "criteria": {
@@ -1344,9 +1352,10 @@
   },
   "cobblemon:recipes/balls/ultra_ball": {
     "criteria": {
-      "has_black_apricorn": "2026-03-15 00:26:31 +0100"
+      "has_black_apricorn": "2026-03-15 00:26:31 +0100",
+      "has_yellow_apricorn": "2026-03-20 00:03:12 +0100"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/balls/net_ball": {
     "criteria": {
@@ -1358,7 +1367,8 @@
   },
   "cobblemon:recipes/balls/luxury_ball": {
     "criteria": {
-      "has_black_apricorn": "2026-03-15 00:26:31 +0100"
+      "has_black_apricorn": "2026-03-15 00:26:31 +0100",
+      "has_yellow_apricorn": "2026-03-20 00:03:12 +0100"
     },
     "done": false
   },
@@ -4869,9 +4879,10 @@
   },
   "cobblemon:recipes/resist_feather": {
     "criteria": {
+      "has_feather": "2026-03-20 00:59:52 +0100",
       "has_mint": "2026-03-15 22:50:20 +0100"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/consumables/gentle_mint": {
     "criteria": {
@@ -5428,13 +5439,15 @@
   },
   "cobblemon:recipes/balls/safari_ball": {
     "criteria": {
-      "has_white_apricorn": "2026-03-17 02:03:26 +0100"
+      "has_white_apricorn": "2026-03-17 02:03:26 +0100",
+      "has_yellow_apricorn": "2026-03-20 00:03:12 +0100"
     },
     "done": false
   },
   "cobblemon:recipes/balls/fast_ball": {
     "criteria": {
-      "has_white_apricorn": "2026-03-17 02:03:26 +0100"
+      "has_white_apricorn": "2026-03-17 02:03:26 +0100",
+      "has_yellow_apricorn": "2026-03-20 00:03:12 +0100"
     },
     "done": false
   },
@@ -6248,15 +6261,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_deepslate": {
+  "cobblemonextrastructures:outskirt_stand": {
     "criteria": {
-      "has_cobbled_deepslate": "2026-03-19 02:48:37 +0100"
+      "outskirt_stand": "2026-03-18 23:37:35 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
+  "lootr:1barrel": {
     "criteria": {
-      "has_cobbled_deepslate": "2026-03-19 02:48:37 +0100"
+      "opened_barrel": "2026-03-18 23:37:39 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2026-03-18 23:37:47 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2026-03-18 23:37:47 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/stove": {
+    "criteria": {
+      "has_campfire": "2026-03-18 23:38:04 +0100"
     },
     "done": true
   },
@@ -6265,12 +6296,6 @@
       "has_sand": "2026-03-18 23:45:07 +0100"
     },
     "done": true
-  },
-  "cobblemon:recipes/balls/dream_ball": {
-    "criteria": {
-      "has_blue_apricorn": "2026-03-19 00:43:51 +0100"
-    },
-    "done": false
   },
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
@@ -6284,51 +6309,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
-    "criteria": {
-      "has_cobbled_deepslate": "2026-03-19 02:48:37 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/clay": {
-    "criteria": {
-      "has_clay_ball": "2026-03-19 02:48:33 +0100"
-    },
-    "done": true
-  },
-  "cobblemonextrastructures:kurt_house": {
-    "criteria": {
-      "kurt_house": "2026-03-19 00:43:00 +0100"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/held/light_clay": {
-    "criteria": {
-      "has_clay": "2026-03-19 02:48:33 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2026-03-19 02:48:37 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_sand": "2026-03-18 23:45:07 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2026-03-19 02:48:37 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2026-03-19 02:48:37 +0100"
     },
     "done": true
   },
@@ -6338,81 +6321,15 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/azalea_hedge": {
-    "criteria": {
-      "has_minecraft:azalea_leaves": "2026-03-18 23:45:22 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2026-03-19 02:48:37 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_sand": "2026-03-18 23:45:07 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2026-03-19 02:48:37 +0100"
-    },
-    "done": true
-  },
-  "lootr:1barrel": {
-    "criteria": {
-      "opened_barrel": "2026-03-18 23:37:39 +0100"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/campfire_pot/lum_full_heal_in_campfire_pot": {
-    "criteria": {
-      "has_berry": "2026-03-19 00:24:31 +0100"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/balls/quick_ball": {
-    "criteria": {
-      "has_blue_apricorn": "2026-03-19 00:43:51 +0100"
-    },
-    "done": false
-  },
-  "cobblemon:recipes/balls/azure_ball": {
-    "criteria": {
-      "has_blue_apricorn": "2026-03-19 00:43:51 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/brick": {
-    "criteria": {
-      "has_clay_ball": "2026-03-19 02:48:33 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2026-03-19 02:48:37 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_sand": "2026-03-18 23:45:07 +0100"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/blocks/thunder_stone_block": {
-    "criteria": {
-      "has_thunder_stone": "2026-03-18 23:54:06 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/firework_rocket_simple": {
-    "criteria": {
-      "has_gunpowder": "2026-03-18 23:37:47 +0100"
     },
     "done": true
   },
@@ -6428,12 +6345,6 @@
     },
     "done": true
   },
-  "cobblemon:recipes/balls/lure_ball": {
-    "criteria": {
-      "has_blue_apricorn": "2026-03-19 00:43:51 +0100"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2026-03-18 23:45:07 +0100"
@@ -6446,27 +6357,9 @@
     },
     "done": true
   },
-  "cobblemon:recipes/agriculture/blue_apricorn_smelt_to_dye": {
-    "criteria": {
-      "has_apricorn": "2026-03-19 00:43:51 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2026-03-19 02:48:37 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_sand": "2026-03-18 23:45:07 +0100"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/blocks/campfire_pot_blue": {
-    "criteria": {
-      "has_blue_apricorn": "2026-03-19 00:43:51 +0100"
     },
     "done": true
   },
@@ -6482,9 +6375,196 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-03-18 23:45:07 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-03-18 23:45:07 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2026-03-18 23:45:07 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2026-03-18 23:45:07 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/azalea_hedge": {
+    "criteria": {
+      "has_minecraft:azalea_leaves": "2026-03-18 23:45:22 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/blocks/thunder_stone_block": {
+    "criteria": {
+      "has_thunder_stone": "2026-03-18 23:54:06 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:healing_machine": {
+    "criteria": {
+      "use_healing_machine": "2026-03-19 00:02:42 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/campfire_pot/lum_full_heal_in_campfire_pot": {
+    "criteria": {
+      "has_berry": "2026-03-19 00:24:31 +0100"
+    },
+    "done": true
+  },
   "cobblemon:recipes/agriculture/lum_berry_smelt_to_dye": {
     "criteria": {
       "has_berry": "2026-03-19 00:24:31 +0100"
+    },
+    "done": true
+  },
+  "cobblemonextrastructures:kurt_house": {
+    "criteria": {
+      "kurt_house": "2026-03-19 00:43:00 +0100"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "opened_10": "2026-03-19 00:43:50 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/dream_ball": {
+    "criteria": {
+      "has_blue_apricorn": "2026-03-19 00:43:51 +0100"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/balls/quick_ball": {
+    "criteria": {
+      "has_blue_apricorn": "2026-03-19 00:43:51 +0100",
+      "has_yellow_apricorn": "2026-03-20 00:03:12 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/azure_ball": {
+    "criteria": {
+      "has_blue_apricorn": "2026-03-19 00:43:51 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/lure_ball": {
+    "criteria": {
+      "has_blue_apricorn": "2026-03-19 00:43:51 +0100"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/agriculture/blue_apricorn_smelt_to_dye": {
+    "criteria": {
+      "has_apricorn": "2026-03-19 00:43:51 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/blocks/campfire_pot_blue": {
+    "criteria": {
+      "has_blue_apricorn": "2026-03-19 00:43:51 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/campfire_pot/blue_aprijuice": {
+    "criteria": {
+      "has_apricorn": "2026-03-19 00:43:51 +0100"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/balls/great_ball": {
+    "criteria": {
+      "has_blue_apricorn": "2026-03-19 00:43:51 +0100"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2026-03-19 02:48:33 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/light_clay": {
+    "criteria": {
+      "has_clay": "2026-03-19 02:48:33 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2026-03-19 02:48:33 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2026-03-19 02:48:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2026-03-19 02:48:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
+    "criteria": {
+      "has_cobbled_deepslate": "2026-03-19 02:48:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2026-03-19 02:48:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2026-03-19 02:48:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2026-03-19 02:48:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2026-03-19 02:48:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2026-03-19 02:48:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2026-03-19 02:48:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2026-03-19 02:48:37 +0100"
     },
     "done": true
   },
@@ -6497,12 +6577,6 @@
   "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2026-03-19 02:48:37 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/white_concrete_powder": {
-    "criteria": {
-      "has_sand": "2026-03-18 23:45:07 +0100"
     },
     "done": true
   },
@@ -6536,24 +6610,6 @@
     },
     "done": true
   },
-  "cobblemon:recipes/campfire_pot/blue_aprijuice": {
-    "criteria": {
-      "has_apricorn": "2026-03-19 00:43:51 +0100"
-    },
-    "done": false
-  },
-  "farmersdelight:recipes/decorations/stove": {
-    "criteria": {
-      "has_campfire": "2026-03-18 23:38:04 +0100"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/balls/great_ball": {
-    "criteria": {
-      "has_blue_apricorn": "2026-03-19 00:43:51 +0100"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2026-03-19 02:48:37 +0100"
@@ -6563,42 +6619,6 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
     "criteria": {
       "has_cobbled_deepslate": "2026-03-19 02:48:37 +0100"
-    },
-    "done": true
-  },
-  "lootr:10loot": {
-    "criteria": {
-      "opened_10": "2026-03-19 00:43:50 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/recovery_compass": {
-    "criteria": {
-      "has_echo_shard": "2026-03-19 02:49:00 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
-    "criteria": {
-      "has_sand": "2026-03-18 23:45:07 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sandstone": {
-    "criteria": {
-      "has_sand": "2026-03-18 23:45:07 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/gray_concrete_powder": {
-    "criteria": {
-      "has_sand": "2026-03-18 23:45:07 +0100"
-    },
-    "done": true
-  },
-  "cobblemon:healing_machine": {
-    "criteria": {
-      "use_healing_machine": "2026-03-19 00:02:42 +0100"
     },
     "done": true
   },
@@ -6614,15 +6634,1149 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/tnt": {
+  "minecraft:recipes/tools/recovery_compass": {
     "criteria": {
-      "has_gunpowder": "2026-03-18 23:37:47 +0100"
+      "has_echo_shard": "2026-03-19 02:49:00 +0100"
     },
     "done": true
   },
-  "cobblemonextrastructures:outskirt_stand": {
+  "refurbished_furniture:recipes/misc/slicing/brown_dye_from_rotten_flesh": {
     "criteria": {
-      "outskirt_stand": "2026-03-18 23:37:35 +0100"
+      "has_rotten_flesh": "2026-03-20 01:14:32 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2026-03-20 01:28:03 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/lisia_mega_tiara": {
+    "criteria": {
+      "has_keystone": "2026-03-20 00:20:03 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/mega_bracelet_red": {
+    "criteria": {
+      "has_keystone": "2026-03-20 00:20:03 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:obtain_revival_herb": {
+    "criteria": {
+      "check_inv": "2026-03-20 01:17:54 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_table": {
+    "criteria": {
+      "has_acacia_table": "2026-03-20 01:28:03 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2026-03-20 01:23:04 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2026-03-20 00:59:52 +0100"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/acacia_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2026-03-20 01:28:03 +0100"
+    },
+    "done": true
+  },
+  "sootychimneys:recipe/decorations/mud_brick_chimney": {
+    "criteria": {
+      "has_mud": "2026-03-20 00:50:34 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2026-03-20 00:41:18 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_toilet": {
+    "criteria": {
+      "has_minecraft:red_dye": "2026-03-19 19:21:28 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/agriculture/cheri_berry_smelt_to_dye": {
+    "criteria": {
+      "has_berry": "2026-03-19 20:48:50 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_table": {
+    "criteria": {
+      "has_minecraft:acacia_planks": "2026-03-20 01:28:03 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_glazed_terracotta": {
+    "criteria": {
+      "has_white_terracotta": "2026-03-19 19:29:01 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:mega_showdown/mega/find_keystone": {
+    "criteria": {
+      "obtained_keystone": "2026-03-20 00:20:03 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2026-03-19 23:09:08 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_shelf": {
+    "criteria": {
+      "has_acacia_shelf": "2026-03-20 01:28:03 +0100"
+    },
+    "done": true
+  },
+  "comforts:recipes/building_blocks/dye_hammock_red": {
+    "criteria": {
+      "has_needed_dye": "2026-03-19 19:21:28 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_mail_box": {
+    "criteria": {
+      "has_minecraft:acacia_planks": "2026-03-20 01:28:03 +0100"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/nether_bricks_bridge_stair": {
+    "criteria": {
+      "has_planks": "2026-03-19 19:24:39 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2026-03-20 00:59:52 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2026-03-20 00:41:18 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_red_dye": "2026-03-19 19:21:28 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/misc/net_rod": {
+    "criteria": {
+      "has_ball": "2026-03-19 20:52:19 +0100"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/decorations/red_kitchen_storage_cabinet_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-03-19 19:21:28 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/red_cooler_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-03-19 19:21:28 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_cupboard": {
+    "criteria": {
+      "has_acacia_cupboard": "2026-03-20 01:28:03 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/red_trampoline_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-03-19 19:21:28 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2026-03-20 01:10:12 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2026-03-20 00:02:15 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2026-03-20 00:41:18 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_chair": {
+    "criteria": {
+      "has_acacia_chair": "2026-03-20 01:28:03 +0100"
+    },
+    "done": true
+  },
+  "comforts:recipes/building_blocks/dye_sleeping_bag_red": {
+    "criteria": {
+      "has_needed_dye": "2026-03-19 19:21:28 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/evolution/electirizer": {
+    "criteria": {
+      "has_redstone": "2026-03-19 23:09:08 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/misc/safari_rod": {
+    "criteria": {
+      "has_ball": "2026-03-20 00:45:00 +0100"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/packed_mud": {
+    "criteria": {
+      "has_mud": "2026-03-20 00:50:34 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:craft_apricorn_balls": {
+    "criteria": {
+      "fast_ball": "2026-03-20 01:29:37 +0100"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2026-03-20 01:10:12 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/nest_ball": {
+    "criteria": {
+      "has_yellow_apricorn": "2026-03-20 00:03:12 +0100"
+    },
+    "done": false
+  },
+  "handcrafted:recipes/misc/acacia_desk": {
+    "criteria": {
+      "has_acacia_desk": "2026-03-20 01:28:03 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2026-03-20 01:28:03 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_cutting_board": {
+    "criteria": {
+      "has_minecraft:acacia_planks": "2026-03-20 01:28:03 +0100"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/acacia_rail_bridge": {
+    "criteria": {
+      "has_planks": "2026-03-20 01:28:03 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_chair": {
+    "criteria": {
+      "has_minecraft:acacia_planks": "2026-03-20 01:28:03 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2026-03-19 23:09:08 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/muscle_feather": {
+    "criteria": {
+      "has_feather": "2026-03-20 00:59:52 +0100"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2026-03-20 01:28:03 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2026-03-19 23:00:58 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_fancy_bed": {
+    "criteria": {
+      "has_acacia_fancy_bed": "2026-03-20 01:28:03 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2026-03-19 23:09:08 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/string_from_feather": {
+    "criteria": {
+      "has_feather": "2026-03-20 00:59:52 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_dining_bench": {
+    "criteria": {
+      "has_acacia_dining_bench": "2026-03-20 01:28:03 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_corner_trim": {
+    "criteria": {
+      "has_acacia_corner_trim": "2026-03-20 01:28:03 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/keystone_block": {
+    "criteria": {
+      "has_keystone": "2026-03-20 00:20:03 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/magnet": {
+    "criteria": {
+      "has_redstone": "2026-03-19 23:09:08 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2026-03-20 00:34:22 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/mega_bracelet_green": {
+    "criteria": {
+      "has_keystone": "2026-03-20 00:20:03 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_bed": {
+    "criteria": {
+      "has_needed_dye": "2026-03-19 19:21:28 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2026-03-20 00:41:18 +0100"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/nether_bricks_bridge_pier": {
+    "criteria": {
+      "has_planks": "2026-03-19 19:24:39 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/lysandre_ring": {
+    "criteria": {
+      "has_keystone": "2026-03-20 00:20:03 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_wool": {
+    "criteria": {
+      "has_needed_dye": "2026-03-19 19:21:28 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2026-03-20 01:28:03 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/mega_bracelet_black": {
+    "criteria": {
+      "has_keystone": "2026-03-20 00:20:03 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2026-03-19 19:21:28 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2026-03-19 23:01:20 +0100"
+    },
+    "done": true
+  },
+  "sootychimneys:recipe/decorations/brick_chimney": {
+    "criteria": {
+      "has_brick": "2026-03-20 01:12:28 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/brendan_mega_cuff": {
+    "criteria": {
+      "has_keystone": "2026-03-20 00:20:03 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2026-03-20 00:59:52 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/red_grill_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-03-19 19:21:28 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2026-03-19 19:24:39 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_drawer": {
+    "criteria": {
+      "has_minecraft:acacia_planks": "2026-03-20 01:28:03 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/campfire_pot/ice_heal_in_campfire_pot": {
+    "criteria": {
+      "has_berry": "2026-03-19 23:26:11 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/red_sofa_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-03-19 19:21:28 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_minecraft:acacia_planks": "2026-03-20 01:28:03 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/korrina_glove": {
+    "criteria": {
+      "has_keystone": "2026-03-20 00:20:03 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/room_service": {
+    "criteria": {
+      "has_cart": "2026-03-19 23:01:20 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/red_toilet": {
+    "criteria": {
+      "has_dye": "2026-03-19 19:21:28 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2026-03-19 23:09:08 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2026-03-19 19:24:39 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_minecraft:red_dye": "2026-03-19 19:21:28 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_couch": {
+    "criteria": {
+      "has_acacia_couch": "2026-03-20 01:28:03 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2026-03-20 00:34:22 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/swift_feather": {
+    "criteria": {
+      "has_feather": "2026-03-20 00:59:52 +0100"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2026-03-19 19:24:39 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/mega_bracelet_pink": {
+    "criteria": {
+      "has_keystone": "2026-03-20 00:20:03 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2026-03-20 01:10:12 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:mega_showdown/hidden/all_gimmick": {
+    "criteria": {
+      "bracelets": "2026-03-20 00:20:33 +0100"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_rose_red": "2026-03-19 19:21:28 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:mega_showdown/mega/get_any_mega_bracelet": {
+    "criteria": {
+      "obtained_bracelets": "2026-03-20 00:20:33 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oven": {
+    "criteria": {
+      "has_oven": "2026-03-20 01:12:28 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/blocks/dawn_stone_block": {
+    "criteria": {
+      "has_dawn_stone": "2026-03-20 01:19:06 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_pillar_trim": {
+    "criteria": {
+      "has_acacia_pillar_trim": "2026-03-20 01:28:03 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/red_kitchen_cabinetry_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-03-19 19:21:28 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2026-03-20 01:10:12 +0100"
+    },
+    "done": true
+  },
+  "rctmod:trainers/defeat_gym_leader_roark_1": {
+    "criteria": {
+      "defeat_gym_leader_roark_1": "2026-03-20 00:16:28 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2026-03-19 23:00:58 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_bench": {
+    "criteria": {
+      "has_acacia_bench": "2026-03-20 01:28:03 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/campfire_pot/yellow_aprijuice": {
+    "criteria": {
+      "has_apricorn": "2026-03-20 00:03:12 +0100"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2026-03-19 23:01:20 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2026-03-20 01:22:59 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/genius_feather": {
+    "criteria": {
+      "has_feather": "2026-03-20 00:59:52 +0100"
+    },
+    "done": false
+  },
+  "mega_showdown:recipes/misc/mega_bracelet_blue": {
+    "criteria": {
+      "has_keystone": "2026-03-20 00:20:03 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/evolution/peat_block": {
+    "criteria": {
+      "has_mud": "2026-03-20 00:50:34 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2026-03-20 01:28:03 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2026-03-19 20:29:04 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2026-03-20 01:11:25 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:mega_showdown/mega/craft_mega_accessories": {
+    "criteria": {
+      "archie_anchor": "2026-03-20 00:20:33 +0100"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/red_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2026-03-19 19:22:33 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2026-03-20 00:59:52 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_drawer": {
+    "criteria": {
+      "has_minecraft:acacia_planks": "2026-03-20 01:28:03 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_kitchen_cabinetry": {
+    "criteria": {
+      "has_minecraft:red_dye": "2026-03-19 19:21:28 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2026-03-20 01:28:03 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2026-03-19 23:09:08 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_drawer": {
+    "criteria": {
+      "has_acacia_drawer": "2026-03-20 01:28:03 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/red_kitchen_sink_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-03-19 19:21:28 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_kitchen_sink": {
+    "criteria": {
+      "has_minecraft:red_dye": "2026-03-19 19:21:28 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2026-03-20 01:12:28 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2026-03-20 00:34:22 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2026-03-20 00:59:52 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2026-03-20 01:28:03 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2026-03-19 19:24:39 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/health_feather": {
+    "criteria": {
+      "has_feather": "2026-03-20 00:59:52 +0100"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2026-03-19 19:24:39 +0100"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_nether_bricks_bridge": {
+    "criteria": {
+      "has_planks": "2026-03-19 19:24:39 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2026-03-20 00:03:13 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2026-03-20 00:41:18 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_bath": {
+    "criteria": {
+      "has_minecraft:red_dye": "2026-03-19 19:21:28 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_side_table": {
+    "criteria": {
+      "has_acacia_side_table": "2026-03-20 01:28:03 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2026-03-20 00:34:22 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2026-03-19 19:24:39 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/archie_anchor": {
+    "criteria": {
+      "has_keystone": "2026-03-20 00:20:03 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/clever_feather": {
+    "criteria": {
+      "has_feather": "2026-03-20 00:59:52 +0100"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/consumables/heal_powder": {
+    "criteria": {
+      "has_herb": "2026-03-20 01:17:54 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_carpet": {
+    "criteria": {
+      "has_needed_dye": "2026-03-19 19:21:28 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/red_lamp_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-03-19 19:21:28 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2026-03-19 23:01:20 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/agriculture/yellow_apricorn_smelt_to_dye": {
+    "criteria": {
+      "has_apricorn": "2026-03-20 00:03:12 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2026-03-19 23:13:10 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_desk": {
+    "criteria": {
+      "has_minecraft:acacia_planks": "2026-03-20 01:28:03 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2026-03-19 23:09:08 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_nightstand": {
+    "criteria": {
+      "has_acacia_nightstand": "2026-03-20 01:28:03 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2026-03-20 00:03:21 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/mega_bracelet": {
+    "criteria": {
+      "has_keystone": "2026-03-20 00:20:03 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/campfire_pot/paralyze_heal_in_campfire_pot": {
+    "criteria": {
+      "has_berry": "2026-03-19 20:48:50 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/skillet": {
+    "criteria": {
+      "has_brick": "2026-03-20 01:12:28 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2026-03-20 01:28:03 +0100"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/nether_bricks_bridge": {
+    "criteria": {
+      "has_planks": "2026-03-19 19:24:39 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/mega_ring": {
+    "criteria": {
+      "has_keystone": "2026-03-20 00:20:03 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2026-03-19 19:24:39 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2026-03-20 01:12:28 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_counter": {
+    "criteria": {
+      "has_acacia_counter": "2026-03-20 01:28:03 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/misc/fast_rod": {
+    "criteria": {
+      "has_ball": "2026-03-20 01:29:37 +0100"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2026-03-19 23:00:58 +0100"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_mossy_stone_bricks_bridge": {
+    "criteria": {
+      "has_planks": "2026-03-20 01:10:12 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/citrine_ball": {
+    "criteria": {
+      "has_yellow_apricorn": "2026-03-20 00:03:12 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/blocks/campfire_pot_yellow": {
+    "criteria": {
+      "has_yellow_apricorn": "2026-03-20 00:03:12 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2026-03-19 23:01:20 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2026-03-19 19:24:39 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/red_stool_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-03-19 19:21:28 +0100"
+    },
+    "done": true
+  },
+  "rctmod:trainers/defeat_any": {
+    "criteria": {
+      "defeat_any": "2026-03-20 00:16:28 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_cabinetry": {
+    "criteria": {
+      "has_minecraft:acacia_planks": "2026-03-20 01:28:03 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/friend_ball": {
+    "criteria": {
+      "has_yellow_apricorn": "2026-03-20 00:03:12 +0100"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_red_dye": "2026-03-19 19:21:28 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2026-03-19 23:01:20 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2026-03-20 01:23:04 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/may_bracelet": {
+    "criteria": {
+      "has_keystone": "2026-03-20 00:20:03 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2026-03-20 01:10:12 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_candle": {
+    "criteria": {
+      "has_red_dye": "2026-03-19 19:21:28 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/exp_share": {
+    "criteria": {
+      "has_the_recipe": "2026-03-20 00:23:22 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2026-03-19 23:09:08 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_crate": {
+    "criteria": {
+      "has_minecraft:acacia_planks": "2026-03-20 01:28:03 +0100"
+    },
+    "done": true
+  },
+  "lootr:pot_opened": {
+    "criteria": {
+      "pot_opened": "2026-03-20 01:12:26 +0100"
+    },
+    "done": true
+  },
+  "lootr:archaeologist": {
+    "criteria": {
+      "got_pot": "2026-03-20 01:12:26 +0100"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2026-03-20 01:28:03 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_basin": {
+    "criteria": {
+      "has_minecraft:red_dye": "2026-03-19 19:21:28 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/mega_bracelet_yellow": {
+    "criteria": {
+      "has_keystone": "2026-03-20 00:20:03 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2026-03-20 01:14:32 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_red_dye": "2026-03-19 19:21:28 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2026-03-19 19:24:39 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2026-03-20 01:12:28 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/red_kitchen_drawer_from_dyeing": {
+    "criteria": {
+      "has_dye": "2026-03-19 19:21:28 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/keystone": {
+    "criteria": {
+      "has_keystone": "2026-03-20 00:20:03 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/agriculture/aspear_berry_smelt_to_dye": {
+    "criteria": {
+      "has_berry": "2026-03-19 23:26:11 +0100"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/rope_acacia_bridge": {
+    "criteria": {
+      "has_planks": "2026-03-20 01:28:03 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2026-03-20 01:10:12 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/maxie_glasses": {
+    "criteria": {
+      "has_keystone": "2026-03-20 00:20:03 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2026-03-19 23:09:08 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_kitchen_drawer": {
+    "criteria": {
+      "has_minecraft:red_dye": "2026-03-19 19:21:28 +0100"
     },
     "done": true
   },

@@ -566,8 +566,10 @@
       "obtain_lum_berry": "2026-03-11 16:04:08 +0100",
       "obtain_oran_berry": "2026-03-03 22:15:39 +0100",
       "obtain_charti_berry": "2026-03-11 17:27:37 +0100",
+      "obtain_payapa_berry": "2026-03-19 19:22:48 +0100",
       "obtain_chilan_berry": "2026-03-14 17:43:08 +0100",
       "obtain_tanga_berry": "2026-03-14 18:19:36 +0100",
+      "obtain_babiri_berry": "2026-03-19 19:45:41 +0100",
       "obtain_persim_berry": "2026-03-03 21:57:25 +0100",
       "obtain_rindo_berry": "2026-03-13 19:39:44 +0100",
       "obtain_figy_berry": "2026-03-12 23:14:03 +0100",
@@ -667,9 +669,10 @@
   "lootr:social": {
     "criteria": {
       "opened_barrel": "2026-03-11 00:15:55 +0100",
-      "opened_chest": "2026-03-03 21:59:04 +0100"
+      "opened_chest": "2026-03-03 21:59:04 +0100",
+      "opened_cart": "2026-03-19 22:14:26 +0100"
     },
-    "done": false
+    "done": true
   },
   "lootr:1chest": {
     "criteria": {
@@ -9340,27 +9343,93 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
-    "criteria": {
-      "has_copper_block": "2026-03-18 20:39:58 +0100"
-    },
-    "done": true
-  },
   "cobblemon:recipes/blocks/apricorn_trapdoor": {
     "criteria": {
       "has_planks": "2026-03-18 20:03:07 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cut_copper": {
+  "cobblemon:recipes/blocks/apricorn_button": {
+    "criteria": {
+      "has_planks": "2026-03-18 20:03:07 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/blocks/apricorn_fence": {
+    "criteria": {
+      "has_planks": "2026-03-18 20:03:07 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/blocks/apricorn_door": {
+    "criteria": {
+      "has_planks": "2026-03-18 20:03:07 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/blocks/apricorn_sign": {
+    "criteria": {
+      "has_planks": "2026-03-18 20:03:07 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/blocks/apricorn_pressure_plate": {
+    "criteria": {
+      "has_planks": "2026-03-18 20:03:07 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/blocks/apricorn_fence_gate": {
+    "criteria": {
+      "has_planks": "2026-03-18 20:03:07 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/agriculture/razz_berry_smelt_to_dye": {
+    "criteria": {
+      "has_berry": "2026-03-18 20:11:38 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2026-03-18 20:14:45 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/milk_bottle": {
+    "criteria": {
+      "has_milk_bucket": "2026-03-18 20:14:45 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2026-03-18 20:14:45 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/food/cheese": {
+    "criteria": {
+      "has_milk": "2026-03-18 20:14:45 +0100"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2026-03-18 20:38:58 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2026-03-18 20:39:58 +0100"
     },
     "done": true
   },
-  "cobblemon:recipes/blocks/apricorn_button": {
+  "minecraft:recipes/building_blocks/cut_copper": {
     "criteria": {
-      "has_planks": "2026-03-18 20:03:07 +0100"
+      "has_copper_block": "2026-03-18 20:39:58 +0100"
     },
     "done": true
   },
@@ -9376,27 +9445,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/glow_berry_custard": {
-    "criteria": {
-      "has_any_ingredient": "2026-03-18 20:14:45 +0100"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/blocks/apricorn_fence": {
-    "criteria": {
-      "has_planks": "2026-03-18 20:03:07 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/copper_bulb": {
     "criteria": {
       "has_copper_block": "2026-03-18 20:39:58 +0100"
-    },
-    "done": true
-  },
-  "rctmod:trainers/defeat_team_galactic_boss_cyrus_2": {
-    "criteria": {
-      "defeat_team_galactic_boss_cyrus_2": "2026-03-18 21:13:45 +0100"
     },
     "done": true
   },
@@ -9406,51 +9457,9 @@
     },
     "done": true
   },
-  "cobblemon:recipes/blocks/apricorn_door": {
-    "criteria": {
-      "has_planks": "2026-03-18 20:03:07 +0100"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/agriculture/razz_berry_smelt_to_dye": {
-    "criteria": {
-      "has_berry": "2026-03-18 20:11:38 +0100"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/milk_bottle": {
-    "criteria": {
-      "has_milk_bucket": "2026-03-18 20:14:45 +0100"
-    },
-    "done": true
-  },
-  "artifacts:chest_slayer": {
-    "criteria": {
-      "kill_mimic": "2026-03-18 20:38:58 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/nether_wart_block": {
-    "criteria": {
-      "has_nether_wart": "2026-03-18 20:47:40 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/copper_grate_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2026-03-18 20:39:58 +0100"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/pumpkin_soup": {
-    "criteria": {
-      "has_any_ingredient": "2026-03-18 20:14:45 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_nether_bricks": {
-    "criteria": {
-      "has_nether_wart": "2026-03-18 20:47:40 +0100"
     },
     "done": true
   },
@@ -9460,39 +9469,411 @@
     },
     "done": true
   },
-  "cobblemon:recipes/blocks/apricorn_sign": {
-    "criteria": {
-      "has_planks": "2026-03-18 20:03:07 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/copper_ingot": {
     "criteria": {
       "has_copper_block": "2026-03-18 20:39:58 +0100"
     },
     "done": true
   },
-  "cobblemon:recipes/blocks/apricorn_pressure_plate": {
-    "criteria": {
-      "has_planks": "2026-03-18 20:03:07 +0100"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/food/cheese": {
-    "criteria": {
-      "has_milk": "2026-03-18 20:14:45 +0100"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/blocks/apricorn_fence_gate": {
-    "criteria": {
-      "has_planks": "2026-03-18 20:03:07 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2026-03-18 20:39:58 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2026-03-18 20:47:40 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2026-03-18 20:47:40 +0100"
+    },
+    "done": true
+  },
+  "rctmod:trainers/defeat_team_galactic_boss_cyrus_2": {
+    "criteria": {
+      "defeat_team_galactic_boss_cyrus_2": "2026-03-18 21:13:45 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_grate": {
+    "criteria": {
+      "has_waxed_copper_block": "2026-03-19 20:54:14 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/punching_glove": {
+    "criteria": {
+      "has_wool": "2026-03-19 22:59:55 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/tuff_brick_wall_from_polished_tuff_stonecutting": {
+    "criteria": {
+      "has_polished_tuff": "2026-03-19 19:35:05 +0100"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/granite_bridge": {
+    "criteria": {
+      "has_planks": "2026-03-19 21:19:30 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_stairs_from_polished_tuff_stonecutting": {
+    "criteria": {
+      "has_polished_tuff": "2026-03-19 19:35:05 +0100"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/granite_bridge_stair": {
+    "criteria": {
+      "has_planks": "2026-03-19 21:19:30 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2026-03-19 21:19:30 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/granite_stepping_stones": {
+    "criteria": {
+      "has_minecraft:granite": "2026-03-19 21:19:30 +0100"
+    },
+    "done": true
+  },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2026-03-19 22:14:26 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/agriculture/babiri_berry_smelt_to_dye": {
+    "criteria": {
+      "has_berry": "2026-03-19 19:45:41 +0100"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/granite_bridge_pier": {
+    "criteria": {
+      "has_planks": "2026-03-19 21:19:30 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2026-03-19 21:19:30 +0100"
+    },
+    "done": true
+  },
+  "comforts:recipes/decorations/sleeping_bag_red": {
+    "criteria": {
+      "has_red_wool": "2026-03-19 22:59:55 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_tuff_stairs_from_polished_tuff_stonecutting": {
+    "criteria": {
+      "has_polished_tuff": "2026-03-19 19:35:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_tuff_slab": {
+    "criteria": {
+      "has_polished_tuff": "2026-03-19 19:35:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2026-03-19 21:19:30 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_waxed_copper_block": {
+    "criteria": {
+      "has_waxed_copper_block": "2026-03-19 20:54:14 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2026-03-19 22:17:03 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2026-03-19 21:19:30 +0100"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_granite_bridge": {
+    "criteria": {
+      "has_planks": "2026-03-19 21:19:30 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2026-03-19 21:19:30 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/granite_pillar_trim": {
+    "criteria": {
+      "has_granite_pillar_trim": "2026-03-19 21:19:30 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/red_cushion": {
+    "criteria": {
+      "has_red_cushion": "2026-03-19 22:59:55 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/air_balloon": {
+    "criteria": {
+      "has_membrane": "2026-03-19 22:11:15 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2026-03-19 22:59:55 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2026-03-19 21:19:30 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2026-03-19 21:19:30 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_chiseled_copper_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2026-03-19 20:54:14 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_tuff_slab_from_polished_tuff_stonecutting": {
+    "criteria": {
+      "has_polished_tuff": "2026-03-19 19:35:05 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/granite_corner_trim": {
+    "criteria": {
+      "has_granite_corner_trim": "2026-03-19 21:19:30 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2026-03-19 21:19:30 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/red_sheet": {
+    "criteria": {
+      "has_red_sheet": "2026-03-19 22:59:55 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2026-03-19 20:38:20 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2026-03-19 22:11:31 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_tuff_stairs": {
+    "criteria": {
+      "has_polished_tuff": "2026-03-19 19:35:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_tuff_bricks_from_polished_tuff_stonecutting": {
+    "criteria": {
+      "has_polished_tuff": "2026-03-19 19:35:05 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/blocks/apricorn_wood": {
+    "criteria": {
+      "has_log": "2026-03-19 21:13:25 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2026-03-19 21:19:30 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/phantom_trophy": {
+    "criteria": {
+      "has_phantom_trophy": "2026-03-19 22:11:15 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2026-03-19 22:17:03 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2026-03-19 22:59:55 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/waxed_copper_bulb": {
+    "criteria": {
+      "has_waxed_copper_block": "2026-03-19 20:54:14 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper": {
+    "criteria": {
+      "has_waxed_copper_block": "2026-03-19 20:54:14 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/blocks/apricorn_planks": {
+    "criteria": {
+      "has_the_recipe": "2026-03-19 21:10:43 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/under_lock_and_key": {
+    "criteria": {
+      "under_lock_and_key": "2026-03-19 20:36:30 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_tuff_wall_from_polished_tuff_stonecutting": {
+    "criteria": {
+      "has_polished_tuff": "2026-03-19 19:35:05 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/agriculture/payapa_berry_smelt_to_dye": {
+    "criteria": {
+      "has_berry": "2026-03-19 19:22:48 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_slab_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2026-03-19 20:54:14 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/food/dough": {
+    "criteria": {
+      "has_water": "2026-03-19 22:11:31 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_tuff_wall": {
+    "criteria": {
+      "has_polished_tuff": "2026-03-19 19:35:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2026-03-19 22:17:03 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2026-03-19 22:59:55 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2026-03-19 20:54:14 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2026-03-19 21:19:30 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/covert_cloak": {
+    "criteria": {
+      "has_membrane": "2026-03-19 22:11:15 +0100"
+    },
+    "done": true
+  },
+  "comforts:recipes/decorations/hammock_red": {
+    "criteria": {
+      "has_red_wool": "2026-03-19 22:59:55 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_stairs_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2026-03-19 20:54:14 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_bricks": {
+    "criteria": {
+      "has_polished_tuff": "2026-03-19 19:35:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_grate_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2026-03-19 20:54:14 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/evolution/reaper_cloth": {
+    "criteria": {
+      "has_membrane": "2026-03-19 22:11:15 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_bricks_from_polished_tuff_stonecutting": {
+    "criteria": {
+      "has_polished_tuff": "2026-03-19 19:35:05 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/terrain_extender": {
+    "criteria": {
+      "has_bucket": "2026-03-19 22:11:32 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_slab_from_polished_tuff_stonecutting": {
+    "criteria": {
+      "has_polished_tuff": "2026-03-19 19:35:05 +0100"
     },
     "done": true
   },

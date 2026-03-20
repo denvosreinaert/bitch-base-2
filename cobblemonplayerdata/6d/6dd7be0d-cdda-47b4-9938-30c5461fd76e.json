@@ -4,36 +4,52 @@
   "starterLocked": false,
   "starterSelected": true,
   "starterUUID": "32e99513-dd69-4099-b3f3-7d74cb1c8334",
-  "keyItems": [],
+  "keyItems": [
+    "cobblemon:key_stone"
+  ],
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 40,
+    "totalCaptureCount": 59,
     "totalEggsCollected": 2,
-    "totalEggsHatched": 32,
+    "totalEggsHatched": 38,
     "totalEvolvedCount": 1,
-    "totalBattleVictoryCount": 8,
+    "totalBattleVictoryCount": 33,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 8,
-    "totalPvNBattleVictoryCount": 0,
-    "totalShinyCaptureCount": 1,
-    "totalTradedCount": 4,
+    "totalPvWBattleVictoryCount": 32,
+    "totalPvNBattleVictoryCount": 1,
+    "totalShinyCaptureCount": 2,
+    "totalTradedCount": 8,
     "totalTypeCaptureCounts": {
-      "water": 2,
-      "electric": 5,
-      "normal": 14,
-      "bug": 5,
-      "flying": 3,
-      "poison": 1,
-      "fairy": 2,
-      "dark": 4,
-      "grass": 5,
-      "fire": 4,
+      "water": 7,
+      "electric": 6,
+      "normal": 18,
+      "bug": 8,
+      "flying": 5,
+      "poison": 4,
+      "fairy": 3,
+      "dark": 5,
+      "grass": 8,
+      "fire": 5,
       "ground": 1,
       "dragon": 1,
       "psychic": 1
     },
-    "totalDefeatedCounts": {},
+    "totalDefeatedCounts": {
+      "cobblemon:mareep": 2,
+      "cobblemon:lechonk": 2,
+      "cobblemon:bunnelby": 1,
+      "cobblemon:munna": 1,
+      "cobblemon:patrat": 1,
+      "cobblemon:rellor": 1,
+      "cobblemon:igglybuff": 1,
+      "cobblemon:psyduck": 2,
+      "cobblemon:spearow": 2,
+      "cobblemon:ledyba": 1,
+      "cobblemon:joltik": 2,
+      "cobblemon:spinarak": 2,
+      "cobblemon:paras": 2
+    },
     "aspectsCollected": {
       "cobblemon:chewtle": [
         "female"
@@ -161,6 +177,57 @@
       "cobblemon:grumpig": [
         "female",
         "alpha"
+      ],
+      "cobblemon:audino": [
+        "female"
+      ],
+      "cobblemon:scorbunny": [
+        "male"
+      ],
+      "cobblemon:nidoranf": [
+        "female"
+      ],
+      "cobblemon:masquerain": [
+        "female",
+        "alpha"
+      ],
+      "cobblemon:brionne": [
+        "shiny",
+        "male"
+      ],
+      "cobblemon:roserade": [
+        "female",
+        "alpha"
+      ],
+      "cobblemon:budew": [
+        "male"
+      ],
+      "cobblemon:mabosstiff": [
+        "female",
+        "alpha"
+      ],
+      "cobblemon:maushold": [
+        "genderless",
+        "maushold-family-four",
+        "alpha"
+      ],
+      "cobblemon:furret": [
+        "female"
+      ],
+      "cobblemon:blitzle": [
+        "female"
+      ],
+      "cobblemon:kricketot": [
+        "male"
+      ],
+      "cobblemon:petilil": [
+        "female"
+      ],
+      "cobblemon:fletchling": [
+        "male"
+      ],
+      "cobblemon:cutiefly": [
+        "male"
       ]
     }
   }

@@ -12,34 +12,34 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 189,
-    "totalEggsCollected": 44,
-    "totalEggsHatched": 624,
+    "totalCaptureCount": 207,
+    "totalEggsCollected": 268,
+    "totalEggsHatched": 1084,
     "totalEvolvedCount": 20,
-    "totalBattleVictoryCount": 621,
+    "totalBattleVictoryCount": 636,
     "totalPvPBattleVictoryCount": 2,
-    "totalPvWBattleVictoryCount": 230,
+    "totalPvWBattleVictoryCount": 245,
     "totalPvNBattleVictoryCount": 389,
     "totalShinyCaptureCount": 14,
-    "totalTradedCount": 66,
+    "totalTradedCount": 85,
     "totalTypeCaptureCounts": {
-      "normal": 26,
-      "water": 22,
-      "poison": 17,
-      "ground": 18,
+      "normal": 27,
+      "water": 24,
+      "poison": 18,
+      "ground": 28,
       "electric": 13,
-      "fire": 19,
+      "fire": 20,
       "fighting": 14,
       "grass": 20,
       "bug": 17,
       "rock": 7,
       "dragon": 8,
-      "flying": 20,
-      "fairy": 17,
-      "ghost": 10,
+      "flying": 22,
+      "fairy": 19,
+      "ghost": 12,
       "psychic": 21,
-      "ice": 4,
-      "steel": 21,
+      "ice": 12,
+      "steel": 22,
       "dark": 13
     },
     "totalDefeatedCounts": {
@@ -120,7 +120,9 @@
       "cobblemon:sableye": 1,
       "cobblemon:magnemite": 1,
       "cobblemon:glimmora": 1,
-      "cobblemon:klinklang": 1
+      "cobblemon:klinklang": 1,
+      "cobblemon:mabosstiff": 1,
+      "cobblemon:mienshao": 1
     },
     "aspectsCollected": {
       "cobblemon:kangaskhan": [
@@ -558,7 +560,8 @@
         "female"
       ],
       "cobblemon:charcadet": [
-        "female"
+        "female",
+        "male"
       ],
       "cobblemon:rockruff": [
         "male",
@@ -884,6 +887,52 @@
       ],
       "cobblemon:magnemite": [
         "genderless"
+      ],
+      "cobblemon:staraptor": [
+        "male",
+        "alpha"
+      ],
+      "cobblemon:impidimp": [
+        "male"
+      ],
+      "cobblemon:chingling": [
+        "male"
+      ],
+      "cobblemon:crobat": [
+        "female"
+      ],
+      "cobblemon:mareanie": [
+        "female",
+        "male"
+      ],
+      "cobblemon:cleffa": [
+        "female"
+      ],
+      "cobblemon:drilbur": [
+        "male"
+      ],
+      "cobblemon:whiscash": [
+        "female",
+        "alpha"
+      ],
+      "cobblemon:polteageist": [
+        "genderless",
+        "phony",
+        "alpha"
+      ],
+      "cobblemon:corsola": [
+        "male",
+        "galarian"
+      ],
+      "cobblemon:machop": [
+        "male"
+      ],
+      "cobblemon:swinub": [
+        "male",
+        "female"
+      ],
+      "cobblemon:finizen": [
+        "male"
       ]
     }
   }
