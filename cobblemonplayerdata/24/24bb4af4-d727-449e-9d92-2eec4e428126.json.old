@@ -1,0 +1,147 @@
+{
+  "uuid": "24bb4af4-d727-449e-9d92-2eec4e428126",
+  "starterPrompted": true,
+  "starterLocked": false,
+  "starterSelected": true,
+  "starterUUID": "74961cff-de5a-4ff1-8006-4120991e8cbd",
+  "keyItems": [],
+  "battleTheme": "cobblemon:battle.pvp.default",
+  "extraData": {},
+  "advancementData": {
+    "totalCaptureCount": 24,
+    "totalEggsCollected": 0,
+    "totalEggsHatched": 12,
+    "totalEvolvedCount": 4,
+    "totalBattleVictoryCount": 50,
+    "totalPvPBattleVictoryCount": 0,
+    "totalPvWBattleVictoryCount": 27,
+    "totalPvNBattleVictoryCount": 23,
+    "totalShinyCaptureCount": 1,
+    "totalTradedCount": 1,
+    "totalTypeCaptureCounts": {
+      "grass": 3,
+      "ground": 4,
+      "bug": 2,
+      "electric": 3,
+      "water": 4,
+      "poison": 3,
+      "flying": 2,
+      "fire": 4,
+      "steel": 1,
+      "psychic": 1,
+      "fairy": 1,
+      "normal": 1,
+      "dark": 3,
+      "fighting": 2
+    },
+    "totalDefeatedCounts": {
+      "cobblemon:diglett": 1,
+      "cobblemon:patrat": 1,
+      "cobblemon:pidgey": 1,
+      "cobblemon:taillow": 1,
+      "cobblemon:lechonk": 1,
+      "cobblemon:espurr": 1,
+      "cobblemon:gimmighoul": 2,
+      "cobblemon:cacnea": 2,
+      "cobblemon:scraggy": 2,
+      "cobblemon:silicobra": 1,
+      "cobblemon:rellor": 1,
+      "cobblemon:ekans": 1,
+      "cobblemon:rattata": 1
+    },
+    "aspectsCollected": {
+      "cobblemon:skiddo": [
+        "female"
+      ],
+      "cobblemon:mudbray": [
+        "female"
+      ],
+      "cobblemon:joltik": [
+        "female"
+      ],
+      "cobblemon:tentacool": [
+        "female"
+      ],
+      "cobblemon:rowlet": [
+        "male"
+      ],
+      "cobblemon:cyndaquil": [
+        "male"
+      ],
+      "cobblemon:meowth": [
+        "female",
+        "galarian"
+      ],
+      "cobblemon:buizel": [
+        "male"
+      ],
+      "cobblemon:woobat": [
+        "female"
+      ],
+      "cobblemon:rellor": [
+        "female"
+      ],
+      "cobblemon:floette": [
+        "female",
+        "flower-yellow"
+      ],
+      "cobblemon:ditto": [
+        "genderless"
+      ],
+      "cobblemon:sandile": [
+        "female"
+      ],
+      "cobblemon:darumaka": [
+        "female"
+      ],
+      "cobblemon:sandslash": [
+        "female",
+        "alpha"
+      ],
+      "cobblemon:falinks": [
+        "genderless"
+      ],
+      "cobblemon:scraggy": [
+        "female"
+      ],
+      "cobblemon:thwackey": [
+        "male"
+      ],
+      "cobblemon:cacturne": [
+        "male",
+        "alpha"
+      ],
+      "cobblemon:camerupt": [
+        "female",
+        "alpha"
+      ],
+      "cobblemon:metang": [
+        "genderless"
+      ],
+      "cobblemon:pyukumuku": [
+        "male",
+        "alpha"
+      ],
+      "cobblemon:quilava": [
+        "male"
+      ],
+      "cobblemon:dartrix": [
+        "male"
+      ],
+      "cobblemon:magby": [
+        "male"
+      ],
+      "cobblemon:lanturn": [
+        "female",
+        "alpha"
+      ],
+      "cobblemon:gulpin": [
+        "shiny",
+        "male"
+      ],
+      "cobblemon:toxel": [
+        "male"
+      ]
+    }
+  }
+}

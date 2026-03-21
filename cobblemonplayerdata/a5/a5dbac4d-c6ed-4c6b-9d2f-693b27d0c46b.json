@@ -12,31 +12,31 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 207,
-    "totalEggsCollected": 268,
-    "totalEggsHatched": 1084,
+    "totalCaptureCount": 220,
+    "totalEggsCollected": 296,
+    "totalEggsHatched": 1680,
     "totalEvolvedCount": 20,
-    "totalBattleVictoryCount": 636,
+    "totalBattleVictoryCount": 648,
     "totalPvPBattleVictoryCount": 2,
-    "totalPvWBattleVictoryCount": 245,
-    "totalPvNBattleVictoryCount": 389,
-    "totalShinyCaptureCount": 14,
-    "totalTradedCount": 85,
+    "totalPvWBattleVictoryCount": 256,
+    "totalPvNBattleVictoryCount": 390,
+    "totalShinyCaptureCount": 15,
+    "totalTradedCount": 101,
     "totalTypeCaptureCounts": {
-      "normal": 27,
+      "normal": 32,
       "water": 24,
-      "poison": 18,
-      "ground": 28,
+      "poison": 20,
+      "ground": 29,
       "electric": 13,
-      "fire": 20,
-      "fighting": 14,
-      "grass": 20,
-      "bug": 17,
+      "fire": 21,
+      "fighting": 15,
+      "grass": 22,
+      "bug": 18,
       "rock": 7,
-      "dragon": 8,
-      "flying": 22,
-      "fairy": 19,
-      "ghost": 12,
+      "dragon": 9,
+      "flying": 25,
+      "fairy": 20,
+      "ghost": 14,
       "psychic": 21,
       "ice": 12,
       "steel": 22,
@@ -70,8 +70,8 @@
       "cobblemon:meowth": 2,
       "cobblemon:persian": 1,
       "cobblemon:dugtrio": 1,
-      "cobblemon:raikou": 1,
-      "cobblemon:gimmighoul": 7,
+      "cobblemon:raikou": 2,
+      "cobblemon:gimmighoul": 8,
       "cobblemon:furfrou": 3,
       "cobblemon:bouffalant": 4,
       "cobblemon:raticate": 1,
@@ -629,7 +629,8 @@
         "female"
       ],
       "cobblemon:cetoddle": [
-        "female"
+        "female",
+        "male"
       ],
       "cobblemon:relicanth": [
         "male"
@@ -922,7 +923,8 @@
       ],
       "cobblemon:corsola": [
         "male",
-        "galarian"
+        "galarian",
+        "female"
       ],
       "cobblemon:machop": [
         "male"
@@ -933,6 +935,39 @@
       ],
       "cobblemon:finizen": [
         "male"
+      ],
+      "cobblemon:weedle": [
+        "shiny",
+        "female"
+      ],
+      "cobblemon:grookey": [
+        "male"
+      ],
+      "cobblemon:zapdos": [
+        "genderless",
+        "galarian"
+      ],
+      "cobblemon:dreepy": [
+        "female"
+      ],
+      "cobblemon:drifloon": [
+        "male"
+      ],
+      "cobblemon:shiinotic": [
+        "male"
+      ],
+      "cobblemon:gliscor": [
+        "male"
+      ],
+      "cobblemon:litten": [
+        "male"
+      ],
+      "cobblemon:salazzle": [
+        "female",
+        "alpha"
+      ],
+      "cobblemon:chansey": [
+        "female"
       ]
     }
   }

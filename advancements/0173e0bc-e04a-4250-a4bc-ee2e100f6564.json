@@ -890,6 +890,7 @@
     "criteria": {
       "slate_ball": "2026-03-12 22:38:56 +0100",
       "poke_ball": "2026-03-03 22:13:02 +0100",
+      "premier_ball": "2026-03-20 21:47:55 +0100",
       "citrine_ball": "2026-03-12 23:07:14 +0100"
     },
     "done": false
@@ -911,8 +912,11 @@
       "citrine_ball": "2026-03-12 23:07:14 +0100",
       "net_ball": "2026-03-11 15:40:49 +0100",
       "dive_ball": "2026-03-13 19:23:07 +0100",
+      "ancient_great_ball": "2026-03-20 22:39:05 +0100",
       "lure_ball": "2026-03-13 19:05:53 +0100",
       "ancient_citrine_ball": "2026-03-12 23:21:27 +0100",
+      "premier_ball": "2026-03-20 21:47:55 +0100",
+      "ancient_heavy_ball": "2026-03-20 22:38:39 +0100",
       "ultra_ball": "2026-03-11 00:16:47 +0100",
       "fast_ball": "2026-03-13 00:02:48 +0100"
     },
@@ -3885,11 +3889,13 @@
   },
   "cobblemon:craft_ancient_balls": {
     "criteria": {
+      "ancient_great_ball": "2026-03-20 22:39:05 +0100",
       "ancient_citrine_ball": "2026-03-12 23:21:27 +0100",
       "ancient_wing_ball": "2026-03-11 00:17:21 +0100",
       "ancient_leaden_ball": "2026-03-12 22:34:54 +0100",
       "ancient_verdant_ball": "2026-03-15 20:41:16 +0100",
-      "ancient_poke_ball": "2026-03-11 00:19:10 +0100"
+      "ancient_poke_ball": "2026-03-11 00:19:10 +0100",
+      "ancient_heavy_ball": "2026-03-20 22:38:39 +0100"
     },
     "done": false
   },
@@ -4854,9 +4860,11 @@
     "criteria": {
       "minecraft:crimson_forest": "2026-03-12 14:41:54 +0100",
       "minecraft:nether_wastes": "2026-03-11 16:53:10 +0100",
-      "minecraft:warped_forest": "2026-03-11 19:56:51 +0100"
+      "minecraft:soul_sand_valley": "2026-03-20 22:50:15 +0100",
+      "minecraft:warped_forest": "2026-03-11 19:56:51 +0100",
+      "minecraft:basalt_deltas": "2026-03-20 20:14:40 +0100"
     },
-    "done": false
+    "done": true
   },
   "minecraft:story/enter_the_nether": {
     "criteria": {
@@ -6278,9 +6286,10 @@
   },
   "cobblemon:recipes/misc/ancient_great_rod": {
     "criteria": {
-      "has_smithing_trim_template": "2026-03-12 13:52:08 +0100"
+      "has_smithing_trim_template": "2026-03-12 13:52:08 +0100",
+      "has_ball": "2026-03-20 22:39:05 +0100"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/misc/ancient_origin_rod": {
     "criteria": {
@@ -6396,9 +6405,10 @@
   },
   "cobblemon:recipes/misc/ancient_heavy_rod": {
     "criteria": {
-      "has_smithing_trim_template": "2026-03-12 13:52:08 +0100"
+      "has_smithing_trim_template": "2026-03-12 13:52:08 +0100",
+      "has_ball": "2026-03-20 22:38:39 +0100"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/misc/master_rod": {
     "criteria": {
@@ -6472,9 +6482,10 @@
   },
   "cobblemon:recipes/misc/premier_rod": {
     "criteria": {
-      "has_smithing_trim_template": "2026-03-12 13:52:08 +0100"
+      "has_smithing_trim_template": "2026-03-12 13:52:08 +0100",
+      "has_ball": "2026-03-20 21:47:55 +0100"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/misc/citrine_rod": {
     "criteria": {
@@ -9499,15 +9510,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/waxed_copper_grate": {
+  "cobblemon:recipes/agriculture/payapa_berry_smelt_to_dye": {
     "criteria": {
-      "has_waxed_copper_block": "2026-03-19 20:54:14 +0100"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/held/punching_glove": {
-    "criteria": {
-      "has_wool": "2026-03-19 22:59:55 +0100"
+      "has_berry": "2026-03-19 19:22:48 +0100"
     },
     "done": true
   },
@@ -9517,15 +9522,159 @@
     },
     "done": true
   },
-  "mcwbridges:recipes/granite_bridge": {
-    "criteria": {
-      "has_planks": "2026-03-19 21:19:30 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/tuff_brick_stairs_from_polished_tuff_stonecutting": {
     "criteria": {
       "has_polished_tuff": "2026-03-19 19:35:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_tuff_stairs_from_polished_tuff_stonecutting": {
+    "criteria": {
+      "has_polished_tuff": "2026-03-19 19:35:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_tuff_slab": {
+    "criteria": {
+      "has_polished_tuff": "2026-03-19 19:35:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_tuff_slab_from_polished_tuff_stonecutting": {
+    "criteria": {
+      "has_polished_tuff": "2026-03-19 19:35:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_tuff_stairs": {
+    "criteria": {
+      "has_polished_tuff": "2026-03-19 19:35:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_tuff_bricks_from_polished_tuff_stonecutting": {
+    "criteria": {
+      "has_polished_tuff": "2026-03-19 19:35:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_tuff_wall_from_polished_tuff_stonecutting": {
+    "criteria": {
+      "has_polished_tuff": "2026-03-19 19:35:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_tuff_wall": {
+    "criteria": {
+      "has_polished_tuff": "2026-03-19 19:35:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_bricks": {
+    "criteria": {
+      "has_polished_tuff": "2026-03-19 19:35:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_bricks_from_polished_tuff_stonecutting": {
+    "criteria": {
+      "has_polished_tuff": "2026-03-19 19:35:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_slab_from_polished_tuff_stonecutting": {
+    "criteria": {
+      "has_polished_tuff": "2026-03-19 19:35:05 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/agriculture/babiri_berry_smelt_to_dye": {
+    "criteria": {
+      "has_berry": "2026-03-19 19:45:41 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/under_lock_and_key": {
+    "criteria": {
+      "under_lock_and_key": "2026-03-19 20:36:30 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2026-03-19 20:38:20 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_grate": {
+    "criteria": {
+      "has_waxed_copper_block": "2026-03-19 20:54:14 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_waxed_copper_block": {
+    "criteria": {
+      "has_waxed_copper_block": "2026-03-19 20:54:14 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_chiseled_copper_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2026-03-19 20:54:14 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/waxed_copper_bulb": {
+    "criteria": {
+      "has_waxed_copper_block": "2026-03-19 20:54:14 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper": {
+    "criteria": {
+      "has_waxed_copper_block": "2026-03-19 20:54:14 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_slab_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2026-03-19 20:54:14 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2026-03-19 20:54:14 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_stairs_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2026-03-19 20:54:14 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_grate_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2026-03-19 20:54:14 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/blocks/apricorn_planks": {
+    "criteria": {
+      "has_the_recipe": "2026-03-19 21:10:43 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/blocks/apricorn_wood": {
+    "criteria": {
+      "has_log": "2026-03-19 21:13:25 +0100"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/granite_bridge": {
+    "criteria": {
+      "has_planks": "2026-03-19 21:19:30 +0100"
     },
     "done": true
   },
@@ -9547,18 +9696,6 @@
     },
     "done": true
   },
-  "lootr:1cart": {
-    "criteria": {
-      "opened_cart": "2026-03-19 22:14:26 +0100"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/agriculture/babiri_berry_smelt_to_dye": {
-    "criteria": {
-      "has_berry": "2026-03-19 19:45:41 +0100"
-    },
-    "done": true
-  },
   "mcwbridges:recipes/granite_bridge_pier": {
     "criteria": {
       "has_planks": "2026-03-19 21:19:30 +0100"
@@ -9571,39 +9708,9 @@
     },
     "done": true
   },
-  "comforts:recipes/decorations/sleeping_bag_red": {
-    "criteria": {
-      "has_red_wool": "2026-03-19 22:59:55 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_tuff_stairs_from_polished_tuff_stonecutting": {
-    "criteria": {
-      "has_polished_tuff": "2026-03-19 19:35:05 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_tuff_slab": {
-    "criteria": {
-      "has_polished_tuff": "2026-03-19 19:35:05 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2026-03-19 21:19:30 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/copper_ingot_from_waxed_copper_block": {
-    "criteria": {
-      "has_waxed_copper_block": "2026-03-19 20:54:14 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/activator_rail": {
-    "criteria": {
-      "has_rail": "2026-03-19 22:17:03 +0100"
     },
     "done": true
   },
@@ -9631,24 +9738,6 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/red_cushion": {
-    "criteria": {
-      "has_red_cushion": "2026-03-19 22:59:55 +0100"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/held/air_balloon": {
-    "criteria": {
-      "has_membrane": "2026-03-19 22:11:15 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_banner": {
-    "criteria": {
-      "has_red_wool": "2026-03-19 22:59:55 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2026-03-19 21:19:30 +0100"
@@ -9658,18 +9747,6 @@
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2026-03-19 21:19:30 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_chiseled_copper_from_waxed_copper_block_stonecutting": {
-    "criteria": {
-      "has_waxed_copper_block": "2026-03-19 20:54:14 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_tuff_slab_from_polished_tuff_stonecutting": {
-    "criteria": {
-      "has_polished_tuff": "2026-03-19 19:35:05 +0100"
     },
     "done": true
   },
@@ -9685,135 +9762,9 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/red_sheet": {
-    "criteria": {
-      "has_red_sheet": "2026-03-19 22:59:55 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dispenser": {
-    "criteria": {
-      "has_bow": "2026-03-19 20:38:20 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/cauldron": {
-    "criteria": {
-      "has_water_bucket": "2026-03-19 22:11:31 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_tuff_stairs": {
-    "criteria": {
-      "has_polished_tuff": "2026-03-19 19:35:05 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_tuff_bricks_from_polished_tuff_stonecutting": {
-    "criteria": {
-      "has_polished_tuff": "2026-03-19 19:35:05 +0100"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/blocks/apricorn_wood": {
-    "criteria": {
-      "has_log": "2026-03-19 21:13:25 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2026-03-19 21:19:30 +0100"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/phantom_trophy": {
-    "criteria": {
-      "has_phantom_trophy": "2026-03-19 22:11:15 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/powered_rail": {
-    "criteria": {
-      "has_rail": "2026-03-19 22:17:03 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_bed": {
-    "criteria": {
-      "has_red_wool": "2026-03-19 22:59:55 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/waxed_copper_bulb": {
-    "criteria": {
-      "has_waxed_copper_block": "2026-03-19 20:54:14 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_cut_copper": {
-    "criteria": {
-      "has_waxed_copper_block": "2026-03-19 20:54:14 +0100"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/blocks/apricorn_planks": {
-    "criteria": {
-      "has_the_recipe": "2026-03-19 21:10:43 +0100"
-    },
-    "done": true
-  },
-  "minecraft:adventure/under_lock_and_key": {
-    "criteria": {
-      "under_lock_and_key": "2026-03-19 20:36:30 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_tuff_wall_from_polished_tuff_stonecutting": {
-    "criteria": {
-      "has_polished_tuff": "2026-03-19 19:35:05 +0100"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/agriculture/payapa_berry_smelt_to_dye": {
-    "criteria": {
-      "has_berry": "2026-03-19 19:22:48 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_cut_copper_slab_from_waxed_copper_block_stonecutting": {
-    "criteria": {
-      "has_waxed_copper_block": "2026-03-19 20:54:14 +0100"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/food/dough": {
-    "criteria": {
-      "has_water": "2026-03-19 22:11:31 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_tuff_wall": {
-    "criteria": {
-      "has_polished_tuff": "2026-03-19 19:35:05 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/detector_rail": {
-    "criteria": {
-      "has_rail": "2026-03-19 22:17:03 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_carpet": {
-    "criteria": {
-      "has_red_wool": "2026-03-19 22:59:55 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_cut_copper_from_waxed_copper_block_stonecutting": {
-    "criteria": {
-      "has_waxed_copper_block": "2026-03-19 20:54:14 +0100"
     },
     "done": true
   },
@@ -9823,33 +9774,21 @@
     },
     "done": true
   },
-  "cobblemon:recipes/held/covert_cloak": {
+  "cobblemon:recipes/held/air_balloon": {
     "criteria": {
       "has_membrane": "2026-03-19 22:11:15 +0100"
     },
     "done": true
   },
-  "comforts:recipes/decorations/hammock_red": {
+  "handcrafted:recipes/misc/phantom_trophy": {
     "criteria": {
-      "has_red_wool": "2026-03-19 22:59:55 +0100"
+      "has_phantom_trophy": "2026-03-19 22:11:15 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/waxed_cut_copper_stairs_from_waxed_copper_block_stonecutting": {
+  "cobblemon:recipes/held/covert_cloak": {
     "criteria": {
-      "has_waxed_copper_block": "2026-03-19 20:54:14 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/tuff_bricks": {
-    "criteria": {
-      "has_polished_tuff": "2026-03-19 19:35:05 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_copper_grate_from_waxed_copper_block_stonecutting": {
-    "criteria": {
-      "has_waxed_copper_block": "2026-03-19 20:54:14 +0100"
+      "has_membrane": "2026-03-19 22:11:15 +0100"
     },
     "done": true
   },
@@ -9859,9 +9798,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/tuff_bricks_from_polished_tuff_stonecutting": {
+  "minecraft:recipes/brewing/cauldron": {
     "criteria": {
-      "has_polished_tuff": "2026-03-19 19:35:05 +0100"
+      "has_water_bucket": "2026-03-19 22:11:31 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/food/dough": {
+    "criteria": {
+      "has_water": "2026-03-19 22:11:31 +0100"
     },
     "done": true
   },
@@ -9871,9 +9816,219 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/tuff_brick_slab_from_polished_tuff_stonecutting": {
+  "lootr:1cart": {
     "criteria": {
-      "has_polished_tuff": "2026-03-19 19:35:05 +0100"
+      "opened_cart": "2026-03-19 22:14:26 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2026-03-19 22:17:03 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2026-03-19 22:17:03 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2026-03-19 22:17:03 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/punching_glove": {
+    "criteria": {
+      "has_wool": "2026-03-19 22:59:55 +0100"
+    },
+    "done": true
+  },
+  "comforts:recipes/decorations/sleeping_bag_red": {
+    "criteria": {
+      "has_red_wool": "2026-03-19 22:59:55 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/red_cushion": {
+    "criteria": {
+      "has_red_cushion": "2026-03-19 22:59:55 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2026-03-19 22:59:55 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/red_sheet": {
+    "criteria": {
+      "has_red_sheet": "2026-03-19 22:59:55 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2026-03-19 22:59:55 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2026-03-19 22:59:55 +0100"
+    },
+    "done": true
+  },
+  "comforts:recipes/decorations/hammock_red": {
+    "criteria": {
+      "has_red_wool": "2026-03-19 22:59:55 +0100"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/nether_bricks_bridge_stair": {
+    "criteria": {
+      "has_planks": "2026-03-20 22:46:13 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2026-03-20 22:21:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2026-03-20 23:23:53 +0100"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/nether_bricks_bridge_pier": {
+    "criteria": {
+      "has_planks": "2026-03-20 22:46:13 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2026-03-20 22:46:13 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2026-03-20 22:46:13 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
+    "criteria": {
+      "has_rib_armor_trim_smithing_template": "2026-03-20 22:48:50 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2026-03-20 22:46:13 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2026-03-20 22:20:06 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2026-03-20 22:37:46 +0100"
+    },
+    "done": true
+  },
+  "rctmod:trainers/defeat_gym_leader_volkner_1": {
+    "criteria": {
+      "defeat_gym_leader_volkner_1": "2026-03-20 21:45:47 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2026-03-20 22:46:13 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2026-03-20 22:46:13 +0100"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_nether_bricks_bridge": {
+    "criteria": {
+      "has_planks": "2026-03-20 22:46:13 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2026-03-20 22:48:50 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2026-03-20 22:46:13 +0100"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/nether_bricks_bridge": {
+    "criteria": {
+      "has_planks": "2026-03-20 22:46:13 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2026-03-20 22:46:13 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2026-03-20 22:46:13 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2026-03-20 22:37:46 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2026-03-20 23:23:53 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2026-03-20 22:21:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2026-03-20 22:46:13 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2026-03-20 22:21:37 +0100"
     },
     "done": true
   },

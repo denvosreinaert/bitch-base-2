@@ -8,34 +8,34 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 44,
+    "totalCaptureCount": 50,
     "totalEggsCollected": 0,
     "totalEggsHatched": 6,
     "totalEvolvedCount": 12,
-    "totalBattleVictoryCount": 586,
+    "totalBattleVictoryCount": 610,
     "totalPvPBattleVictoryCount": 1,
-    "totalPvWBattleVictoryCount": 518,
-    "totalPvNBattleVictoryCount": 67,
+    "totalPvWBattleVictoryCount": 535,
+    "totalPvNBattleVictoryCount": 74,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 2,
     "totalTypeCaptureCounts": {
       "electric": 3,
       "bug": 2,
       "flying": 5,
-      "fire": 6,
+      "fire": 10,
       "ghost": 2,
       "ground": 3,
       "rock": 4,
-      "dragon": 4,
-      "water": 7,
+      "dragon": 5,
+      "water": 8,
       "psychic": 5,
       "normal": 9,
-      "poison": 1,
+      "poison": 2,
       "ice": 2,
       "dark": 5,
       "fighting": 1,
       "fairy": 1,
-      "steel": 2,
+      "steel": 3,
       "grass": 1
     },
     "totalDefeatedCounts": {
@@ -245,7 +245,12 @@
       "cobblemon:golett": 20,
       "cobblemon:vulpix": 6,
       "cobblemon:duskull": 3,
-      "cobblemon:dartrix": 2
+      "cobblemon:dartrix": 2,
+      "cobblemon:magby": 2,
+      "cobblemon:falinks": 6,
+      "cobblemon:charcadet": 2,
+      "cobblemon:ferrothorn": 1,
+      "cobblemon:darmanitan": 1
     },
     "aspectsCollected": {
       "cobblemon:mareep": [
@@ -312,7 +317,8 @@
         "female"
       ],
       "cobblemon:slugma": [
-        "male"
+        "male",
+        "female"
       ],
       "cobblemon:rufflet": [
         "male"
@@ -425,6 +431,22 @@
         "female"
       ],
       "cobblemon:aron": [
+        "female"
+      ],
+      "cobblemon:golduck": [
+        "female",
+        "alpha"
+      ],
+      "cobblemon:tepig": [
+        "male"
+      ],
+      "cobblemon:turtonator": [
+        "male"
+      ],
+      "cobblemon:salandit": [
+        "male"
+      ],
+      "cobblemon:orthworm": [
         "female"
       ]
     }

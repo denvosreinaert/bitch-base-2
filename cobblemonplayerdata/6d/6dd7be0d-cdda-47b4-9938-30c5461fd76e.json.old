@@ -10,30 +10,32 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 59,
+    "totalCaptureCount": 63,
     "totalEggsCollected": 2,
     "totalEggsHatched": 38,
-    "totalEvolvedCount": 1,
-    "totalBattleVictoryCount": 33,
+    "totalEvolvedCount": 2,
+    "totalBattleVictoryCount": 35,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 32,
+    "totalPvWBattleVictoryCount": 34,
     "totalPvNBattleVictoryCount": 1,
-    "totalShinyCaptureCount": 2,
-    "totalTradedCount": 8,
+    "totalShinyCaptureCount": 3,
+    "totalTradedCount": 9,
     "totalTypeCaptureCounts": {
       "water": 7,
-      "electric": 6,
+      "electric": 7,
       "normal": 18,
       "bug": 8,
-      "flying": 5,
+      "flying": 6,
       "poison": 4,
       "fairy": 3,
       "dark": 5,
       "grass": 8,
       "fire": 5,
-      "ground": 1,
+      "ground": 2,
       "dragon": 1,
-      "psychic": 1
+      "psychic": 1,
+      "steel": 1,
+      "rock": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:mareep": 2,
@@ -48,7 +50,8 @@
       "cobblemon:ledyba": 1,
       "cobblemon:joltik": 2,
       "cobblemon:spinarak": 2,
-      "cobblemon:paras": 2
+      "cobblemon:paras": 2,
+      "cobblemon:gimmighoul": 1
     },
     "aspectsCollected": {
       "cobblemon:chewtle": [
@@ -228,6 +231,27 @@
       ],
       "cobblemon:cutiefly": [
         "male"
+      ],
+      "cobblemon:skarmory": [
+        "female"
+      ],
+      "cobblemon:lycanroc": [
+        "shiny",
+        "male",
+        "midday-form"
+      ],
+      "cobblemon:raikou": [
+        "genderless"
+      ],
+      "cobblemon:sandslash": [
+        "male",
+        "alpha"
+      ],
+      "cobblemon:bulbasaur": [
+        "male"
+      ],
+      "cobblemon:floragato": [
+        "female"
       ]
     }
   }
