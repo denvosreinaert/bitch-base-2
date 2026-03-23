@@ -10,35 +10,35 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 254,
+    "totalCaptureCount": 268,
     "totalEggsCollected": 70,
-    "totalEggsHatched": 3374,
+    "totalEggsHatched": 3698,
     "totalEvolvedCount": 23,
-    "totalBattleVictoryCount": 296,
+    "totalBattleVictoryCount": 302,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 279,
+    "totalPvWBattleVictoryCount": 285,
     "totalPvNBattleVictoryCount": 17,
     "totalShinyCaptureCount": 4,
-    "totalTradedCount": 43,
+    "totalTradedCount": 45,
     "totalTypeCaptureCounts": {
-      "normal": 87,
-      "ground": 21,
+      "normal": 90,
+      "ground": 23,
       "electric": 15,
       "fairy": 29,
-      "water": 30,
-      "grass": 30,
+      "water": 36,
+      "grass": 31,
       "ghost": 11,
       "dark": 12,
-      "fire": 23,
+      "fire": 25,
       "bug": 4,
-      "psychic": 15,
+      "psychic": 17,
       "poison": 10,
-      "steel": 7,
+      "steel": 8,
       "rock": 6,
       "dragon": 6,
       "ice": 8,
-      "flying": 7,
-      "fighting": 5
+      "flying": 9,
+      "fighting": 6
     },
     "totalDefeatedCounts": {
       "cobblemon:patrat": 9,
@@ -522,7 +522,9 @@
         "male"
       ],
       "cobblemon:exeggutor": [
-        "male"
+        "male",
+        "female",
+        "alpha"
       ],
       "cobblemon:scorbunny": [
         "male"
@@ -569,7 +571,8 @@
       ],
       "cobblemon:steelix": [
         "female",
-        "alpha"
+        "alpha",
+        "male"
       ],
       "cobblemon:entei": [
         "genderless"
@@ -806,6 +809,38 @@
       ],
       "cobblemon:slakoth": [
         "male"
+      ],
+      "cobblemon:kecleon": [
+        "female",
+        "alpha"
+      ],
+      "cobblemon:piplup": [
+        "female"
+      ],
+      "cobblemon:inteleon": [
+        "male",
+        "alpha"
+      ],
+      "cobblemon:wooper": [
+        "female"
+      ],
+      "cobblemon:pelipper": [
+        "female",
+        "alpha"
+      ],
+      "cobblemon:hawlucha": [
+        "female",
+        "alpha"
+      ],
+      "cobblemon:kingler": [
+        "male",
+        "alpha"
+      ],
+      "cobblemon:victini": [
+        "genderless"
+      ],
+      "cobblemon:slugma": [
+        "female"
       ]
     }
   }

@@ -456,6 +456,7 @@
   "cobblemon:craft_all_balls": {
     "criteria": {
       "net_ball": "2026-03-19 20:52:19 +0100",
+      "quick_ball": "2026-03-22 19:45:29 +0100",
       "great_ball": "2026-03-14 19:25:24 +0100",
       "poke_ball": "2026-03-15 02:30:45 +0100",
       "repeat_ball": "2026-03-21 01:22:55 +0100",
@@ -7981,6 +7982,12 @@
     },
     "done": true
   },
+  "cobblemon:recipes/misc/citrine_rod": {
+    "criteria": {
+      "has_ball": "2026-03-21 01:30:54 +0100"
+    },
+    "done": false
+  },
   "mcwbridges:recipes/andesite_bridge_stair": {
     "criteria": {
       "has_planks": "2026-03-21 01:48:21 +0100"
@@ -8059,12 +8066,6 @@
     },
     "done": true
   },
-  "cobblemon:recipes/misc/citrine_rod": {
-    "criteria": {
-      "has_ball": "2026-03-21 01:30:54 +0100"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2026-03-21 01:48:21 +0100"
@@ -8086,6 +8087,18 @@
   "mcwbridges:recipes/andesite_bridge_pier": {
     "criteria": {
       "has_planks": "2026-03-21 01:48:21 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/misc/quick_rod": {
+    "criteria": {
+      "has_ball": "2026-03-22 19:45:29 +0100"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/misc/slicing/green_dye_from_seagrass": {
+    "criteria": {
+      "has_seagrass": "2026-03-22 19:16:28 +0100"
     },
     "done": true
   },

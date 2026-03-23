@@ -10,7 +10,7 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 63,
+    "totalCaptureCount": 67,
     "totalEggsCollected": 2,
     "totalEggsHatched": 38,
     "totalEvolvedCount": 2,
@@ -21,9 +21,9 @@
     "totalShinyCaptureCount": 3,
     "totalTradedCount": 9,
     "totalTypeCaptureCounts": {
-      "water": 7,
+      "water": 9,
       "electric": 7,
-      "normal": 18,
+      "normal": 20,
       "bug": 8,
       "flying": 6,
       "poison": 4,
@@ -35,7 +35,7 @@
       "dragon": 1,
       "psychic": 1,
       "steel": 1,
-      "rock": 1
+      "rock": 2
     },
     "totalDefeatedCounts": {
       "cobblemon:mareep": 2,
@@ -252,6 +252,18 @@
       ],
       "cobblemon:floragato": [
         "female"
+      ],
+      "cobblemon:drednaw": [
+        "male"
+      ],
+      "cobblemon:purugly": [
+        "female",
+        "alpha"
+      ],
+      "cobblemon:komala": [
+        "female",
+        "tree-none",
+        "alpha"
       ]
     }
   }

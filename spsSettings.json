@@ -8,8 +8,12 @@
     "6dd7be0d-cdda-47b4-9938-30c5461fd76e",
     "0173e0bc-e04a-4250-a4bc-ee2e100f6564",
     "24bb4af4-d727-449e-9d92-2eec4e428126",
-    "3be3b5f3-44c3-48bb-b5bd-bc71de2710fd"
+    "3be3b5f3-44c3-48bb-b5bd-bc71de2710fd",
+    "25c66c59-866d-4c36-b73e-8f2f573575fe"
   ],
   "shareResourcePack": false,
-  "oppedPlayers": []
+  "oppedPlayers": [
+    "0c70854e-4da9-404e-ad4f-e55a15efe9b2",
+    "3be3b5f3-44c3-48bb-b5bd-bc71de2710fd"
+  ]
 }

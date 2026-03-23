@@ -8,42 +8,42 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 50,
+    "totalCaptureCount": 61,
     "totalEggsCollected": 0,
     "totalEggsHatched": 6,
     "totalEvolvedCount": 12,
-    "totalBattleVictoryCount": 610,
+    "totalBattleVictoryCount": 687,
     "totalPvPBattleVictoryCount": 1,
-    "totalPvWBattleVictoryCount": 535,
-    "totalPvNBattleVictoryCount": 74,
-    "totalShinyCaptureCount": 0,
+    "totalPvWBattleVictoryCount": 611,
+    "totalPvNBattleVictoryCount": 75,
+    "totalShinyCaptureCount": 1,
     "totalTradedCount": 2,
     "totalTypeCaptureCounts": {
-      "electric": 3,
-      "bug": 2,
+      "electric": 4,
+      "bug": 3,
       "flying": 5,
       "fire": 10,
-      "ghost": 2,
-      "ground": 3,
-      "rock": 4,
+      "ghost": 3,
+      "ground": 4,
+      "rock": 8,
       "dragon": 5,
       "water": 8,
-      "psychic": 5,
-      "normal": 9,
-      "poison": 2,
+      "psychic": 8,
+      "normal": 10,
+      "poison": 5,
       "ice": 2,
-      "dark": 5,
+      "dark": 6,
       "fighting": 1,
       "fairy": 1,
-      "steel": 3,
-      "grass": 1
+      "steel": 4,
+      "grass": 2
     },
     "totalDefeatedCounts": {
       "cobblemon:slowpoke": 3,
       "cobblemon:zigzagoon": 5,
       "cobblemon:doduo": 5,
       "cobblemon:rellor": 2,
-      "cobblemon:ledyba": 2,
+      "cobblemon:ledyba": 3,
       "cobblemon:igglybuff": 3,
       "cobblemon:snubbull": 1,
       "cobblemon:minccino": 1,
@@ -250,7 +250,15 @@
       "cobblemon:falinks": 6,
       "cobblemon:charcadet": 2,
       "cobblemon:ferrothorn": 1,
-      "cobblemon:darmanitan": 1
+      "cobblemon:darmanitan": 1,
+      "cobblemon:liepard": 1,
+      "cobblemon:elgyem": 6,
+      "cobblemon:unown": 50,
+      "cobblemon:beldum": 3,
+      "cobblemon:beheeyem": 1,
+      "cobblemon:duosion": 1,
+      "cobblemon:malamar": 1,
+      "cobblemon:kartana": 1
     },
     "aspectsCollected": {
       "cobblemon:mareep": [
@@ -396,7 +404,8 @@
       ],
       "cobblemon:exploud": [
         "female",
-        "alpha"
+        "alpha",
+        "male"
       ],
       "cobblemon:klinklang": [
         "genderless",
@@ -448,6 +457,34 @@
       ],
       "cobblemon:orthworm": [
         "female"
+      ],
+      "cobblemon:shuckle": [
+        "female",
+        "alpha"
+      ],
+      "cobblemon:nihilego": [
+        "genderless"
+      ],
+      "cobblemon:solosis": [
+        "female"
+      ],
+      "cobblemon:xurkitree": [
+        "genderless"
+      ],
+      "cobblemon:malamar": [
+        "female"
+      ],
+      "cobblemon:kartana": [
+        "genderless"
+      ],
+      "cobblemon:unown": [
+        "shiny",
+        "genderless",
+        "character-d"
+      ],
+      "cobblemon:palossand": [
+        "male",
+        "alpha"
       ]
     }
   }

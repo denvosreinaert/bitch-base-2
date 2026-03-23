@@ -423,6 +423,7 @@
       "nest_ball": "2026-03-14 02:18:40 +0100",
       "quick_ball": "2026-03-19 17:38:04 +0100",
       "great_ball": "2026-03-13 21:20:32 +0100",
+      "dusk_ball": "2026-03-23 00:39:13 +0100",
       "timer_ball": "2026-03-18 23:30:25 +0100",
       "friend_ball": "2026-03-16 22:29:39 +0100",
       "poke_ball": "2026-03-15 22:07:19 +0100",
@@ -3052,17 +3053,19 @@
   },
   "cobblemon:brew_all": {
     "criteria": {
+      "obtain_awakening": "2026-03-23 00:39:33 +0100",
+      "obtain_paralyze_heal": "2026-03-17 16:55:08 +0100",
+      "obtain_super_potion": "2026-03-15 00:20:29 +0100",
+      "obtain_hyper_potion": "2026-03-19 17:37:05 +0100",
+      "obtain_max_potion": "2026-03-15 00:20:22 +0100",
       "obtain_full_heal": "2026-03-21 01:00:21 +0100",
       "obtain_ice_heal": "2026-03-16 21:28:27 +0100",
       "obtain_burn_heal": "2026-03-15 00:20:22 +0100",
       "obtain_potion": "2026-03-15 00:20:29 +0100",
       "obtain_max_ether": "2026-03-19 17:37:09 +0100",
       "obtain_antidote": "2026-03-19 17:37:58 +0100",
-      "obtain_paralyze_heal": "2026-03-17 16:55:08 +0100",
+      "obtain_full_restore": "2026-03-23 00:39:55 +0100",
       "obtain_elixir": "2026-03-19 17:38:04 +0100",
-      "obtain_super_potion": "2026-03-15 00:20:29 +0100",
-      "obtain_hyper_potion": "2026-03-19 17:37:05 +0100",
-      "obtain_max_potion": "2026-03-15 00:20:22 +0100",
       "obtain_ether": "2026-03-21 00:48:21 +0100"
     },
     "done": false
@@ -3387,9 +3390,10 @@
   },
   "cobblemon:recipes/misc/dusk_rod": {
     "criteria": {
-      "has_smithing_trim_template": "2026-03-15 01:26:07 +0100"
+      "has_smithing_trim_template": "2026-03-15 01:26:07 +0100",
+      "has_ball": "2026-03-23 00:39:13 +0100"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/misc/lure_rod": {
     "criteria": {
@@ -9239,12 +9243,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_nugget_from_blasting": {
-    "criteria": {
-      "has_golden_hoe": "2026-03-21 03:46:58 +0100"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/misc/gold_nugget_from_smelting_knife": {
     "criteria": {
       "has_golden_knife": "2026-03-21 03:46:54 +0100"
@@ -9257,15 +9255,375 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/misc/gold_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_golden_knife": "2026-03-21 03:46:54 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_hoe": "2026-03-21 03:46:58 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_hoe": "2026-03-21 03:46:58 +0100"
     },
     "done": true
   },
-  "farmersdelight:recipes/misc/gold_nugget_from_blasting_knife": {
+  "mcwbridges:recipes/rope_jungle_bridge": {
     "criteria": {
-      "has_golden_knife": "2026-03-21 03:46:54 +0100"
+      "has_planks": "2026-03-22 22:38:46 +0100"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/jungle_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2026-03-22 22:38:46 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_pillar_trim": {
+    "criteria": {
+      "has_jungle_pillar_trim": "2026-03-22 22:38:46 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_side_table": {
+    "criteria": {
+      "has_jungle_side_table": "2026-03-22 22:38:46 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_cutting_board": {
+    "criteria": {
+      "has_minecraft:jungle_planks": "2026-03-22 22:38:46 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_drawer": {
+    "criteria": {
+      "has_minecraft:jungle_planks": "2026-03-22 22:38:46 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2026-03-22 22:38:46 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_cabinetry": {
+    "criteria": {
+      "has_minecraft:jungle_planks": "2026-03-22 22:38:46 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_desk": {
+    "criteria": {
+      "has_minecraft:jungle_planks": "2026-03-22 22:38:46 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_dining_bench": {
+    "criteria": {
+      "has_jungle_dining_bench": "2026-03-22 22:38:46 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_nightstand": {
+    "criteria": {
+      "has_jungle_nightstand": "2026-03-22 22:38:46 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_crate": {
+    "criteria": {
+      "has_minecraft:jungle_planks": "2026-03-22 22:38:46 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2026-03-22 22:38:46 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_drawer": {
+    "criteria": {
+      "has_jungle_drawer": "2026-03-22 22:38:46 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2026-03-22 22:38:46 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2026-03-22 22:38:46 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2026-03-22 22:38:46 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_corner_trim": {
+    "criteria": {
+      "has_jungle_corner_trim": "2026-03-22 22:38:46 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_sink": {
+    "criteria": {
+      "has_minecraft:jungle_planks": "2026-03-22 22:38:46 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_cupboard": {
+    "criteria": {
+      "has_jungle_cupboard": "2026-03-22 22:38:46 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_shelf": {
+    "criteria": {
+      "has_jungle_shelf": "2026-03-22 22:38:46 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_table": {
+    "criteria": {
+      "has_minecraft:jungle_planks": "2026-03-22 22:38:46 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2026-03-22 22:38:46 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_table": {
+    "criteria": {
+      "has_jungle_table": "2026-03-22 22:38:46 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_chair": {
+    "criteria": {
+      "has_jungle_chair": "2026-03-22 22:38:46 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_desk": {
+    "criteria": {
+      "has_jungle_desk": "2026-03-22 22:38:46 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2026-03-22 22:38:46 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_chair": {
+    "criteria": {
+      "has_minecraft:jungle_planks": "2026-03-22 22:38:46 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2026-03-22 22:38:46 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_drawer": {
+    "criteria": {
+      "has_minecraft:jungle_planks": "2026-03-22 22:38:46 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_mail_box": {
+    "criteria": {
+      "has_minecraft:jungle_planks": "2026-03-22 22:38:46 +0100"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/jungle_rail_bridge": {
+    "criteria": {
+      "has_planks": "2026-03-22 22:38:46 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_bench": {
+    "criteria": {
+      "has_jungle_bench": "2026-03-22 22:38:46 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_couch": {
+    "criteria": {
+      "has_jungle_couch": "2026-03-22 22:38:46 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_fancy_bed": {
+    "criteria": {
+      "has_jungle_fancy_bed": "2026-03-22 22:38:46 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2026-03-22 22:38:46 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_minecraft:jungle_planks": "2026-03-22 22:38:46 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_counter": {
+    "criteria": {
+      "has_jungle_counter": "2026-03-22 22:38:46 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/jungle_cabinet": {
+    "criteria": {
+      "has_jungle_trapdoor": "2026-03-22 22:39:02 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2026-03-22 22:59:02 +0100"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mossy_cobblestone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2026-03-22 22:59:02 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2026-03-22 22:59:02 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2026-03-22 22:59:02 +0100"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_mossy_cobblestone_bridge": {
+    "criteria": {
+      "has_planks": "2026-03-22 22:59:02 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2026-03-22 22:59:02 +0100"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mossy_cobblestone_bridge": {
+    "criteria": {
+      "has_planks": "2026-03-22 22:59:02 +0100"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mossy_stone_brick_bridge": {
+    "criteria": {
+      "has_planks": "2026-03-22 22:59:02 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2026-03-22 22:59:02 +0100"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mossy_cobblestone_bridge_stair": {
+    "criteria": {
+      "has_planks": "2026-03-22 22:59:02 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2026-03-22 22:59:02 +0100"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mossy_stone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2026-03-22 22:59:02 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:craft_rod": {
+    "criteria": {
+      "craft_rod": "2026-03-23 01:09:55 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2026-03-23 02:24:07 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:brew_full_restore": {
+    "criteria": {
+      "check_inv": "2026-03-23 00:39:55 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2026-03-23 01:09:44 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2026-03-23 00:30:55 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2026-03-23 02:24:07 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2026-03-23 01:09:44 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/twisted_spoon": {
+    "criteria": {
+      "has_gem": "2026-03-23 01:09:44 +0100"
     },
     "done": true
   },

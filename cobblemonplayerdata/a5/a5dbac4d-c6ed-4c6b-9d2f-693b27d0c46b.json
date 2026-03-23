@@ -12,34 +12,34 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 220,
+    "totalCaptureCount": 229,
     "totalEggsCollected": 296,
-    "totalEggsHatched": 1680,
+    "totalEggsHatched": 2794,
     "totalEvolvedCount": 20,
-    "totalBattleVictoryCount": 648,
+    "totalBattleVictoryCount": 697,
     "totalPvPBattleVictoryCount": 2,
-    "totalPvWBattleVictoryCount": 256,
-    "totalPvNBattleVictoryCount": 390,
+    "totalPvWBattleVictoryCount": 267,
+    "totalPvNBattleVictoryCount": 428,
     "totalShinyCaptureCount": 15,
-    "totalTradedCount": 101,
+    "totalTradedCount": 104,
     "totalTypeCaptureCounts": {
-      "normal": 32,
-      "water": 24,
-      "poison": 20,
-      "ground": 29,
+      "normal": 33,
+      "water": 26,
+      "poison": 21,
+      "ground": 30,
       "electric": 13,
       "fire": 21,
-      "fighting": 15,
-      "grass": 22,
+      "fighting": 16,
+      "grass": 23,
       "bug": 18,
       "rock": 7,
-      "dragon": 9,
+      "dragon": 10,
       "flying": 25,
       "fairy": 20,
       "ghost": 14,
-      "psychic": 21,
+      "psychic": 22,
       "ice": 12,
-      "steel": 22,
+      "steel": 23,
       "dark": 13
     },
     "totalDefeatedCounts": {
@@ -77,7 +77,7 @@
       "cobblemon:raticate": 1,
       "cobblemon:manectric": 3,
       "cobblemon:polteageist": 1,
-      "cobblemon:steelix": 2,
+      "cobblemon:steelix": 3,
       "cobblemon:exploud": 2,
       "cobblemon:minccino": 1,
       "cobblemon:lillipup": 1,
@@ -122,7 +122,10 @@
       "cobblemon:glimmora": 1,
       "cobblemon:klinklang": 1,
       "cobblemon:mabosstiff": 1,
-      "cobblemon:mienshao": 1
+      "cobblemon:mienshao": 1,
+      "cobblemon:bibarel": 1,
+      "cobblemon:sinistcha": 1,
+      "cobblemon:ponyta": 1
     },
     "aspectsCollected": {
       "cobblemon:kangaskhan": [
@@ -968,6 +971,34 @@
       ],
       "cobblemon:chansey": [
         "female"
+      ],
+      "cobblemon:leafeon": [
+        "male"
+      ],
+      "cobblemon:nidoking": [
+        "male",
+        "alpha"
+      ],
+      "cobblemon:dragonair": [
+        "male"
+      ],
+      "cobblemon:archen": [
+        "male"
+      ],
+      "cobblemon:feraligatr": [
+        "male",
+        "alpha"
+      ],
+      "cobblemon:croconaw": [
+        "male"
+      ],
+      "cobblemon:grapploct": [
+        "male",
+        "alpha"
+      ],
+      "cobblemon:cinccino": [
+        "male",
+        "alpha"
       ]
     }
   }

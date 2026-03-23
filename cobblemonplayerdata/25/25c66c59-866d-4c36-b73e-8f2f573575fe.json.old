@@ -1,0 +1,118 @@
+{
+  "uuid": "25c66c59-866d-4c36-b73e-8f2f573575fe",
+  "starterPrompted": true,
+  "starterLocked": false,
+  "starterSelected": true,
+  "starterUUID": "44191424-5526-4aff-ac17-5aa15de9abe2",
+  "keyItems": [],
+  "battleTheme": "cobblemon:battle.pvp.default",
+  "extraData": {},
+  "advancementData": {
+    "totalCaptureCount": 17,
+    "totalEggsCollected": 0,
+    "totalEggsHatched": 8,
+    "totalEvolvedCount": 4,
+    "totalBattleVictoryCount": 31,
+    "totalPvPBattleVictoryCount": 0,
+    "totalPvWBattleVictoryCount": 18,
+    "totalPvNBattleVictoryCount": 13,
+    "totalShinyCaptureCount": 0,
+    "totalTradedCount": 1,
+    "totalTypeCaptureCounts": {
+      "grass": 3,
+      "water": 4,
+      "dark": 3,
+      "normal": 2,
+      "flying": 3,
+      "fairy": 1,
+      "fighting": 1,
+      "rock": 1,
+      "bug": 2,
+      "poison": 1,
+      "fire": 2,
+      "ice": 1
+    },
+    "totalDefeatedCounts": {
+      "cobblemon:ditto": 1,
+      "cobblemon:igglybuff": 1,
+      "cobblemon:sentret": 1,
+      "cobblemon:bunnelby": 1,
+      "cobblemon:crabrawler": 2,
+      "cobblemon:purrloin": 1,
+      "cobblemon:tentacool": 1,
+      "cobblemon:spearow": 1,
+      "cobblemon:binacle": 2,
+      "cobblemon:camerupt": 1
+    },
+    "aspectsCollected": {
+      "cobblemon:seedot": [
+        "male"
+      ],
+      "cobblemon:psyduck": [
+        "male"
+      ],
+      "cobblemon:maschiff": [
+        "female"
+      ],
+      "cobblemon:swablu": [
+        "male"
+      ],
+      "cobblemon:buizel": [
+        "male"
+      ],
+      "cobblemon:chewtle": [
+        "female"
+      ],
+      "cobblemon:impidimp": [
+        "male"
+      ],
+      "cobblemon:bidoof": [
+        "female"
+      ],
+      "cobblemon:chikorita": [
+        "male"
+      ],
+      "cobblemon:scraggy": [
+        "male"
+      ],
+      "cobblemon:dartrix": [
+        "male",
+        "region-bias-hisui"
+      ],
+      "cobblemon:minior": [
+        "genderless",
+        "core-form",
+        "yellow-core"
+      ],
+      "cobblemon:bayleef": [
+        "male"
+      ],
+      "cobblemon:ivysaur": [
+        "male"
+      ],
+      "cobblemon:chespin": [
+        "male"
+      ],
+      "cobblemon:beedrill": [
+        "female"
+      ],
+      "cobblemon:tepig": [
+        "male"
+      ],
+      "cobblemon:cyndaquil": [
+        "female",
+        "region-bias-hisui"
+      ],
+      "cobblemon:lapras": [
+        "female"
+      ],
+      "cobblemon:quilava": [
+        "female",
+        "region-bias-hisui"
+      ],
+      "cobblemon:scyther": [
+        "male"
+      ]
+    }
+  }
+}

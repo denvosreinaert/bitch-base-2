@@ -13928,5 +13928,77 @@
     },
     "done": true
   },
+  "cobblemon:place_campfire_pot": {
+    "criteria": {
+      "place_pot": "2026-03-21 12:44:25 +0100"
+    },
+    "done": true
+  },
+  "fwaystones:recipe/blackstone_waystone": {
+    "criteria": {
+      "has_abyss_watcher": "2026-03-22 21:05:43 +0100"
+    },
+    "done": true
+  },
+  "fwaystones:recipe/nether_brick_waystone": {
+    "criteria": {
+      "has_abyss_watcher": "2026-03-22 21:05:43 +0100"
+    },
+    "done": true
+  },
+  "fwaystones:recipe/red_nether_brick_waystone": {
+    "criteria": {
+      "has_abyss_watcher": "2026-03-22 21:05:43 +0100"
+    },
+    "done": true
+  },
+  "fwaystones:recipe/waystone_scroll": {
+    "criteria": {
+      "has_abyss_watcher": "2026-03-22 21:05:43 +0100"
+    },
+    "done": true
+  },
+  "fwaystones:recipe/desert_waystone": {
+    "criteria": {
+      "has_abyss_watcher": "2026-03-22 21:05:43 +0100"
+    },
+    "done": true
+  },
+  "fwaystones:recipe/end_stone_waystone": {
+    "criteria": {
+      "has_abyss_watcher": "2026-03-22 21:05:43 +0100"
+    },
+    "done": true
+  },
+  "fwaystones:recipe/waystone": {
+    "criteria": {
+      "has_abyss_watcher": "2026-03-22 21:05:43 +0100"
+    },
+    "done": true
+  },
+  "fwaystones:recipe/red_desert_waystone": {
+    "criteria": {
+      "has_abyss_watcher": "2026-03-22 21:05:43 +0100"
+    },
+    "done": true
+  },
+  "fwaystones:recipe/stone_brick_waystone": {
+    "criteria": {
+      "has_abyss_watcher": "2026-03-22 21:05:43 +0100"
+    },
+    "done": true
+  },
+  "fwaystones:recipe/deepslate_waystone": {
+    "criteria": {
+      "has_abyss_watcher": "2026-03-22 21:05:43 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:mega_showdown/tera/terastallized": {
+    "criteria": {
+      "terra_any": "2026-03-22 23:01:59 +0100"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
