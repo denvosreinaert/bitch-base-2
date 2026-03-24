@@ -8090,15 +8090,405 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/green_dye_from_seagrass": {
+    "criteria": {
+      "has_seagrass": "2026-03-22 19:16:28 +0100"
+    },
+    "done": true
+  },
   "cobblemon:recipes/misc/quick_rod": {
     "criteria": {
       "has_ball": "2026-03-22 19:45:29 +0100"
     },
     "done": false
   },
-  "refurbished_furniture:recipes/misc/slicing/green_dye_from_seagrass": {
+  "mega_showdown:recipes/misc/alakazite": {
     "criteria": {
-      "has_seagrass": "2026-03-22 19:16:28 +0100"
+      "has_mega_stone": "2026-03-23 22:35:09 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/altarianite": {
+    "criteria": {
+      "has_mega_stone": "2026-03-23 22:35:09 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2026-03-23 22:40:34 +0100",
+      "minecraft:nether_wastes": "2026-03-23 22:41:08 +0100",
+      "minecraft:soul_sand_valley": "2026-03-23 22:40:16 +0100",
+      "minecraft:warped_forest": "2026-03-23 23:09:19 +0100"
+    },
+    "done": false
+  },
+  "mega_showdown:recipes/misc/absolite": {
+    "criteria": {
+      "has_mega_stone": "2026-03-23 22:35:09 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/audinite": {
+    "criteria": {
+      "has_mega_stone": "2026-03-23 22:35:09 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/houndoominite": {
+    "criteria": {
+      "has_mega_stone": "2026-03-23 22:35:09 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/pidgeotite": {
+    "criteria": {
+      "has_mega_stone": "2026-03-23 22:35:09 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/salamencite": {
+    "criteria": {
+      "has_mega_stone": "2026-03-23 22:35:09 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/venusaurite": {
+    "criteria": {
+      "has_mega_stone": "2026-03-23 22:35:09 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2026-03-23 22:41:34 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/galladite": {
+    "criteria": {
+      "has_mega_stone": "2026-03-23 22:35:09 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2026-03-23 22:41:34 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/blastoisinite": {
+    "criteria": {
+      "has_mega_stone": "2026-03-23 22:35:09 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/charizardite_y": {
+    "criteria": {
+      "has_mega_stone": "2026-03-23 22:35:09 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/charizardite_x": {
+    "criteria": {
+      "has_mega_stone": "2026-03-23 22:35:09 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2026-03-23 22:41:34 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/swampertite": {
+    "criteria": {
+      "has_mega_stone": "2026-03-23 22:35:09 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2026-03-23 22:41:34 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:mega_showdown/mega/craft_mega_stones": {
+    "criteria": {
+      "mega_stone": "2026-03-23 22:35:09 +0100"
+    },
+    "done": false
+  },
+  "mega_showdown:recipes/misc/steelixite": {
+    "criteria": {
+      "has_mega_stone": "2026-03-23 22:35:09 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/aggroniite": {
+    "criteria": {
+      "has_mega_stone": "2026-03-23 22:35:09 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/lopunnite": {
+    "criteria": {
+      "has_mega_stone": "2026-03-23 22:35:09 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/metagrossite": {
+    "criteria": {
+      "has_mega_stone": "2026-03-23 22:35:09 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/pinsirite": {
+    "criteria": {
+      "has_mega_stone": "2026-03-23 22:35:09 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/glalitite": {
+    "criteria": {
+      "has_mega_stone": "2026-03-23 22:35:09 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/abomasite": {
+    "criteria": {
+      "has_mega_stone": "2026-03-23 22:35:09 +0100",
+      "has_the_recipe": "2026-03-23 22:35:09 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/scizorite": {
+    "criteria": {
+      "has_mega_stone": "2026-03-23 22:35:09 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/beedrillite": {
+    "criteria": {
+      "has_mega_stone": "2026-03-23 22:35:09 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:mega_showdown/mega/find_raw_megastone": {
+    "criteria": {
+      "obtained_raw_mega_stones": "2026-03-23 22:35:09 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/mawilite": {
+    "criteria": {
+      "has_mega_stone": "2026-03-23 22:35:09 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/cameruptite": {
+    "criteria": {
+      "has_mega_stone": "2026-03-23 22:35:09 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/fancy_painting": {
+    "criteria": {
+      "has_fancy_painting": "2026-03-23 22:56:41 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2026-03-23 22:41:22 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/diancite": {
+    "criteria": {
+      "has_mega_stone": "2026-03-23 22:35:09 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2026-03-23 22:34:32 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/medichamite": {
+    "criteria": {
+      "has_mega_stone": "2026-03-23 22:35:09 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/sharpedonite": {
+    "criteria": {
+      "has_mega_stone": "2026-03-23 22:35:09 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/sablenite": {
+    "criteria": {
+      "has_mega_stone": "2026-03-23 22:35:09 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/gengarite": {
+    "criteria": {
+      "has_mega_stone": "2026-03-23 22:35:09 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/blazikenite": {
+    "criteria": {
+      "has_mega_stone": "2026-03-23 22:35:09 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2026-03-23 22:40:15 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:first_battle_victory": {
+    "criteria": {
+      "win": "2026-03-23 22:21:34 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/banettite": {
+    "criteria": {
+      "has_mega_stone": "2026-03-23 22:35:09 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/latiosite": {
+    "criteria": {
+      "has_mega_stone": "2026-03-23 22:35:09 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/latiasite": {
+    "criteria": {
+      "has_mega_stone": "2026-03-23 22:35:09 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/tyranitarite": {
+    "criteria": {
+      "has_mega_stone": "2026-03-23 22:35:09 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/gyaradosite": {
+    "criteria": {
+      "has_mega_stone": "2026-03-23 22:35:09 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/aerodactylite": {
+    "criteria": {
+      "has_mega_stone": "2026-03-23 22:35:09 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/heracronite": {
+    "criteria": {
+      "has_mega_stone": "2026-03-23 22:35:09 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2026-03-23 22:41:34 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2026-03-23 22:41:34 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/mewtwonite_y": {
+    "criteria": {
+      "has_mega_stone": "2026-03-23 22:35:09 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/garchompite": {
+    "criteria": {
+      "has_mega_stone": "2026-03-23 22:35:09 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/manectite": {
+    "criteria": {
+      "has_mega_stone": "2026-03-23 22:35:09 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/mewtwonite_x": {
+    "criteria": {
+      "has_mega_stone": "2026-03-23 22:35:09 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2026-03-23 22:40:15 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/ampharosite": {
+    "criteria": {
+      "has_mega_stone": "2026-03-23 22:35:09 +0100",
+      "has_the_recipe": "2026-03-23 22:35:09 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/sceptilite": {
+    "criteria": {
+      "has_mega_stone": "2026-03-23 22:35:09 +0100"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2026-03-23 22:34:32 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/slowbronite": {
+    "criteria": {
+      "has_mega_stone": "2026-03-23 22:35:09 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/gardevoirite": {
+    "criteria": {
+      "has_mega_stone": "2026-03-23 22:35:09 +0100"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2026-03-23 22:34:32 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/kangaskhanite": {
+    "criteria": {
+      "has_mega_stone": "2026-03-23 22:35:09 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/lucarionite": {
+    "criteria": {
+      "has_mega_stone": "2026-03-23 22:35:09 +0100",
+      "has_the_recipe": "2026-03-23 22:35:09 +0100"
     },
     "done": true
   },

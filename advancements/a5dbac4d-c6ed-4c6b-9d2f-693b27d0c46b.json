@@ -19,33 +19,18 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:cold_ocean": "2026-03-05 01:15:45 +0100",
       "minecraft:snowy_slopes": "2026-03-04 23:36:34 +0100",
-      "minecraft:forest": "2026-03-02 01:05:44 +0100",
       "minecraft:taiga": "2026-03-15 01:07:18 +0100",
       "minecraft:deep_ocean": "2026-03-05 01:07:30 +0100",
-      "minecraft:lush_caves": "2026-03-03 23:07:57 +0100",
-      "minecraft:frozen_ocean": "2026-03-05 01:16:24 +0100",
       "minecraft:eroded_badlands": "2026-03-14 18:33:10 +0100",
-      "minecraft:desert": "2026-03-02 01:06:51 +0100",
       "minecraft:frozen_river": "2026-03-05 01:21:16 +0100",
-      "minecraft:deep_frozen_ocean": "2026-03-05 01:16:28 +0100",
-      "minecraft:windswept_forest": "2026-03-15 01:02:45 +0100",
-      "minecraft:jungle": "2026-03-01 22:55:33 +0100",
-      "minecraft:ocean": "2026-03-04 23:32:10 +0100",
       "minecraft:cherry_grove": "2026-03-04 23:47:57 +0100",
       "minecraft:sunflower_plains": "2026-03-04 23:36:30 +0100",
       "minecraft:birch_forest": "2026-03-03 02:28:03 +0100",
       "minecraft:windswept_hills": "2026-03-18 01:34:46 +0100",
-      "minecraft:old_growth_spruce_taiga": "2026-03-05 01:15:42 +0100",
-      "minecraft:snowy_beach": "2026-03-05 01:21:24 +0100",
       "minecraft:bamboo_jungle": "2026-03-01 22:59:26 +0100",
       "minecraft:wooded_badlands": "2026-03-02 01:14:14 +0100",
-      "minecraft:windswept_savanna": "2026-03-01 23:13:24 +0100",
-      "minecraft:warm_ocean": "2026-03-02 01:07:42 +0100",
-      "minecraft:deep_lukewarm_ocean": "2026-03-05 01:05:51 +0100",
       "minecraft:badlands": "2026-03-20 19:33:33 +0100",
-      "minecraft:flower_forest": "2026-03-05 00:17:08 +0100",
       "minecraft:savanna_plateau": "2026-03-21 01:56:19 +0100",
       "minecraft:beach": "2026-03-01 22:55:48 +0100",
       "minecraft:dark_forest": "2026-03-07 01:23:03 +0100",
@@ -58,11 +43,28 @@
       "minecraft:snowy_plains": "2026-03-05 01:27:03 +0100",
       "minecraft:snowy_taiga": "2026-03-05 01:23:00 +0100",
       "minecraft:dripstone_caves": "2026-03-07 16:28:00 +0100",
+      "minecraft:swamp": "2026-03-06 00:38:52 +0100",
+      "minecraft:grove": "2026-03-07 01:22:31 +0100",
+      "minecraft:cold_ocean": "2026-03-05 01:15:45 +0100",
+      "minecraft:forest": "2026-03-02 01:05:44 +0100",
+      "minecraft:lush_caves": "2026-03-03 23:07:57 +0100",
+      "minecraft:deep_cold_ocean": "2026-03-24 01:26:47 +0100",
+      "minecraft:ice_spikes": "2026-03-24 02:07:09 +0100",
+      "minecraft:frozen_ocean": "2026-03-05 01:16:24 +0100",
+      "minecraft:desert": "2026-03-02 01:06:51 +0100",
+      "minecraft:deep_frozen_ocean": "2026-03-05 01:16:28 +0100",
+      "minecraft:windswept_forest": "2026-03-15 01:02:45 +0100",
+      "minecraft:jungle": "2026-03-01 22:55:33 +0100",
+      "minecraft:ocean": "2026-03-04 23:32:10 +0100",
+      "minecraft:old_growth_spruce_taiga": "2026-03-05 01:15:42 +0100",
+      "minecraft:snowy_beach": "2026-03-05 01:21:24 +0100",
+      "minecraft:windswept_savanna": "2026-03-01 23:13:24 +0100",
+      "minecraft:warm_ocean": "2026-03-02 01:07:42 +0100",
+      "minecraft:deep_lukewarm_ocean": "2026-03-05 01:05:51 +0100",
+      "minecraft:flower_forest": "2026-03-05 00:17:08 +0100",
       "minecraft:frozen_peaks": "2026-03-04 23:36:52 +0100",
       "minecraft:old_growth_birch_forest": "2026-03-07 01:21:50 +0100",
       "minecraft:deep_dark": "2026-03-14 22:54:46 +0100",
-      "minecraft:swamp": "2026-03-06 00:38:52 +0100",
-      "minecraft:grove": "2026-03-07 01:22:31 +0100",
       "minecraft:meadow": "2026-03-03 02:25:28 +0100",
       "minecraft:windswept_gravelly_hills": "2026-03-15 01:02:25 +0100",
       "minecraft:savanna": "2026-03-01 23:37:05 +0100",
@@ -632,53 +634,54 @@
   },
   "cobblemon:obtain_all_berries": {
     "criteria": {
-      "obtain_lansat_berry": "2026-03-07 01:24:11 +0100",
-      "obtain_coba_berry": "2026-03-06 02:28:00 +0100",
-      "obtain_lum_berry": "2026-03-07 17:47:53 +0100",
       "obtain_pinap_berry": "2026-03-12 23:02:59 +0100",
-      "obtain_kelpsy_berry": "2026-03-15 03:54:10 +0100",
       "obtain_starf_berry": "2026-03-15 02:47:28 +0100",
       "obtain_payapa_berry": "2026-03-06 02:59:16 +0100",
       "obtain_yache_berry": "2026-03-14 16:15:35 +0100",
       "obtain_charti_berry": "2026-03-15 03:21:33 +0100",
-      "obtain_chilan_berry": "2026-03-06 01:55:52 +0100",
-      "obtain_micle_berry": "2026-03-10 00:31:39 +0100",
-      "obtain_leppa_berry": "2026-03-12 23:02:59 +0100",
-      "obtain_persim_berry": "2026-03-06 01:48:33 +0100",
-      "obtain_rindo_berry": "2026-03-15 03:21:35 +0100",
       "obtain_shuca_berry": "2026-03-10 01:23:43 +0100",
       "obtain_cornn_berry": "2026-03-15 03:51:11 +0100",
-      "obtain_grepa_berry": "2026-03-06 01:20:30 +0100",
       "obtain_occa_berry": "2026-03-05 22:06:17 +0100",
       "obtain_ganlon_berry": "2026-03-15 03:20:56 +0100",
       "obtain_rawst_berry": "2026-03-01 23:48:40 +0100",
       "obtain_kebia_berry": "2026-03-15 03:20:59 +0100",
       "obtain_aspear_berry": "2026-03-03 17:46:36 +0100",
       "obtain_rabuta_berry": "2026-03-15 03:20:51 +0100",
-      "obtain_pecha_berry": "2026-03-02 01:01:00 +0100",
-      "obtain_razz_berry": "2026-03-06 02:03:50 +0100",
       "obtain_sitrus_berry": "2026-03-03 01:17:33 +0100",
       "obtain_nanab_berry": "2026-03-15 03:21:36 +0100",
-      "obtain_apicot_berry": "2026-03-02 01:16:19 +0100",
       "obtain_tamato_berry": "2026-03-15 02:28:11 +0100",
-      "obtain_custap_berry": "2026-03-07 16:55:36 +0100",
       "obtain_liechi_berry": "2026-03-03 02:44:31 +0100",
+      "obtain_hondew_berry": "2026-03-15 03:56:07 +0100",
+      "obtain_babiri_berry": "2026-03-02 01:08:43 +0100",
+      "obtain_passho_berry": "2026-03-07 14:40:37 +0100",
+      "obtain_rowap_berry": "2026-03-15 03:21:03 +0100",
+      "obtain_colbur_berry": "2026-03-15 03:21:33 +0100",
+      "obtain_chesto_berry": "2026-03-07 17:35:38 +0100",
+      "obtain_kasib_berry": "2026-03-03 00:05:56 +0100",
+      "obtain_lansat_berry": "2026-03-07 01:24:11 +0100",
+      "obtain_coba_berry": "2026-03-06 02:28:00 +0100",
+      "obtain_lum_berry": "2026-03-07 17:47:53 +0100",
+      "obtain_kelpsy_berry": "2026-03-15 03:54:10 +0100",
+      "obtain_chilan_berry": "2026-03-06 01:55:52 +0100",
+      "obtain_micle_berry": "2026-03-10 00:31:39 +0100",
+      "obtain_leppa_berry": "2026-03-12 23:02:59 +0100",
+      "obtain_persim_berry": "2026-03-06 01:48:33 +0100",
+      "obtain_rindo_berry": "2026-03-15 03:21:35 +0100",
+      "obtain_salac_berry": "2026-03-24 02:40:48 +0100",
+      "obtain_grepa_berry": "2026-03-06 01:20:30 +0100",
+      "obtain_pecha_berry": "2026-03-02 01:01:00 +0100",
+      "obtain_razz_berry": "2026-03-06 02:03:50 +0100",
+      "obtain_apicot_berry": "2026-03-02 01:16:19 +0100",
+      "obtain_custap_berry": "2026-03-07 16:55:36 +0100",
       "obtain_oran_berry": "2026-03-01 23:32:31 +0100",
       "obtain_bluk_berry": "2026-03-14 01:55:11 +0100",
-      "obtain_hondew_berry": "2026-03-15 03:56:07 +0100",
       "obtain_tanga_berry": "2026-03-06 01:53:55 +0100",
-      "obtain_babiri_berry": "2026-03-02 01:08:43 +0100",
       "obtain_jaboca_berry": "2026-03-15 03:21:31 +0100",
-      "obtain_passho_berry": "2026-03-07 14:40:37 +0100",
       "obtain_figy_berry": "2026-03-15 03:20:56 +0100",
       "obtain_cheri_berry": "2026-03-02 23:32:17 +0100",
-      "obtain_rowap_berry": "2026-03-15 03:21:03 +0100",
       "obtain_wiki_berry": "2026-03-15 03:48:42 +0100",
-      "obtain_colbur_berry": "2026-03-15 03:21:33 +0100",
       "obtain_wacan_berry": "2026-03-06 01:48:53 +0100",
-      "obtain_chesto_berry": "2026-03-07 17:35:38 +0100",
       "obtain_petaya_berry": "2026-03-07 16:55:32 +0100",
-      "obtain_kasib_berry": "2026-03-03 00:05:56 +0100",
       "obtain_wepear_berry": "2026-03-15 03:21:39 +0100"
     },
     "done": false
@@ -13997,6 +14000,441 @@
   "mega_showdown:mega_showdown/tera/terastallized": {
     "criteria": {
       "terra_any": "2026-03-22 23:01:59 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:mega_showdown/tera/change_tera": {
+    "criteria": {
+      "terra_changer": "2026-03-23 11:11:27 +0100"
+    },
+    "done": true
+  },
+  "rctmod:trainers/defeat_elite_four_arabella": {
+    "criteria": {
+      "defeat_elite_four_arabella": "2026-03-23 19:54:35 +0100"
+    },
+    "done": true
+  },
+  "rctmod:trainers/defeat_elite_four_borrius": {
+    "criteria": {
+      "defeat_elite_four_moleman": "2026-03-23 20:14:34 +0100",
+      "defeat_elite_four_elias": "2026-03-23 20:23:40 +0100",
+      "defeat_elite_four_penny": "2026-03-23 23:00:48 +0100",
+      "defeat_elite_four_arabella": "2026-03-23 19:54:35 +0100"
+    },
+    "done": true
+  },
+  "rctmod:trainers/defeat_elite_four_moleman": {
+    "criteria": {
+      "defeat_elite_four_moleman": "2026-03-23 20:14:34 +0100"
+    },
+    "done": true
+  },
+  "rctmod:trainers/defeat_elite_four_elias": {
+    "criteria": {
+      "defeat_elite_four_elias": "2026-03-23 20:23:40 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2026-03-23 20:41:31 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2026-03-23 20:41:31 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2026-03-23 20:41:31 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/quartz_pillar_trim": {
+    "criteria": {
+      "has_quartz_pillar_trim": "2026-03-23 20:41:31 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2026-03-23 20:41:31 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2026-03-23 20:41:31 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/plate": {
+    "criteria": {
+      "has_minecraft:quartz_block": "2026-03-23 20:41:31 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/quartz_corner_trim": {
+    "criteria": {
+      "has_quartz_corner_trim": "2026-03-23 20:41:31 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2026-03-23 20:41:31 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2026-03-23 20:41:31 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2026-03-23 20:41:31 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2026-03-23 20:41:31 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2026-03-23 20:41:31 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2026-03-23 20:41:31 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2026-03-23 20:42:11 +0100"
+    },
+    "done": true
+  },
+  "rctmod:trainers/defeat_elite_four_penny": {
+    "criteria": {
+      "defeat_elite_four_penny": "2026-03-23 23:00:48 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2026-03-24 00:13:56 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab": {
+    "criteria": {
+      "has_polished_granite": "2026-03-24 00:13:56 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2026-03-24 00:13:56 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs": {
+    "criteria": {
+      "has_polished_granite": "2026-03-24 00:13:56 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_red_sandstone": "2026-03-24 00:14:57 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone_stairs_from_smooth_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_red_sandstone": "2026-03-24 00:14:57 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone_slab": {
+    "criteria": {
+      "has_smooth_red_sandstone": "2026-03-24 00:14:57 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone_slab_from_smooth_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_red_sandstone": "2026-03-24 00:14:57 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/agriculture/salac_berry_smelt_to_dye": {
+    "criteria": {
+      "has_berry": "2026-03-24 02:40:48 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_side_table": {
+    "criteria": {
+      "has_dark_oak_side_table": "2026-03-24 04:05:47 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_cabinetry": {
+    "criteria": {
+      "has_minecraft:dark_oak_planks": "2026-03-24 04:05:47 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_crate": {
+    "criteria": {
+      "has_minecraft:dark_oak_planks": "2026-03-24 04:05:47 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_drawer": {
+    "criteria": {
+      "has_minecraft:dark_oak_planks": "2026-03-24 04:05:47 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2026-03-24 04:05:50 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_fancy_bed": {
+    "criteria": {
+      "has_dark_oak_fancy_bed": "2026-03-24 04:05:47 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_table": {
+    "criteria": {
+      "has_dark_oak_table": "2026-03-24 04:05:47 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_cutting_board": {
+    "criteria": {
+      "has_minecraft:dark_oak_planks": "2026-03-24 04:05:47 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_drawer": {
+    "criteria": {
+      "has_minecraft:dark_oak_planks": "2026-03-24 04:05:47 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2026-03-24 04:05:47 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/campfire_pot/x_speed": {
+    "criteria": {
+      "has_berry": "2026-03-24 02:40:48 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_nightstand": {
+    "criteria": {
+      "has_dark_oak_nightstand": "2026-03-24 04:05:47 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_mail_box": {
+    "criteria": {
+      "has_minecraft:dark_oak_planks": "2026-03-24 04:05:47 +0100"
+    },
+    "done": true
+  },
+  "cobblemonextrastructures:pharmacy": {
+    "criteria": {
+      "pharmacy": "2026-03-24 01:24:57 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_shelf": {
+    "criteria": {
+      "has_dark_oak_shelf": "2026-03-24 04:05:47 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2026-03-24 04:05:47 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_dining_bench": {
+    "criteria": {
+      "has_dark_oak_dining_bench": "2026-03-24 04:05:47 +0100"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/dark_oak_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2026-03-24 04:05:47 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_cupboard": {
+    "criteria": {
+      "has_dark_oak_cupboard": "2026-03-24 04:05:47 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2026-03-24 04:05:50 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2026-03-24 04:05:47 +0100"
+    },
+    "done": true
+  },
+  "rctmod:trainers/defeat_champion_jax": {
+    "criteria": {
+      "defeat_champion_jax": "2026-03-24 02:24:53 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_corner_trim": {
+    "criteria": {
+      "has_dark_oak_corner_trim": "2026-03-24 04:05:47 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_chair": {
+    "criteria": {
+      "has_minecraft:dark_oak_planks": "2026-03-24 04:05:47 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2026-03-24 04:05:47 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2026-03-24 04:05:47 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_counter": {
+    "criteria": {
+      "has_dark_oak_counter": "2026-03-24 04:05:47 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2026-03-24 04:05:47 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_table": {
+    "criteria": {
+      "has_minecraft:dark_oak_planks": "2026-03-24 04:05:47 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_bench": {
+    "criteria": {
+      "has_dark_oak_bench": "2026-03-24 04:05:47 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_drawer": {
+    "criteria": {
+      "has_dark_oak_drawer": "2026-03-24 04:05:47 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_minecraft:dark_oak_planks": "2026-03-24 04:05:47 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_couch": {
+    "criteria": {
+      "has_dark_oak_couch": "2026-03-24 04:05:47 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2026-03-24 04:05:47 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2026-03-24 04:05:47 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2026-03-24 04:05:47 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_chair": {
+    "criteria": {
+      "has_dark_oak_chair": "2026-03-24 04:05:47 +0100"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/rope_dark_oak_bridge": {
+    "criteria": {
+      "has_planks": "2026-03-24 04:05:47 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_desk": {
+    "criteria": {
+      "has_dark_oak_desk": "2026-03-24 04:05:47 +0100"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/dark_oak_rail_bridge": {
+    "criteria": {
+      "has_planks": "2026-03-24 04:05:47 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_desk": {
+    "criteria": {
+      "has_minecraft:dark_oak_planks": "2026-03-24 04:05:47 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_pillar_trim": {
+    "criteria": {
+      "has_dark_oak_pillar_trim": "2026-03-24 04:05:47 +0100"
     },
     "done": true
   },

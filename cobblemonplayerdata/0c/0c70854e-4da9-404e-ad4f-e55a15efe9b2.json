@@ -10,35 +10,35 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 268,
+    "totalCaptureCount": 289,
     "totalEggsCollected": 70,
-    "totalEggsHatched": 3698,
+    "totalEggsHatched": 4212,
     "totalEvolvedCount": 23,
-    "totalBattleVictoryCount": 302,
+    "totalBattleVictoryCount": 309,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 285,
+    "totalPvWBattleVictoryCount": 292,
     "totalPvNBattleVictoryCount": 17,
-    "totalShinyCaptureCount": 4,
-    "totalTradedCount": 45,
+    "totalShinyCaptureCount": 7,
+    "totalTradedCount": 50,
     "totalTypeCaptureCounts": {
-      "normal": 90,
+      "normal": 93,
       "ground": 23,
-      "electric": 15,
+      "electric": 16,
       "fairy": 29,
-      "water": 36,
-      "grass": 31,
-      "ghost": 11,
-      "dark": 12,
-      "fire": 25,
+      "water": 41,
+      "grass": 34,
+      "ghost": 12,
+      "dark": 14,
+      "fire": 30,
       "bug": 4,
-      "psychic": 17,
-      "poison": 10,
+      "psychic": 19,
+      "poison": 11,
       "steel": 8,
       "rock": 6,
       "dragon": 6,
-      "ice": 8,
-      "flying": 9,
-      "fighting": 6
+      "ice": 10,
+      "flying": 10,
+      "fighting": 7
     },
     "totalDefeatedCounts": {
       "cobblemon:patrat": 9,
@@ -142,7 +142,8 @@
       "cobblemon:duskull": 1,
       "cobblemon:gastly": 1,
       "cobblemon:slugma": 1,
-      "cobblemon:flittle": 1
+      "cobblemon:flittle": 1,
+      "cobblemon:regice": 1
     },
     "aspectsCollected": {
       "cobblemon:komala": [
@@ -187,7 +188,8 @@
       "cobblemon:deerling": [
         "male",
         "spring",
-        "female"
+        "female",
+        "summer"
       ],
       "cobblemon:zigzagoon": [
         "male",
@@ -235,7 +237,8 @@
         "female"
       ],
       "cobblemon:arcanine": [
-        "male"
+        "male",
+        "alpha"
       ],
       "cobblemon:persian": [
         "male"
@@ -700,7 +703,8 @@
       ],
       "cobblemon:houndoom": [
         "male",
-        "alpha"
+        "alpha",
+        "female"
       ],
       "cobblemon:wigglytuff": [
         "female",
@@ -841,6 +845,59 @@
       ],
       "cobblemon:slugma": [
         "female"
+      ],
+      "cobblemon:espathra": [
+        "female"
+      ],
+      "cobblemon:ludicolo": [
+        "female"
+      ],
+      "cobblemon:growlithe": [
+        "male"
+      ],
+      "cobblemon:clauncher": [
+        "shiny",
+        "female",
+        "claw-left"
+      ],
+      "cobblemon:wugtrio": [
+        "male",
+        "alpha"
+      ],
+      "cobblemon:gimmighoul": [
+        "genderless"
+      ],
+      "cobblemon:meditite": [
+        "female"
+      ],
+      "cobblemon:dubwool": [
+        "male",
+        "color-none",
+        "alpha"
+      ],
+      "cobblemon:tentacool": [
+        "shiny",
+        "male"
+      ],
+      "cobblemon:zapdos": [
+        "genderless"
+      ],
+      "cobblemon:quilava": [
+        "female"
+      ],
+      "cobblemon:regice": [
+        "genderless"
+      ],
+      "cobblemon:beartic": [
+        "male",
+        "alpha"
+      ],
+      "cobblemon:chimchar": [
+        "female"
+      ],
+      "cobblemon:nickit": [
+        "shiny",
+        "male"
       ]
     }
   }

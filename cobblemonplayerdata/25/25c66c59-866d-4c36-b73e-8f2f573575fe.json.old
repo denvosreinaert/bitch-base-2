@@ -4,45 +4,59 @@
   "starterLocked": false,
   "starterSelected": true,
   "starterUUID": "44191424-5526-4aff-ac17-5aa15de9abe2",
-  "keyItems": [],
+  "keyItems": [
+    "cobblemon:key_stone"
+  ],
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 17,
+    "totalCaptureCount": 23,
     "totalEggsCollected": 0,
-    "totalEggsHatched": 8,
-    "totalEvolvedCount": 4,
-    "totalBattleVictoryCount": 31,
-    "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 18,
-    "totalPvNBattleVictoryCount": 13,
+    "totalEggsHatched": 12,
+    "totalEvolvedCount": 6,
+    "totalBattleVictoryCount": 71,
+    "totalPvPBattleVictoryCount": 1,
+    "totalPvWBattleVictoryCount": 39,
+    "totalPvNBattleVictoryCount": 31,
     "totalShinyCaptureCount": 0,
-    "totalTradedCount": 1,
+    "totalTradedCount": 2,
     "totalTypeCaptureCounts": {
       "grass": 3,
       "water": 4,
       "dark": 3,
-      "normal": 2,
-      "flying": 3,
+      "normal": 3,
+      "flying": 5,
       "fairy": 1,
-      "fighting": 1,
+      "fighting": 2,
       "rock": 1,
       "bug": 2,
       "poison": 1,
-      "fire": 2,
-      "ice": 1
+      "fire": 3,
+      "ice": 1,
+      "ground": 1,
+      "electric": 2
     },
     "totalDefeatedCounts": {
       "cobblemon:ditto": 1,
       "cobblemon:igglybuff": 1,
       "cobblemon:sentret": 1,
-      "cobblemon:bunnelby": 1,
-      "cobblemon:crabrawler": 2,
+      "cobblemon:bunnelby": 2,
+      "cobblemon:crabrawler": 3,
       "cobblemon:purrloin": 1,
       "cobblemon:tentacool": 1,
       "cobblemon:spearow": 1,
       "cobblemon:binacle": 2,
-      "cobblemon:camerupt": 1
+      "cobblemon:camerupt": 1,
+      "cobblemon:patrat": 1,
+      "cobblemon:makuhita": 1,
+      "cobblemon:wormadam": 1,
+      "cobblemon:shinx": 1,
+      "cobblemon:hippopotas": 1,
+      "cobblemon:vulpix": 3,
+      "cobblemon:grimer": 1,
+      "cobblemon:snorunt": 2,
+      "cobblemon:spiritomb": 1,
+      "cobblemon:gimmighoul": 2
     },
     "aspectsCollected": {
       "cobblemon:seedot": [
@@ -112,6 +126,33 @@
       ],
       "cobblemon:scyther": [
         "male"
+      ],
+      "cobblemon:vulpix": [
+        "male"
+      ],
+      "cobblemon:pignite": [
+        "male"
+      ],
+      "cobblemon:gligar": [
+        "male"
+      ],
+      "cobblemon:watchog": [
+        "male"
+      ],
+      "cobblemon:wiglett": [
+        "female"
+      ],
+      "cobblemon:gliscor": [
+        "male"
+      ],
+      "cobblemon:riolu": [
+        "male"
+      ],
+      "cobblemon:raikou": [
+        "genderless"
+      ],
+      "cobblemon:zapdos": [
+        "genderless"
       ]
     }
   }

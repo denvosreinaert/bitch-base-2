@@ -12404,51 +12404,9 @@
     },
     "done": true
   },
-  "refinedstorage:recipes/misc/coloring/cyan_controller": {
-    "criteria": {
-      "has_controllers": "2026-03-23 00:47:32 +0100"
-    },
-    "done": true
-  },
-  "refinedstorage:recipes/misc/coloring/green_external_storage": {
-    "criteria": {
-      "has_external_storages": "2026-03-23 00:28:29 +0100"
-    },
-    "done": true
-  },
-  "refinedstorage:recipes/misc/coloring/blue_controller": {
-    "criteria": {
-      "has_controllers": "2026-03-23 00:47:32 +0100"
-    },
-    "done": true
-  },
-  "refinedstorage:recipes/misc/coloring/purple_external_storage": {
-    "criteria": {
-      "has_external_storages": "2026-03-23 00:28:29 +0100"
-    },
-    "done": true
-  },
-  "refinedstorage:recipes/misc/coloring/blue_disk_interface": {
-    "criteria": {
-      "has_disk_interfaces": "2026-03-23 00:40:27 +0100"
-    },
-    "done": true
-  },
-  "refinedstorage:recipes/misc/coloring/brown_controller": {
-    "criteria": {
-      "has_controllers": "2026-03-23 00:47:32 +0100"
-    },
-    "done": true
-  },
   "refinedstorage:recipes/misc/coloring/cyan_exporter": {
     "criteria": {
       "has_exporters": "2026-03-23 00:27:29 +0100"
-    },
-    "done": true
-  },
-  "refinedstorage:recipes/misc/coloring/lime_disk_interface": {
-    "criteria": {
-      "has_disk_interfaces": "2026-03-23 00:40:27 +0100"
     },
     "done": true
   },
@@ -12464,99 +12422,15 @@
     },
     "done": true
   },
-  "farmersdelight:main/place_campfire": {
-    "criteria": {
-      "campfire": "2026-03-23 02:08:28 +0100"
-    },
-    "done": true
-  },
-  "refinedstorage:recipes/misc/coloring/light_blue_controller": {
-    "criteria": {
-      "has_controllers": "2026-03-23 00:47:32 +0100"
-    },
-    "done": true
-  },
-  "refinedstorage:storing_externally": {
-    "criteria": {
-      "external_storage_in_inventory": "2026-03-23 00:28:29 +0100"
-    },
-    "done": true
-  },
   "refinedstorage:recipes/misc/coloring/lime_exporter": {
     "criteria": {
       "has_exporters": "2026-03-23 00:27:29 +0100"
     },
     "done": true
   },
-  "refinedstorage:recipes/misc/coloring/gray_disk_interface": {
-    "criteria": {
-      "has_disk_interfaces": "2026-03-23 00:40:27 +0100"
-    },
-    "done": true
-  },
-  "refinedstorage:recipes/misc/coloring/magenta_controller": {
-    "criteria": {
-      "has_controllers": "2026-03-23 00:47:32 +0100"
-    },
-    "done": true
-  },
-  "refinedstorage:better_than_a_barrel": {
-    "criteria": {
-      "storage_monitor_in_inventory": "2026-03-23 00:43:53 +0100"
-    },
-    "done": true
-  },
-  "refinedstorage:recipes/misc/coloring/yellow_external_storage": {
-    "criteria": {
-      "has_external_storages": "2026-03-23 00:28:29 +0100"
-    },
-    "done": true
-  },
-  "refinedstorage:recipes/misc/coloring/purple_disk_interface": {
-    "criteria": {
-      "has_disk_interfaces": "2026-03-23 00:40:27 +0100"
-    },
-    "done": true
-  },
-  "refinedstorage:recipes/misc/coloring/light_blue_external_storage": {
-    "criteria": {
-      "has_external_storages": "2026-03-23 00:28:29 +0100"
-    },
-    "done": true
-  },
-  "refinedstorage:recipes/misc/coloring/brown_external_storage": {
-    "criteria": {
-      "has_external_storages": "2026-03-23 00:28:29 +0100"
-    },
-    "done": true
-  },
-  "refinedstorage:recipes/misc/coloring/green_disk_interface": {
-    "criteria": {
-      "has_disk_interfaces": "2026-03-23 00:40:27 +0100"
-    },
-    "done": true
-  },
-  "refinedstorage:recipes/misc/coloring/purple_controller": {
-    "criteria": {
-      "has_controllers": "2026-03-23 00:47:32 +0100"
-    },
-    "done": true
-  },
   "refinedstorage:recipes/misc/coloring/magenta_exporter": {
     "criteria": {
       "has_exporters": "2026-03-23 00:27:29 +0100"
-    },
-    "done": true
-  },
-  "refinedstorage:recipes/misc/coloring/red_external_storage": {
-    "criteria": {
-      "has_external_storages": "2026-03-23 00:28:29 +0100"
-    },
-    "done": true
-  },
-  "refinedstorage:recipes/misc/coloring/white_disk_interface": {
-    "criteria": {
-      "has_disk_interfaces": "2026-03-23 00:40:27 +0100"
     },
     "done": true
   },
@@ -12578,57 +12452,9 @@
     },
     "done": true
   },
-  "refinedstorage:recipes/misc/coloring/gray_external_storage": {
-    "criteria": {
-      "has_external_storages": "2026-03-23 00:28:29 +0100"
-    },
-    "done": true
-  },
-  "cobblemon:place_campfire_pot": {
-    "criteria": {
-      "place_pot": "2026-03-23 02:08:51 +0100"
-    },
-    "done": true
-  },
-  "refinedstorage:recipes/misc/coloring/cyan_external_storage": {
-    "criteria": {
-      "has_external_storages": "2026-03-23 00:28:29 +0100"
-    },
-    "done": true
-  },
   "refinedstorage:recipes/misc/coloring/green_exporter": {
     "criteria": {
       "has_exporters": "2026-03-23 00:27:29 +0100"
-    },
-    "done": true
-  },
-  "refinedstorage:recipes/misc/coloring/red_controller": {
-    "criteria": {
-      "has_controllers": "2026-03-23 00:47:32 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/magenta_dye_from_lilac": {
-    "criteria": {
-      "has_lilac": "2026-03-23 00:31:53 +0100"
-    },
-    "done": true
-  },
-  "refinedstorage:recipes/misc/coloring/orange_disk_interface": {
-    "criteria": {
-      "has_disk_interfaces": "2026-03-23 00:40:27 +0100"
-    },
-    "done": true
-  },
-  "refinedstorage:recipes/misc/coloring/black_disk_interface": {
-    "criteria": {
-      "has_disk_interfaces": "2026-03-23 00:40:27 +0100"
-    },
-    "done": true
-  },
-  "refinedstorage:recipes/misc/coloring/blue_external_storage": {
-    "criteria": {
-      "has_external_storages": "2026-03-23 00:28:29 +0100"
     },
     "done": true
   },
@@ -12638,63 +12464,9 @@
     },
     "done": true
   },
-  "refinedstorage:recipes/misc/coloring/light_gray_controller": {
-    "criteria": {
-      "has_controllers": "2026-03-23 00:47:32 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_stained_glass_pane": {
-    "criteria": {
-      "has_glass": "2026-03-23 02:48:41 +0100"
-    },
-    "done": true
-  },
-  "refinedstorage:recipes/misc/coloring/gray_controller": {
-    "criteria": {
-      "has_controllers": "2026-03-23 00:47:32 +0100"
-    },
-    "done": true
-  },
-  "refinedstorage:recipes/misc/coloring/light_blue_disk_interface": {
-    "criteria": {
-      "has_disk_interfaces": "2026-03-23 00:40:27 +0100"
-    },
-    "done": true
-  },
-  "refinedstorage:recipes/misc/coloring/green_controller": {
-    "criteria": {
-      "has_controllers": "2026-03-23 00:47:32 +0100"
-    },
-    "done": true
-  },
-  "refinedstorage:recipes/misc/coloring/white_controller": {
-    "criteria": {
-      "has_controllers": "2026-03-23 00:47:32 +0100"
-    },
-    "done": true
-  },
-  "refinedstorage:recipes/misc/coloring/yellow_disk_interface": {
-    "criteria": {
-      "has_disk_interfaces": "2026-03-23 00:40:27 +0100"
-    },
-    "done": true
-  },
   "refinedstorage:recipes/misc/coloring/white_exporter": {
     "criteria": {
       "has_exporters": "2026-03-23 00:27:29 +0100"
-    },
-    "done": true
-  },
-  "refinedstorage:recipes/misc/coloring/magenta_disk_interface": {
-    "criteria": {
-      "has_disk_interfaces": "2026-03-23 00:40:27 +0100"
-    },
-    "done": true
-  },
-  "refinedstorage:recipes/misc/coloring/lime_controller": {
-    "criteria": {
-      "has_controllers": "2026-03-23 00:47:32 +0100"
     },
     "done": true
   },
@@ -12704,33 +12476,9 @@
     },
     "done": true
   },
-  "refinedstorage:recipes/misc/coloring/light_gray_disk_interface": {
-    "criteria": {
-      "has_disk_interfaces": "2026-03-23 00:40:27 +0100"
-    },
-    "done": true
-  },
-  "refinedstorage:recipes/misc/coloring/light_gray_external_storage": {
-    "criteria": {
-      "has_external_storages": "2026-03-23 00:28:29 +0100"
-    },
-    "done": true
-  },
   "refinedstorage:recipes/misc/coloring/red_exporter": {
     "criteria": {
       "has_exporters": "2026-03-23 00:27:29 +0100"
-    },
-    "done": true
-  },
-  "refinedstorage:interfacing_with_disks": {
-    "criteria": {
-      "disk_interface_in_inventory": "2026-03-23 00:40:27 +0100"
-    },
-    "done": true
-  },
-  "refinedstorage:recipes/misc/coloring/pink_controller": {
-    "criteria": {
-      "has_controllers": "2026-03-23 00:47:32 +0100"
     },
     "done": true
   },
@@ -12740,57 +12488,9 @@
     },
     "done": true
   },
-  "refinedstorage:recipes/misc/coloring/black_controller": {
-    "criteria": {
-      "has_controllers": "2026-03-23 00:47:32 +0100"
-    },
-    "done": true
-  },
-  "refinedstorage:recipes/misc/coloring/yellow_controller": {
-    "criteria": {
-      "has_controllers": "2026-03-23 00:47:32 +0100"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/stove": {
-    "criteria": {
-      "has_campfire": "2026-03-23 02:08:26 +0100"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/magenta_dye_from_lilac": {
-    "criteria": {
-      "has_lilac": "2026-03-23 00:31:53 +0100"
-    },
-    "done": true
-  },
-  "refinedstorage:interface_to_the_world": {
-    "criteria": {
-      "interface_in_inventory": "2026-03-23 00:45:00 +0100"
-    },
-    "done": true
-  },
-  "refinedstorage:recipes/misc/coloring/pink_disk_interface": {
-    "criteria": {
-      "has_disk_interfaces": "2026-03-23 00:40:27 +0100"
-    },
-    "done": true
-  },
   "refinedstorage:recipes/misc/coloring/black_exporter": {
     "criteria": {
       "has_exporters": "2026-03-23 00:27:29 +0100"
-    },
-    "done": true
-  },
-  "refinedstorage:recipes/misc/coloring/orange_external_storage": {
-    "criteria": {
-      "has_external_storages": "2026-03-23 00:28:29 +0100"
-    },
-    "done": true
-  },
-  "refinedstorage:recipes/misc/coloring/orange_controller": {
-    "criteria": {
-      "has_controllers": "2026-03-23 00:47:32 +0100"
     },
     "done": true
   },
@@ -12800,15 +12500,87 @@
     },
     "done": true
   },
-  "refinedstorage:recipes/misc/coloring/white_external_storage": {
+  "refinedstorage:recipes/misc/coloring/purple_exporter": {
+    "criteria": {
+      "has_exporters": "2026-03-23 00:27:29 +0100"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring/green_external_storage": {
     "criteria": {
       "has_external_storages": "2026-03-23 00:28:29 +0100"
     },
     "done": true
   },
-  "refinedstorage:recipes/misc/coloring/red_disk_interface": {
+  "refinedstorage:recipes/misc/coloring/purple_external_storage": {
     "criteria": {
-      "has_disk_interfaces": "2026-03-23 00:40:27 +0100"
+      "has_external_storages": "2026-03-23 00:28:29 +0100"
+    },
+    "done": true
+  },
+  "refinedstorage:storing_externally": {
+    "criteria": {
+      "external_storage_in_inventory": "2026-03-23 00:28:29 +0100"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring/yellow_external_storage": {
+    "criteria": {
+      "has_external_storages": "2026-03-23 00:28:29 +0100"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring/light_blue_external_storage": {
+    "criteria": {
+      "has_external_storages": "2026-03-23 00:28:29 +0100"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring/brown_external_storage": {
+    "criteria": {
+      "has_external_storages": "2026-03-23 00:28:29 +0100"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring/red_external_storage": {
+    "criteria": {
+      "has_external_storages": "2026-03-23 00:28:29 +0100"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring/gray_external_storage": {
+    "criteria": {
+      "has_external_storages": "2026-03-23 00:28:29 +0100"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring/cyan_external_storage": {
+    "criteria": {
+      "has_external_storages": "2026-03-23 00:28:29 +0100"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring/blue_external_storage": {
+    "criteria": {
+      "has_external_storages": "2026-03-23 00:28:29 +0100"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring/light_gray_external_storage": {
+    "criteria": {
+      "has_external_storages": "2026-03-23 00:28:29 +0100"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring/orange_external_storage": {
+    "criteria": {
+      "has_external_storages": "2026-03-23 00:28:29 +0100"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring/white_external_storage": {
+    "criteria": {
+      "has_external_storages": "2026-03-23 00:28:29 +0100"
     },
     "done": true
   },
@@ -12818,21 +12590,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/decorations/acacia_cabinet": {
-    "criteria": {
-      "has_acacia_trapdoor": "2026-03-23 00:55:13 +0100"
-    },
-    "done": true
-  },
   "refinedstorage:recipes/misc/coloring/black_external_storage": {
     "criteria": {
       "has_external_storages": "2026-03-23 00:28:29 +0100"
-    },
-    "done": true
-  },
-  "refinedstorage:root": {
-    "criteria": {
-      "controller_in_inventory": "2026-03-23 00:47:32 +0100"
     },
     "done": true
   },
@@ -12848,6 +12608,108 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2026-03-23 00:31:53 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2026-03-23 00:31:53 +0100"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring/blue_disk_interface": {
+    "criteria": {
+      "has_disk_interfaces": "2026-03-23 00:40:27 +0100"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring/lime_disk_interface": {
+    "criteria": {
+      "has_disk_interfaces": "2026-03-23 00:40:27 +0100"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring/gray_disk_interface": {
+    "criteria": {
+      "has_disk_interfaces": "2026-03-23 00:40:27 +0100"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring/purple_disk_interface": {
+    "criteria": {
+      "has_disk_interfaces": "2026-03-23 00:40:27 +0100"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring/green_disk_interface": {
+    "criteria": {
+      "has_disk_interfaces": "2026-03-23 00:40:27 +0100"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring/white_disk_interface": {
+    "criteria": {
+      "has_disk_interfaces": "2026-03-23 00:40:27 +0100"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring/orange_disk_interface": {
+    "criteria": {
+      "has_disk_interfaces": "2026-03-23 00:40:27 +0100"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring/black_disk_interface": {
+    "criteria": {
+      "has_disk_interfaces": "2026-03-23 00:40:27 +0100"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring/light_blue_disk_interface": {
+    "criteria": {
+      "has_disk_interfaces": "2026-03-23 00:40:27 +0100"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring/yellow_disk_interface": {
+    "criteria": {
+      "has_disk_interfaces": "2026-03-23 00:40:27 +0100"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring/magenta_disk_interface": {
+    "criteria": {
+      "has_disk_interfaces": "2026-03-23 00:40:27 +0100"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring/light_gray_disk_interface": {
+    "criteria": {
+      "has_disk_interfaces": "2026-03-23 00:40:27 +0100"
+    },
+    "done": true
+  },
+  "refinedstorage:interfacing_with_disks": {
+    "criteria": {
+      "disk_interface_in_inventory": "2026-03-23 00:40:27 +0100"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring/pink_disk_interface": {
+    "criteria": {
+      "has_disk_interfaces": "2026-03-23 00:40:27 +0100"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring/red_disk_interface": {
+    "criteria": {
+      "has_disk_interfaces": "2026-03-23 00:40:27 +0100"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/misc/coloring/cyan_disk_interface": {
     "criteria": {
       "has_disk_interfaces": "2026-03-23 00:40:27 +0100"
@@ -12860,9 +12722,267 @@
     },
     "done": true
   },
-  "refinedstorage:recipes/misc/coloring/purple_exporter": {
+  "refinedstorage:better_than_a_barrel": {
     "criteria": {
-      "has_exporters": "2026-03-23 00:27:29 +0100"
+      "storage_monitor_in_inventory": "2026-03-23 00:43:53 +0100"
+    },
+    "done": true
+  },
+  "refinedstorage:interface_to_the_world": {
+    "criteria": {
+      "interface_in_inventory": "2026-03-23 00:45:00 +0100"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring/cyan_controller": {
+    "criteria": {
+      "has_controllers": "2026-03-23 00:47:32 +0100"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring/blue_controller": {
+    "criteria": {
+      "has_controllers": "2026-03-23 00:47:32 +0100"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring/brown_controller": {
+    "criteria": {
+      "has_controllers": "2026-03-23 00:47:32 +0100"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring/light_blue_controller": {
+    "criteria": {
+      "has_controllers": "2026-03-23 00:47:32 +0100"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring/magenta_controller": {
+    "criteria": {
+      "has_controllers": "2026-03-23 00:47:32 +0100"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring/purple_controller": {
+    "criteria": {
+      "has_controllers": "2026-03-23 00:47:32 +0100"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring/red_controller": {
+    "criteria": {
+      "has_controllers": "2026-03-23 00:47:32 +0100"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring/light_gray_controller": {
+    "criteria": {
+      "has_controllers": "2026-03-23 00:47:32 +0100"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring/gray_controller": {
+    "criteria": {
+      "has_controllers": "2026-03-23 00:47:32 +0100"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring/green_controller": {
+    "criteria": {
+      "has_controllers": "2026-03-23 00:47:32 +0100"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring/white_controller": {
+    "criteria": {
+      "has_controllers": "2026-03-23 00:47:32 +0100"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring/lime_controller": {
+    "criteria": {
+      "has_controllers": "2026-03-23 00:47:32 +0100"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring/pink_controller": {
+    "criteria": {
+      "has_controllers": "2026-03-23 00:47:32 +0100"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring/black_controller": {
+    "criteria": {
+      "has_controllers": "2026-03-23 00:47:32 +0100"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring/yellow_controller": {
+    "criteria": {
+      "has_controllers": "2026-03-23 00:47:32 +0100"
+    },
+    "done": true
+  },
+  "refinedstorage:recipes/misc/coloring/orange_controller": {
+    "criteria": {
+      "has_controllers": "2026-03-23 00:47:32 +0100"
+    },
+    "done": true
+  },
+  "refinedstorage:root": {
+    "criteria": {
+      "controller_in_inventory": "2026-03-23 00:47:32 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/acacia_cabinet": {
+    "criteria": {
+      "has_acacia_trapdoor": "2026-03-23 00:55:13 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/stove": {
+    "criteria": {
+      "has_campfire": "2026-03-23 02:08:26 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2026-03-23 02:08:28 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:place_campfire_pot": {
+    "criteria": {
+      "place_pot": "2026-03-23 02:08:51 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2026-03-23 02:48:41 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2026-03-24 02:50:32 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2026-03-24 00:24:56 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2026-03-24 02:51:29 +0100"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mossy_cobblestone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2026-03-24 00:24:56 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2026-03-24 02:50:32 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/douse_drive": {
+    "criteria": {
+      "has_netherite_scrap": "2026-03-24 02:51:29 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2026-03-24 00:24:56 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2026-03-24 00:24:56 +0100"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_mossy_cobblestone_bridge": {
+    "criteria": {
+      "has_planks": "2026-03-24 00:24:56 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/burn_drive": {
+    "criteria": {
+      "has_netherite_scrap": "2026-03-24 02:51:29 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/chill_drive": {
+    "criteria": {
+      "has_netherite_scrap": "2026-03-24 02:51:29 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2026-03-24 00:24:56 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2026-03-24 02:50:32 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/shock_drive": {
+    "criteria": {
+      "has_netherite_scrap": "2026-03-24 02:51:29 +0100"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mossy_cobblestone_bridge": {
+    "criteria": {
+      "has_planks": "2026-03-24 00:24:56 +0100"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mossy_stone_brick_bridge": {
+    "criteria": {
+      "has_planks": "2026-03-24 00:24:56 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2026-03-24 00:24:56 +0100"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mossy_cobblestone_bridge_stair": {
+    "criteria": {
+      "has_planks": "2026-03-24 00:24:56 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2026-03-24 00:24:56 +0100"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mossy_stone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2026-03-24 00:24:56 +0100"
     },
     "done": true
   },

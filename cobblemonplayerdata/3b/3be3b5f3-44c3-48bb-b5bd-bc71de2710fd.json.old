@@ -11,15 +11,15 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 97,
+    "totalCaptureCount": 100,
     "totalEggsCollected": 80,
-    "totalEggsHatched": 4818,
+    "totalEggsHatched": 5862,
     "totalEvolvedCount": 22,
-    "totalBattleVictoryCount": 184,
+    "totalBattleVictoryCount": 188,
     "totalPvPBattleVictoryCount": 1,
-    "totalPvWBattleVictoryCount": 105,
+    "totalPvWBattleVictoryCount": 109,
     "totalPvNBattleVictoryCount": 78,
-    "totalShinyCaptureCount": 10,
+    "totalShinyCaptureCount": 11,
     "totalTradedCount": 60,
     "totalTypeCaptureCounts": {
       "electric": 7,
@@ -27,13 +27,13 @@
       "grass": 12,
       "psychic": 18,
       "water": 11,
-      "fighting": 4,
+      "fighting": 5,
       "fire": 13,
       "bug": 8,
-      "normal": 16,
-      "flying": 5,
+      "normal": 17,
+      "flying": 6,
       "rock": 7,
-      "ground": 9,
+      "ground": 10,
       "ghost": 4,
       "steel": 2,
       "poison": 6,
@@ -62,7 +62,7 @@
       "cobblemon:sizzlipede": 1,
       "cobblemon:ponyta": 1,
       "cobblemon:blitzle": 4,
-      "cobblemon:gimmighoul": 4,
+      "cobblemon:gimmighoul": 6,
       "cobblemon:furret": 1,
       "cobblemon:budew": 1,
       "cobblemon:diglett": 1,
@@ -89,7 +89,8 @@
       "cobblemon:grumpig": 1,
       "cobblemon:spoink": 1,
       "cobblemon:combee": 1,
-      "cobblemon:espurr": 1
+      "cobblemon:espurr": 1,
+      "cobblemon:zapdos": 1
     },
     "aspectsCollected": {
       "cobblemon:blitzle": [
@@ -495,6 +496,14 @@
       "cobblemon:sigilyph": [
         "female",
         "alpha"
+      ],
+      "cobblemon:castform": [
+        "male",
+        "normal-form"
+      ],
+      "cobblemon:zapdos": [
+        "genderless",
+        "galarian"
       ]
     }
   }
