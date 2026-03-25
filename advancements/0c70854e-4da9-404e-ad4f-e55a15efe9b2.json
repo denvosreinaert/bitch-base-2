@@ -430,6 +430,7 @@
       "dusk_ball": "2026-03-23 00:39:13 +0100",
       "timer_ball": "2026-03-18 23:30:25 +0100",
       "poke_ball": "2026-03-15 22:07:19 +0100",
+      "citrine_ball": "2026-03-25 01:12:05 +0100",
       "net_ball": "2026-03-15 01:26:07 +0100",
       "dive_ball": "2026-03-20 00:02:46 +0100",
       "lure_ball": "2026-03-15 01:26:07 +0100",
@@ -2949,9 +2950,10 @@
   },
   "cobblemon:recipes/balls/beast_ball": {
     "criteria": {
+      "has_echo_shard": "2026-03-24 23:08:20 +0100",
       "has_diamond": "2026-03-14 01:32:26 +0100"
     },
-    "done": false
+    "done": true
   },
   "farmersdelight:recipes/combat/diamond_knife": {
     "criteria": {
@@ -3461,9 +3463,10 @@
   },
   "cobblemon:recipes/misc/citrine_rod": {
     "criteria": {
-      "has_smithing_trim_template": "2026-03-15 01:26:07 +0100"
+      "has_smithing_trim_template": "2026-03-15 01:26:07 +0100",
+      "has_ball": "2026-03-25 01:12:05 +0100"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/misc/poke_rod": {
     "criteria": {
@@ -3783,7 +3786,8 @@
   "cobblemon:craft_base_balls": {
     "criteria": {
       "roseate_ball": "2026-03-23 22:41:19 +0100",
-      "poke_ball": "2026-03-15 22:07:19 +0100"
+      "poke_ball": "2026-03-15 22:07:19 +0100",
+      "citrine_ball": "2026-03-25 01:12:05 +0100"
     },
     "done": false
   },
@@ -10240,6 +10244,24 @@
   "cobblemonextrastructures:pharmacy": {
     "criteria": {
       "pharmacy": "2026-03-24 03:30:09 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/music_disc_5": {
+    "criteria": {
+      "has_disc_fragment_5": "2026-03-24 23:01:41 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/recovery_compass": {
+    "criteria": {
+      "has_echo_shard": "2026-03-24 23:08:20 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2026-03-24 23:36:44 +0100"
     },
     "done": true
   },

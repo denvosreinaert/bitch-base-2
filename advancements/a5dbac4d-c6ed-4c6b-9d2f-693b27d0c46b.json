@@ -14180,7 +14180,25 @@
     },
     "done": true
   },
+  "cobblemonextrastructures:pharmacy": {
+    "criteria": {
+      "pharmacy": "2026-03-24 01:24:57 +0100"
+    },
+    "done": true
+  },
+  "rctmod:trainers/defeat_champion_jax": {
+    "criteria": {
+      "defeat_champion_jax": "2026-03-24 02:24:53 +0100"
+    },
+    "done": true
+  },
   "cobblemon:recipes/agriculture/salac_berry_smelt_to_dye": {
+    "criteria": {
+      "has_berry": "2026-03-24 02:40:48 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/campfire_pot/x_speed": {
     "criteria": {
       "has_berry": "2026-03-24 02:40:48 +0100"
     },
@@ -14207,12 +14225,6 @@
   "refurbished_furniture:recipes/misc/constructing/dark_oak_drawer": {
     "criteria": {
       "has_minecraft:dark_oak_planks": "2026-03-24 04:05:47 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
-    "criteria": {
-      "has_log": "2026-03-24 04:05:50 +0100"
     },
     "done": true
   },
@@ -14246,12 +14258,6 @@
     },
     "done": true
   },
-  "cobblemon:recipes/campfire_pot/x_speed": {
-    "criteria": {
-      "has_berry": "2026-03-24 02:40:48 +0100"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/dark_oak_nightstand": {
     "criteria": {
       "has_dark_oak_nightstand": "2026-03-24 04:05:47 +0100"
@@ -14261,12 +14267,6 @@
   "refurbished_furniture:recipes/misc/constructing/dark_oak_mail_box": {
     "criteria": {
       "has_minecraft:dark_oak_planks": "2026-03-24 04:05:47 +0100"
-    },
-    "done": true
-  },
-  "cobblemonextrastructures:pharmacy": {
-    "criteria": {
-      "pharmacy": "2026-03-24 01:24:57 +0100"
     },
     "done": true
   },
@@ -14300,21 +14300,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2026-03-24 04:05:50 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
       "has_planks": "2026-03-24 04:05:47 +0100"
-    },
-    "done": true
-  },
-  "rctmod:trainers/defeat_champion_jax": {
-    "criteria": {
-      "defeat_champion_jax": "2026-03-24 02:24:53 +0100"
     },
     "done": true
   },
@@ -14435,6 +14423,24 @@
   "handcrafted:recipes/misc/dark_oak_pillar_trim": {
     "criteria": {
       "has_dark_oak_pillar_trim": "2026-03-24 04:05:47 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2026-03-24 04:05:50 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2026-03-24 04:05:50 +0100"
+    },
+    "done": true
+  },
+  "rctmod:trainers/defeat_light_of_ruin_aklove_3": {
+    "criteria": {
+      "defeat_light_of_ruin_aklove_3": "2026-03-25 00:52:49 +0100"
     },
     "done": true
   },

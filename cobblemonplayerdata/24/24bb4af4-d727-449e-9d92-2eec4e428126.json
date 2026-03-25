@@ -17,7 +17,7 @@
     "totalPvWBattleVictoryCount": 67,
     "totalPvNBattleVictoryCount": 53,
     "totalShinyCaptureCount": 1,
-    "totalTradedCount": 6,
+    "totalTradedCount": 25,
     "totalTypeCaptureCounts": {
       "grass": 4,
       "ground": 7,
@@ -259,6 +259,12 @@
         "female"
       ],
       "cobblemon:sliggoo": [
+        "male"
+      ],
+      "cobblemon:dreepy": [
+        "female"
+      ],
+      "cobblemon:litten": [
         "male"
       ]
     }

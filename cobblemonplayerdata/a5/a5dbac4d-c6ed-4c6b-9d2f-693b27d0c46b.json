@@ -12,26 +12,26 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 244,
+    "totalCaptureCount": 247,
     "totalEggsCollected": 296,
-    "totalEggsHatched": 4034,
+    "totalEggsHatched": 4548,
     "totalEvolvedCount": 21,
-    "totalBattleVictoryCount": 730,
+    "totalBattleVictoryCount": 740,
     "totalPvPBattleVictoryCount": 2,
-    "totalPvWBattleVictoryCount": 275,
-    "totalPvNBattleVictoryCount": 453,
+    "totalPvWBattleVictoryCount": 278,
+    "totalPvNBattleVictoryCount": 460,
     "totalShinyCaptureCount": 18,
-    "totalTradedCount": 115,
+    "totalTradedCount": 119,
     "totalTypeCaptureCounts": {
-      "normal": 35,
+      "normal": 36,
       "water": 26,
-      "poison": 21,
+      "poison": 22,
       "ground": 31,
       "electric": 17,
       "fire": 23,
       "fighting": 16,
-      "grass": 24,
-      "bug": 19,
+      "grass": 25,
+      "bug": 20,
       "rock": 7,
       "dragon": 10,
       "flying": 26,
@@ -73,7 +73,7 @@
       "cobblemon:raikou": 2,
       "cobblemon:gimmighoul": 8,
       "cobblemon:furfrou": 3,
-      "cobblemon:bouffalant": 4,
+      "cobblemon:bouffalant": 5,
       "cobblemon:raticate": 1,
       "cobblemon:manectric": 3,
       "cobblemon:polteageist": 1,
@@ -761,7 +761,8 @@
         "male"
       ],
       "cobblemon:grubbin": [
-        "male"
+        "male",
+        "female"
       ],
       "cobblemon:deino": [
         "female"
@@ -883,7 +884,8 @@
       ],
       "cobblemon:exploud": [
         "female",
-        "alpha"
+        "alpha",
+        "male"
       ],
       "cobblemon:mawile": [
         "female",
@@ -1044,6 +1046,10 @@
       ],
       "cobblemon:pansage": [
         "female"
+      ],
+      "cobblemon:gloom": [
+        "female",
+        "valencian"
       ]
     }
   }

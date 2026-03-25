@@ -10,23 +10,23 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 289,
+    "totalCaptureCount": 296,
     "totalEggsCollected": 70,
-    "totalEggsHatched": 4212,
+    "totalEggsHatched": 4578,
     "totalEvolvedCount": 23,
-    "totalBattleVictoryCount": 309,
+    "totalBattleVictoryCount": 314,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 292,
+    "totalPvWBattleVictoryCount": 297,
     "totalPvNBattleVictoryCount": 17,
     "totalShinyCaptureCount": 7,
-    "totalTradedCount": 50,
+    "totalTradedCount": 52,
     "totalTypeCaptureCounts": {
       "normal": 93,
       "ground": 23,
-      "electric": 16,
+      "electric": 18,
       "fairy": 29,
-      "water": 41,
-      "grass": 34,
+      "water": 43,
+      "grass": 37,
       "ghost": 12,
       "dark": 14,
       "fire": 30,
@@ -34,10 +34,10 @@
       "psychic": 19,
       "poison": 11,
       "steel": 8,
-      "rock": 6,
+      "rock": 7,
       "dragon": 6,
-      "ice": 10,
-      "flying": 10,
+      "ice": 11,
+      "flying": 11,
       "fighting": 7
     },
     "totalDefeatedCounts": {
@@ -450,7 +450,8 @@
       ],
       "cobblemon:lapras": [
         "female",
-        "male"
+        "male",
+        "alpha"
       ],
       "cobblemon:squirtle": [
         "male"
@@ -898,6 +899,20 @@
       "cobblemon:nickit": [
         "shiny",
         "male"
+      ],
+      "cobblemon:yamper": [
+        "male"
+      ],
+      "cobblemon:grotle": [
+        "male"
+      ],
+      "cobblemon:relicanth": [
+        "male",
+        "alpha"
+      ],
+      "cobblemon:emolga": [
+        "female",
+        "alpha"
       ]
     }
   }
