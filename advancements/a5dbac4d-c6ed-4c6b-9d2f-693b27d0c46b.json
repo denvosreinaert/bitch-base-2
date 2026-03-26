@@ -803,7 +803,9 @@
       "lure_ball": "2026-03-05 00:38:00 +0100",
       "roseate_ball": "2026-03-06 03:02:43 +0100",
       "friend_ball": "2026-03-17 21:39:48 +0100",
-      "master_ball": "2026-03-13 21:10:29 +0100"
+      "ancient_roseate_ball": "2026-03-25 22:58:14 +0100",
+      "master_ball": "2026-03-13 21:10:29 +0100",
+      "premier_ball": "2026-03-26 02:01:23 +0100"
     },
     "done": false
   },
@@ -1062,6 +1064,7 @@
       "ancient_ivory_ball": "2026-03-06 01:17:38 +0100",
       "ancient_great_ball": "2026-03-20 22:41:06 +0100",
       "ancient_citrine_ball": "2026-03-12 22:35:58 +0100",
+      "ancient_roseate_ball": "2026-03-25 22:58:14 +0100",
       "ancient_ultra_ball": "2026-03-03 00:51:58 +0100",
       "ancient_heavy_ball": "2026-03-20 22:41:06 +0100"
     },
@@ -1727,11 +1730,12 @@
       "roseate_ball": "2026-03-06 03:02:43 +0100",
       "slate_ball": "2026-03-03 19:31:36 +0100",
       "poke_ball": "2026-03-02 01:04:17 +0100",
+      "premier_ball": "2026-03-26 02:01:23 +0100",
       "azure_ball": "2026-03-03 23:48:43 +0100",
       "citrine_ball": "2026-03-02 00:33:47 +0100",
       "verdant_ball": "2026-03-03 01:37:41 +0100"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/misc/citrine_rod": {
     "criteria": {
@@ -7330,9 +7334,10 @@
   },
   "cobblemon:recipes/misc/ancient_roseate_rod": {
     "criteria": {
-      "has_smithing_trim_template": "2026-03-05 01:08:07 +0100"
+      "has_smithing_trim_template": "2026-03-05 01:08:07 +0100",
+      "has_ball": "2026-03-25 22:58:14 +0100"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/misc/love_rod": {
     "criteria": {
@@ -7435,9 +7440,10 @@
   },
   "cobblemon:recipes/misc/premier_rod": {
     "criteria": {
-      "has_smithing_trim_template": "2026-03-05 01:08:07 +0100"
+      "has_smithing_trim_template": "2026-03-05 01:08:07 +0100",
+      "has_ball": "2026-03-26 02:01:23 +0100"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/misc/ancient_leaden_rod": {
     "criteria": {
@@ -14441,6 +14447,54 @@
   "rctmod:trainers/defeat_light_of_ruin_aklove_3": {
     "criteria": {
       "defeat_light_of_ruin_aklove_3": "2026-03-25 00:52:49 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2026-03-25 22:11:55 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2026-03-25 22:11:55 +0100"
+    },
+    "done": true
+  },
+  "rctmod:trainers/defeat_leader_brock": {
+    "criteria": {
+      "defeat_leader_brock": "2026-03-25 22:44:49 +0100"
+    },
+    "done": true
+  },
+  "rctmod:trainers/defeat_rocket_admin_archer_1": {
+    "criteria": {
+      "defeat_rocket_admin_archer_1": "2026-03-25 22:57:07 +0100"
+    },
+    "done": true
+  },
+  "rctmod:trainers/defeat_rival_terry_1": {
+    "criteria": {
+      "defeat_rival_terry_1": "2026-03-25 23:40:42 +0100"
+    },
+    "done": true
+  },
+  "rctmod:trainers/defeat_trainer_brendan_1": {
+    "criteria": {
+      "defeat_trainer_brendan_1": "2026-03-26 02:42:09 +0100"
+    },
+    "done": true
+  },
+  "rctmod:trainers/defeat_leader_misty": {
+    "criteria": {
+      "defeat_leader_misty": "2026-03-26 01:50:31 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/choice_band": {
+    "criteria": {
+      "has_band": "2026-03-26 01:50:32 +0100"
     },
     "done": true
   },

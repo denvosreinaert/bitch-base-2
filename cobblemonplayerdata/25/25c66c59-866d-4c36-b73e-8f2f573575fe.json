@@ -10,16 +10,16 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 50,
-    "totalEggsCollected": 0,
-    "totalEggsHatched": 12,
-    "totalEvolvedCount": 10,
-    "totalBattleVictoryCount": 145,
-    "totalPvPBattleVictoryCount": 1,
-    "totalPvWBattleVictoryCount": 96,
-    "totalPvNBattleVictoryCount": 48,
+    "totalCaptureCount": 51,
+    "totalEggsCollected": 3,
+    "totalEggsHatched": 16,
+    "totalEvolvedCount": 11,
+    "totalBattleVictoryCount": 149,
+    "totalPvPBattleVictoryCount": 2,
+    "totalPvWBattleVictoryCount": 98,
+    "totalPvNBattleVictoryCount": 49,
     "totalShinyCaptureCount": 2,
-    "totalTradedCount": 23,
+    "totalTradedCount": 42,
     "totalTypeCaptureCounts": {
       "grass": 8,
       "water": 5,
@@ -35,7 +35,7 @@
       "ice": 1,
       "ground": 1,
       "electric": 6,
-      "psychic": 4
+      "psychic": 5
     },
     "totalDefeatedCounts": {
       "cobblemon:ditto": 1,
@@ -72,7 +72,7 @@
       "cobblemon:capsakid": 1,
       "cobblemon:pikachu": 1,
       "cobblemon:pichu": 1,
-      "cobblemon:tauros": 1,
+      "cobblemon:tauros": 2,
       "cobblemon:squawkabilly": 1,
       "cobblemon:raticate": 1,
       "cobblemon:poochyena": 2,
@@ -119,7 +119,8 @@
         "male"
       ],
       "cobblemon:scraggy": [
-        "male"
+        "male",
+        "female"
       ],
       "cobblemon:dartrix": [
         "male",
@@ -283,6 +284,74 @@
       ],
       "cobblemon:swinub": [
         "female"
+      ],
+      "cobblemon:metang": [
+        "genderless"
+      ],
+      "cobblemon:toxtricity": [
+        "male",
+        "amped-form"
+      ],
+      "cobblemon:krokorok": [
+        "female"
+      ],
+      "cobblemon:thwackey": [
+        "male"
+      ],
+      "cobblemon:dewott": [
+        "male"
+      ],
+      "cobblemon:bibarel": [
+        "female",
+        "alpha"
+      ],
+      "cobblemon:crabominable": [
+        "male",
+        "alpha"
+      ],
+      "cobblemon:raticate": [
+        "male",
+        "alpha"
+      ],
+      "cobblemon:lanturn": [
+        "female",
+        "alpha"
+      ],
+      "cobblemon:gulpin": [
+        "shiny",
+        "male"
+      ],
+      "cobblemon:diggersby": [
+        "male",
+        "alpha"
+      ],
+      "cobblemon:staraptor": [
+        "female"
+      ],
+      "cobblemon:spiritomb": [
+        "female"
+      ],
+      "cobblemon:litten": [
+        "male"
+      ],
+      "cobblemon:steelix": [
+        "male",
+        "alpha"
+      ],
+      "cobblemon:dreepy": [
+        "female"
+      ],
+      "cobblemon:golett": [
+        "genderless"
+      ],
+      "cobblemon:sliggoo": [
+        "male"
+      ],
+      "cobblemon:mew": [
+        "genderless"
+      ],
+      "cobblemon:sceptile": [
+        "male"
       ]
     }
   }

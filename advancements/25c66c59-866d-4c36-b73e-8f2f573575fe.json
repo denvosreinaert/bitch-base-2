@@ -5383,21 +5383,51 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/leather_helmet": {
+  "minecraft:recipes/misc/green_dye": {
     "criteria": {
-      "has_leather": "2026-03-24 16:22:28 +0100"
+      "has_cactus": "2026-03-24 15:01:49 +0100"
     },
     "done": true
   },
-  "rad_gyms:recipes/misc/cache_uncommon_normal": {
+  "cobblemon:obtain_leek": {
     "criteria": {
-      "has_normal_gem": "2026-03-24 15:42:04 +0100"
+      "check_inv": "2026-03-24 15:22:42 +0100"
     },
     "done": true
   },
-  "cobblemon:recipes/held/power_band": {
+  "cobblemon:recipes/agriculture/medicinal_leek_to_magenta_dye": {
     "criteria": {
-      "has_mint": "2026-03-24 20:55:59 +0100"
+      "has_leek": "2026-03-24 15:22:42 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/roasted_leek_by_smoking": {
+    "criteria": {
+      "has_leek": "2026-03-24 15:22:42 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/roasted_leek": {
+    "criteria": {
+      "has_leek": "2026-03-24 15:22:42 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/roasted_leek_by_campfire": {
+    "criteria": {
+      "has_leek": "2026-03-24 15:22:42 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2026-03-24 15:25:38 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2026-03-24 15:25:38 +0100"
     },
     "done": true
   },
@@ -5407,69 +5437,15 @@
     },
     "done": true
   },
-  "rctmod:trainers/defeat_pokemon_trainer_cedric_3": {
-    "criteria": {
-      "defeat_pokemon_trainer_cedric_3": "2026-03-24 18:27:05 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2026-03-24 15:41:42 +0100"
     },
     "done": true
   },
-  "rctmod:trainers/defeat_pokemon_trainer_cedric_2": {
-    "criteria": {
-      "defeat_pokemon_trainer_cedric_2": "2026-03-24 17:22:12 +0100"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/fishy_business": {
-    "criteria": {
-      "pufferfish": "2026-03-24 16:24:32 +0100"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/campfire_pot/quick_candy": {
-    "criteria": {
-      "has_honeycomb": "2026-03-24 18:02:26 +0100"
-    },
-    "done": false
-  },
-  "cobblemon:obtain_leek": {
-    "criteria": {
-      "check_inv": "2026-03-24 15:22:42 +0100"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/light_blue_cushion": {
-    "criteria": {
-      "has_light_blue_cushion": "2026-03-24 15:50:02 +0100"
-    },
-    "done": true
-  },
-  "comforts:recipes/decorations/sleeping_bag_light_blue": {
-    "criteria": {
-      "has_light_blue_wool": "2026-03-24 15:50:02 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2026-03-24 15:41:42 +0100"
-    },
-    "done": true
-  },
-  "mcwdoors:recipes/acacia": {
-    "criteria": {
-      "has_wood": "2026-03-24 17:34:46 +0100"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/agriculture/medicinal_leek_to_magenta_dye": {
-    "criteria": {
-      "has_leek": "2026-03-24 15:22:42 +0100"
     },
     "done": true
   },
@@ -5485,51 +5461,9 @@
     },
     "done": true
   },
-  "rad_gyms:recipes/misc/cache_uncommon_grass": {
-    "criteria": {
-      "has_grass_gem": "2026-03-24 15:42:04 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2026-03-24 15:41:42 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_chestplate": {
-    "criteria": {
-      "has_leather": "2026-03-24 16:22:28 +0100"
-    },
-    "done": true
-  },
-  "rad_gyms:recipes/misc/cache_uncommon_psychic": {
-    "criteria": {
-      "has_psychic_gem": "2026-03-24 15:42:04 +0100"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/campfire_pot/smart_candy": {
-    "criteria": {
-      "has_honeycomb": "2026-03-24 18:02:26 +0100"
-    },
-    "done": false
-  },
-  "cobblemon:recipes/consumables/calm_mint": {
-    "criteria": {
-      "has_benefit_mint": "2026-03-24 20:55:59 +0100"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/light_blue_bed": {
-    "criteria": {
-      "has_light_blue_wool": "2026-03-24 15:50:02 +0100"
-    },
-    "done": true
-  },
-  "rad_gyms:recipes/misc/cache_uncommon_fighting": {
-    "criteria": {
-      "has_fighting_gem": "2026-03-24 15:42:04 +0100"
     },
     "done": true
   },
@@ -5539,51 +5473,9 @@
     },
     "done": true
   },
-  "mega_showdown:recipes/misc/pika_case": {
-    "criteria": {
-      "has_electric_gem": "2026-03-24 15:42:28 +0100"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/evolution/galarica_cuff": {
-    "criteria": {
-      "has_nuts": "2026-03-24 18:57:27 +0100"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/combat/golden_knife": {
     "criteria": {
       "has_gold_ingot": "2026-03-24 15:41:42 +0100"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/campfire_pot/courage_candy": {
-    "criteria": {
-      "has_honeycomb": "2026-03-24 18:02:26 +0100"
-    },
-    "done": false
-  },
-  "cobblemonextrastructures:kurt_house": {
-    "criteria": {
-      "kurt_house": "2026-03-24 18:53:42 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/leather_horse_armor": {
-    "criteria": {
-      "has_leather": "2026-03-24 16:22:28 +0100"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/campfire_pot/health_candy": {
-    "criteria": {
-      "has_honeycomb": "2026-03-24 18:02:26 +0100"
-    },
-    "done": false
-  },
-  "rad_gyms:recipes/misc/cache_uncommon_flying": {
-    "criteria": {
-      "has_flying_gem": "2026-03-24 15:42:04 +0100"
     },
     "done": true
   },
@@ -5593,87 +5485,9 @@
     },
     "done": true
   },
-  "cobblemon:recipes/campfire_pot/open_faced_sandwich": {
-    "criteria": {
-      "has_bread": "2026-03-24 18:40:10 +0100"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/agriculture/starf_berry_smelt_to_dye": {
-    "criteria": {
-      "has_berry": "2026-03-24 16:20:43 +0100"
-    },
-    "done": true
-  },
-  "rad_gyms:recipes/misc/cache_uncommon_ground": {
-    "criteria": {
-      "has_ground_gem": "2026-03-24 15:42:04 +0100"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/backpack": {
-    "criteria": {
-      "has_leather": "2026-03-24 16:22:28 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop": {
-    "criteria": {
-      "has_porkchop": "2026-03-24 17:43:13 +0100"
-    },
-    "done": true
-  },
-  "mega_showdown:recipes/misc/tapunium_z2": {
-    "criteria": {
-      "has_base-z": "2026-03-24 20:40:59 +0100"
-    },
-    "done": true
-  },
   "cobblemon:recipes/blocks/gilded_chests": {
     "criteria": {
       "has_gold": "2026-03-24 15:41:42 +0100"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/consumables/gentle_mint": {
-    "criteria": {
-      "has_benefit_mint": "2026-03-24 20:55:59 +0100"
-    },
-    "done": false
-  },
-  "rad_gyms:recipes/misc/cache_uncommon_ice": {
-    "criteria": {
-      "has_ice_gem": "2026-03-24 15:42:04 +0100"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/consumables/careful_mint": {
-    "criteria": {
-      "has_benefit_mint": "2026-03-24 20:55:59 +0100"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/item_frame": {
-    "criteria": {
-      "has_leather": "2026-03-24 16:22:28 +0100"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/campfire_pot/lum_full_heal_in_campfire_pot": {
-    "criteria": {
-      "has_berry": "2026-03-24 17:13:23 +0100"
-    },
-    "done": true
-  },
-  "rad_gyms:recipes/misc/cache_uncommon_ghost": {
-    "criteria": {
-      "has_ghost_gem": "2026-03-24 15:42:04 +0100"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/evolution/galarica_wreath": {
-    "criteria": {
-      "has_nuts": "2026-03-24 18:57:27 +0100"
     },
     "done": true
   },
@@ -5683,27 +5497,81 @@
     },
     "done": true
   },
-  "rad_gyms:recipes/misc/cache_uncommon_water": {
-    "criteria": {
-      "has_water_gem": "2026-03-24 15:42:04 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2026-03-24 15:41:42 +0100"
     },
     "done": true
   },
-  "cobblemon:recipes/campfire_pot/mighty_candy": {
+  "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
-      "has_honeycomb": "2026-03-24 18:02:26 +0100"
+      "has_gold_ingot": "2026-03-24 15:41:42 +0100"
     },
-    "done": false
+    "done": true
   },
-  "minecraft:recipes/building_blocks/acacia_wood": {
+  "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
-      "has_log": "2026-03-24 17:34:46 +0100"
+      "has_gold_ingot": "2026-03-24 15:41:42 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2026-03-24 15:41:42 +0100"
+    },
+    "done": true
+  },
+  "rad_gyms:recipes/misc/cache_uncommon_normal": {
+    "criteria": {
+      "has_normal_gem": "2026-03-24 15:42:04 +0100"
+    },
+    "done": true
+  },
+  "rad_gyms:recipes/misc/cache_uncommon_grass": {
+    "criteria": {
+      "has_grass_gem": "2026-03-24 15:42:04 +0100"
+    },
+    "done": true
+  },
+  "rad_gyms:recipes/misc/cache_uncommon_psychic": {
+    "criteria": {
+      "has_psychic_gem": "2026-03-24 15:42:04 +0100"
+    },
+    "done": true
+  },
+  "rad_gyms:recipes/misc/cache_uncommon_fighting": {
+    "criteria": {
+      "has_fighting_gem": "2026-03-24 15:42:04 +0100"
+    },
+    "done": true
+  },
+  "rad_gyms:recipes/misc/cache_uncommon_flying": {
+    "criteria": {
+      "has_flying_gem": "2026-03-24 15:42:04 +0100"
+    },
+    "done": true
+  },
+  "rad_gyms:recipes/misc/cache_uncommon_ground": {
+    "criteria": {
+      "has_ground_gem": "2026-03-24 15:42:04 +0100"
+    },
+    "done": true
+  },
+  "rad_gyms:recipes/misc/cache_uncommon_ice": {
+    "criteria": {
+      "has_ice_gem": "2026-03-24 15:42:04 +0100"
+    },
+    "done": true
+  },
+  "rad_gyms:recipes/misc/cache_uncommon_ghost": {
+    "criteria": {
+      "has_ghost_gem": "2026-03-24 15:42:04 +0100"
+    },
+    "done": true
+  },
+  "rad_gyms:recipes/misc/cache_uncommon_water": {
+    "criteria": {
+      "has_water_gem": "2026-03-24 15:42:04 +0100"
     },
     "done": true
   },
@@ -5713,100 +5581,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/light_blue_carpet": {
-    "criteria": {
-      "has_light_blue_wool": "2026-03-24 15:50:02 +0100"
-    },
-    "done": true
-  },
-  "cobblemonextrastructures:berry_house": {
-    "criteria": {
-      "berry_house": "2026-03-24 20:11:28 +0100"
-    },
-    "done": true
-  },
-  "cobblemon:obtain_mint": {
-    "criteria": {
-      "check_inv": "2026-03-24 20:55:59 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
-    "criteria": {
-      "has_porkchop": "2026-03-24 17:43:13 +0100"
-    },
-    "done": true
-  },
-  "mega_showdown:mega_showdown/z/get_all_z_move": {
-    "criteria": {
-      "fairium_z": "2026-03-24 20:40:59 +0100",
-      "fightinium_z": "2026-03-24 19:53:55 +0100"
-    },
-    "done": false
-  },
-  "cobblemon:obtain_all_mints": {
-    "criteria": {
-      "obtain_pink_mint_leaf": "2026-03-24 20:55:59 +0100"
-    },
-    "done": false
-  },
-  "minecraft:recipes/combat/leather_boots": {
-    "criteria": {
-      "has_leather": "2026-03-24 16:22:28 +0100"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/consumables/naive_mint": {
-    "criteria": {
-      "has_detriment_mint": "2026-03-24 20:55:59 +0100"
-    },
-    "done": false
-  },
   "rad_gyms:recipes/misc/cache_uncommon_dragon": {
     "criteria": {
       "has_dragon_gem": "2026-03-24 15:42:04 +0100"
-    },
-    "done": true
-  },
-  "mega_showdown:recipes/misc/mimikium_z2": {
-    "criteria": {
-      "has_base-z": "2026-03-24 20:40:59 +0100"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/bread_slice_from_bread": {
-    "criteria": {
-      "has_bread": "2026-03-24 18:40:10 +0100"
-    },
-    "done": true
-  },
-  "mega_showdown:recipes/misc/red_nectar": {
-    "criteria": {
-      "has_honey": "2026-03-24 18:02:26 +0100"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/held/muscle_band": {
-    "criteria": {
-      "has_leather": "2026-03-24 16:22:28 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_leggings": {
-    "criteria": {
-      "has_leather": "2026-03-24 16:22:28 +0100"
-    },
-    "done": true
-  },
-  "cobblemon:cook_all_ev_mochi": {
-    "criteria": {
-      "genius_mochi": "2026-03-24 20:56:07 +0100"
-    },
-    "done": false
-  },
-  "minecraft:story/iron_tools": {
-    "criteria": {
-      "iron_pickaxe": "2026-03-24 18:40:13 +0100"
     },
     "done": true
   },
@@ -5822,57 +5599,183 @@
     },
     "done": true
   },
-  "cobblemon:recipes/campfire_pot/tough_candy": {
-    "criteria": {
-      "has_honeycomb": "2026-03-24 18:02:26 +0100"
-    },
-    "done": false
-  },
-  "mega_showdown:recipes/misc/tapunium_z": {
-    "criteria": {
-      "has_the_recipe": "2026-03-24 20:40:59 +0100"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/consumables/rash_mint": {
-    "criteria": {
-      "has_detriment_mint": "2026-03-24 20:55:59 +0100"
-    },
-    "done": false
-  },
-  "cobblemon:recipes/agriculture/lum_berry_smelt_to_dye": {
-    "criteria": {
-      "has_berry": "2026-03-24 17:13:23 +0100"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/honey_cookie": {
-    "criteria": {
-      "has_honey_bottle": "2026-03-24 18:02:23 +0100"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/noodle_soup": {
-    "criteria": {
-      "has_any_ingredient": "2026-03-24 17:43:13 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/golden_helmet": {
-    "criteria": {
-      "has_gold_ingot": "2026-03-24 15:41:42 +0100"
-    },
-    "done": true
-  },
   "rad_gyms:recipes/misc/cache_uncommon_steel": {
     "criteria": {
       "has_steel_gem": "2026-03-24 15:42:04 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/beehive": {
+  "rad_gyms:recipes/misc/cache_uncommon_fire": {
     "criteria": {
-      "has_honeycomb": "2026-03-24 18:02:26 +0100"
+      "has_fire_gem": "2026-03-24 15:42:04 +0100"
+    },
+    "done": true
+  },
+  "rad_gyms:recipes/misc/cache_uncommon_fairy": {
+    "criteria": {
+      "has_fairy_gem": "2026-03-24 15:42:04 +0100"
+    },
+    "done": true
+  },
+  "rad_gyms:recipes/misc/cache_uncommon_electric": {
+    "criteria": {
+      "has_electric_gem": "2026-03-24 15:42:04 +0100"
+    },
+    "done": true
+  },
+  "rad_gyms:recipes/misc/cache_uncommon_dark": {
+    "criteria": {
+      "has_dark_gem": "2026-03-24 15:42:04 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/pika_case": {
+    "criteria": {
+      "has_electric_gem": "2026-03-24 15:42:28 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/light_blue_cushion": {
+    "criteria": {
+      "has_light_blue_cushion": "2026-03-24 15:50:02 +0100"
+    },
+    "done": true
+  },
+  "comforts:recipes/decorations/sleeping_bag_light_blue": {
+    "criteria": {
+      "has_light_blue_wool": "2026-03-24 15:50:02 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_bed": {
+    "criteria": {
+      "has_light_blue_wool": "2026-03-24 15:50:02 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_carpet": {
+    "criteria": {
+      "has_light_blue_wool": "2026-03-24 15:50:02 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_banner": {
+    "criteria": {
+      "has_light_blue_wool": "2026-03-24 15:50:02 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/light_blue_sheet": {
+    "criteria": {
+      "has_light_blue_sheet": "2026-03-24 15:50:02 +0100"
+    },
+    "done": true
+  },
+  "comforts:recipes/decorations/hammock_light_blue": {
+    "criteria": {
+      "has_light_blue_wool": "2026-03-24 15:50:02 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/agriculture/starf_berry_smelt_to_dye": {
+    "criteria": {
+      "has_berry": "2026-03-24 16:20:43 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/campfire_pot/guard_spec": {
+    "criteria": {
+      "has_berry": "2026-03-24 16:20:43 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2026-03-24 16:22:28 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2026-03-24 16:22:28 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2026-03-24 16:22:28 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/backpack": {
+    "criteria": {
+      "has_leather": "2026-03-24 16:22:28 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2026-03-24 16:22:28 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2026-03-24 16:22:28 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/muscle_band": {
+    "criteria": {
+      "has_leather": "2026-03-24 16:22:28 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2026-03-24 16:22:28 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_leather": "2026-03-24 16:22:28 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2026-03-24 16:22:42 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2026-03-24 16:22:42 +0100"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "pufferfish": "2026-03-24 16:24:32 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:first_shiny_catch": {
+    "criteria": {
+      "catch": "2026-03-24 16:53:39 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/campfire_pot/lum_full_heal_in_campfire_pot": {
+    "criteria": {
+      "has_berry": "2026-03-24 17:13:23 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/agriculture/lum_berry_smelt_to_dye": {
+    "criteria": {
+      "has_berry": "2026-03-24 17:13:23 +0100"
     },
     "done": true
   },
@@ -5882,9 +5785,57 @@
     },
     "done": true
   },
-  "rad_gyms:recipes/misc/cache_uncommon_fire": {
+  "rctmod:trainers/defeat_pokemon_trainer_cedric_2": {
     "criteria": {
-      "has_fire_gem": "2026-03-24 15:42:04 +0100"
+      "defeat_pokemon_trainer_cedric_2": "2026-03-24 17:22:12 +0100"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/acacia": {
+    "criteria": {
+      "has_wood": "2026-03-24 17:34:46 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2026-03-24 17:34:46 +0100"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/acacia_bridge_pier": {
+    "criteria": {
+      "has_planks": "2026-03-24 17:34:46 +0100"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/acacia": {
+    "criteria": {
+      "has_wood": "2026-03-24 17:34:46 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2026-03-24 17:34:46 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2026-03-24 17:43:13 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2026-03-24 17:43:13 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2026-03-24 17:43:13 +0100"
     },
     "done": true
   },
@@ -5900,15 +5851,9 @@
     },
     "done": true
   },
-  "mega_showdown:recipes/misc/yellow_nectar": {
+  "farmersdelight:recipes/food/honey_cookie": {
     "criteria": {
-      "has_honey": "2026-03-24 18:02:26 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_blue_banner": {
-    "criteria": {
-      "has_light_blue_wool": "2026-03-24 15:50:02 +0100"
+      "has_honey_bottle": "2026-03-24 18:02:23 +0100"
     },
     "done": true
   },
@@ -5918,153 +5863,63 @@
     },
     "done": true
   },
-  "cobblemonraiddens:tier_three": {
-    "criteria": {
-      "completed_tier_three": "2026-03-24 20:27:53 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/green_dye": {
-    "criteria": {
-      "has_cactus": "2026-03-24 15:01:49 +0100"
-    },
-    "done": true
-  },
-  "mega_showdown:mega_showdown/z/get_z_move": {
-    "criteria": {
-      "obtained_z_moves": "2026-03-24 19:53:55 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/honey_block": {
     "criteria": {
       "has_honey_bottle": "2026-03-24 18:02:23 +0100"
     },
     "done": true
   },
-  "rad_gyms:recipes/misc/cache_uncommon_fairy": {
+  "cobblemon:recipes/campfire_pot/quick_candy": {
     "criteria": {
-      "has_fairy_gem": "2026-03-24 15:42:04 +0100"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/consumables/roasted_leek_by_smoking": {
-    "criteria": {
-      "has_leek": "2026-03-24 15:22:42 +0100"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/campfire_pot/guard_spec": {
-    "criteria": {
-      "has_berry": "2026-03-24 16:20:43 +0100"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2026-03-24 18:02:34 +0100"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/consumables/roasted_leek": {
-    "criteria": {
-      "has_leek": "2026-03-24 15:22:42 +0100"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/light_blue_sheet": {
-    "criteria": {
-      "has_light_blue_sheet": "2026-03-24 15:50:02 +0100"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/red_dye_from_spider_eye": {
-    "criteria": {
-      "has_spider_eye": "2026-03-24 15:25:38 +0100"
-    },
-    "done": true
-  },
-  "rad_gyms:recipes/misc/cache_uncommon_electric": {
-    "criteria": {
-      "has_electric_gem": "2026-03-24 15:42:04 +0100"
-    },
-    "done": true
-  },
-  "comforts:recipes/decorations/hammock_light_blue": {
-    "criteria": {
-      "has_light_blue_wool": "2026-03-24 15:50:02 +0100"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/consumables/sassy_mint": {
-    "criteria": {
-      "has_benefit_mint": "2026-03-24 20:55:59 +0100"
+      "has_honeycomb": "2026-03-24 18:02:26 +0100"
     },
     "done": false
   },
-  "minecraft:recipes/brewing/fermented_spider_eye": {
+  "cobblemon:recipes/campfire_pot/smart_candy": {
     "criteria": {
-      "has_spider_eye": "2026-03-24 15:25:38 +0100"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/consumables/naughty_mint": {
-    "criteria": {
-      "has_detriment_mint": "2026-03-24 20:55:59 +0100"
+      "has_honeycomb": "2026-03-24 18:02:26 +0100"
     },
     "done": false
   },
-  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+  "cobblemon:recipes/campfire_pot/courage_candy": {
     "criteria": {
-      "has_leather": "2026-03-24 16:22:28 +0100"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/consumables/roasted_leek_by_campfire": {
-    "criteria": {
-      "has_leek": "2026-03-24 15:22:42 +0100"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/acacia_bridge_pier": {
-    "criteria": {
-      "has_planks": "2026-03-24 17:34:46 +0100"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
-    "criteria": {
-      "has_backpack": "2026-03-24 16:22:42 +0100"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/consumables/lax_mint": {
-    "criteria": {
-      "has_detriment_mint": "2026-03-24 20:55:59 +0100"
+      "has_honeycomb": "2026-03-24 18:02:26 +0100"
     },
     "done": false
   },
-  "cobblemon:first_shiny_catch": {
+  "cobblemon:recipes/campfire_pot/health_candy": {
     "criteria": {
-      "catch": "2026-03-24 16:53:39 +0100"
+      "has_honeycomb": "2026-03-24 18:02:26 +0100"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/campfire_pot/mighty_candy": {
+    "criteria": {
+      "has_honeycomb": "2026-03-24 18:02:26 +0100"
+    },
+    "done": false
+  },
+  "mega_showdown:recipes/misc/red_nectar": {
+    "criteria": {
+      "has_honey": "2026-03-24 18:02:26 +0100"
     },
     "done": true
   },
-  "rctmod:trainers/defeat_gym_leader_fantina_1": {
+  "cobblemon:recipes/campfire_pot/tough_candy": {
     "criteria": {
-      "defeat_gym_leader_fantina_1": "2026-03-24 18:08:05 +0100"
+      "has_honeycomb": "2026-03-24 18:02:26 +0100"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2026-03-24 18:02:26 +0100"
     },
     "done": true
   },
-  "mcwwindows:recipes/acacia": {
+  "mega_showdown:recipes/misc/yellow_nectar": {
     "criteria": {
-      "has_wood": "2026-03-24 17:34:46 +0100"
-    },
-    "done": true
-  },
-  "rad_gyms:recipes/misc/cache_uncommon_dark": {
-    "criteria": {
-      "has_dark_gem": "2026-03-24 15:42:04 +0100"
+      "has_honey": "2026-03-24 18:02:26 +0100"
     },
     "done": true
   },
@@ -6080,15 +5935,15 @@
     },
     "done": true
   },
-  "mega_showdown:recipes/misc/mimikium_z": {
+  "minecraft:recipes/decorations/honeycomb_block": {
     "criteria": {
-      "has_the_recipe": "2026-03-24 20:40:59 +0100"
+      "has_honeycomb": "2026-03-24 18:02:26 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/tools/golden_hoe": {
+  "minecraft:husbandry/root": {
     "criteria": {
-      "has_gold_ingot": "2026-03-24 15:41:42 +0100"
+      "consumed_item": "2026-03-24 18:02:34 +0100"
     },
     "done": true
   },
@@ -6098,27 +5953,208 @@
     },
     "done": false
   },
-  "minecraft:recipes/building_blocks/acacia_planks": {
+  "rctmod:trainers/defeat_gym_leader_fantina_1": {
     "criteria": {
-      "has_log": "2026-03-24 17:34:46 +0100"
+      "defeat_gym_leader_fantina_1": "2026-03-24 18:08:05 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/honeycomb_block": {
+  "rctmod:trainers/defeat_pokemon_trainer_cedric_3": {
     "criteria": {
-      "has_honeycomb": "2026-03-24 18:02:26 +0100"
+      "defeat_pokemon_trainer_cedric_3": "2026-03-24 18:27:05 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/combat/golden_leggings": {
+  "cobblemon:recipes/campfire_pot/open_faced_sandwich": {
     "criteria": {
-      "has_gold_ingot": "2026-03-24 15:41:42 +0100"
+      "has_bread": "2026-03-24 18:40:10 +0100"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+  "refurbished_furniture:recipes/misc/slicing/bread_slice_from_bread": {
     "criteria": {
-      "has_backpack": "2026-03-24 16:22:42 +0100"
+      "has_bread": "2026-03-24 18:40:10 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2026-03-24 18:40:13 +0100"
+    },
+    "done": true
+  },
+  "cobblemonextrastructures:kurt_house": {
+    "criteria": {
+      "kurt_house": "2026-03-24 18:53:42 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/evolution/galarica_cuff": {
+    "criteria": {
+      "has_nuts": "2026-03-24 18:57:27 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/evolution/galarica_wreath": {
+    "criteria": {
+      "has_nuts": "2026-03-24 18:57:27 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:mega_showdown/z/get_all_z_move": {
+    "criteria": {
+      "fairium_z": "2026-03-24 20:40:59 +0100",
+      "fightinium_z": "2026-03-24 19:53:55 +0100"
+    },
+    "done": false
+  },
+  "mega_showdown:mega_showdown/z/get_z_move": {
+    "criteria": {
+      "obtained_z_moves": "2026-03-24 19:53:55 +0100"
+    },
+    "done": true
+  },
+  "cobblemonextrastructures:berry_house": {
+    "criteria": {
+      "berry_house": "2026-03-24 20:11:28 +0100"
+    },
+    "done": true
+  },
+  "cobblemonraiddens:tier_three": {
+    "criteria": {
+      "completed_tier_three": "2026-03-24 20:27:53 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/tapunium_z2": {
+    "criteria": {
+      "has_base-z": "2026-03-24 20:40:59 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/mimikium_z2": {
+    "criteria": {
+      "has_base-z": "2026-03-24 20:40:59 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/tapunium_z": {
+    "criteria": {
+      "has_the_recipe": "2026-03-24 20:40:59 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/mimikium_z": {
+    "criteria": {
+      "has_the_recipe": "2026-03-24 20:40:59 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/power_band": {
+    "criteria": {
+      "has_mint": "2026-03-24 20:55:59 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/calm_mint": {
+    "criteria": {
+      "has_benefit_mint": "2026-03-24 20:55:59 +0100"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/consumables/gentle_mint": {
+    "criteria": {
+      "has_benefit_mint": "2026-03-24 20:55:59 +0100"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/consumables/careful_mint": {
+    "criteria": {
+      "has_benefit_mint": "2026-03-24 20:55:59 +0100"
+    },
+    "done": false
+  },
+  "cobblemon:obtain_mint": {
+    "criteria": {
+      "check_inv": "2026-03-24 20:55:59 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:obtain_all_mints": {
+    "criteria": {
+      "obtain_pink_mint_leaf": "2026-03-24 20:55:59 +0100"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/consumables/naive_mint": {
+    "criteria": {
+      "has_detriment_mint": "2026-03-24 20:55:59 +0100"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/consumables/rash_mint": {
+    "criteria": {
+      "has_detriment_mint": "2026-03-24 20:55:59 +0100"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/consumables/sassy_mint": {
+    "criteria": {
+      "has_benefit_mint": "2026-03-24 20:55:59 +0100"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/consumables/naughty_mint": {
+    "criteria": {
+      "has_detriment_mint": "2026-03-24 20:55:59 +0100"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/consumables/lax_mint": {
+    "criteria": {
+      "has_detriment_mint": "2026-03-24 20:55:59 +0100"
+    },
+    "done": false
+  },
+  "cobblemon:cook_all_ev_mochi": {
+    "criteria": {
+      "genius_mochi": "2026-03-24 20:56:07 +0100"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2026-03-26 00:10:50 +0100"
+    },
+    "done": true
+  },
+  "cobblemonextrastructures:burned_tower": {
+    "criteria": {
+      "burned_tower": "2026-03-25 23:14:28 +0100"
+    },
+    "done": true
+  },
+  "rctmod:trainers/defeat_gym_leader_byron_1": {
+    "criteria": {
+      "defeat_gym_leader_byron_1": "2026-03-25 23:13:08 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:use_pasture": {
+    "criteria": {
+      "use_pasture": "2026-03-25 22:40:50 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2026-03-26 00:10:50 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2026-03-26 00:10:50 +0100"
     },
     "done": true
   },

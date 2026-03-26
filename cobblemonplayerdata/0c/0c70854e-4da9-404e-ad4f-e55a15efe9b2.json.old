@@ -10,33 +10,33 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 296,
+    "totalCaptureCount": 302,
     "totalEggsCollected": 70,
-    "totalEggsHatched": 4578,
+    "totalEggsHatched": 4842,
     "totalEvolvedCount": 23,
-    "totalBattleVictoryCount": 314,
-    "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 297,
-    "totalPvNBattleVictoryCount": 17,
+    "totalBattleVictoryCount": 325,
+    "totalPvPBattleVictoryCount": 4,
+    "totalPvWBattleVictoryCount": 302,
+    "totalPvNBattleVictoryCount": 19,
     "totalShinyCaptureCount": 7,
-    "totalTradedCount": 52,
+    "totalTradedCount": 54,
     "totalTypeCaptureCounts": {
       "normal": 93,
-      "ground": 23,
+      "ground": 24,
       "electric": 18,
       "fairy": 29,
-      "water": 43,
+      "water": 46,
       "grass": 37,
       "ghost": 12,
       "dark": 14,
       "fire": 30,
       "bug": 4,
-      "psychic": 19,
+      "psychic": 21,
       "poison": 11,
       "steel": 8,
       "rock": 7,
       "dragon": 6,
-      "ice": 11,
+      "ice": 14,
       "flying": 11,
       "fighting": 7
     },
@@ -143,7 +143,7 @@
       "cobblemon:gastly": 1,
       "cobblemon:slugma": 1,
       "cobblemon:flittle": 1,
-      "cobblemon:regice": 1
+      "cobblemon:regice": 2
     },
     "aspectsCollected": {
       "cobblemon:komala": [
@@ -912,6 +912,17 @@
       ],
       "cobblemon:emolga": [
         "female",
+        "alpha"
+      ],
+      "cobblemon:swampert": [
+        "female",
+        "alpha"
+      ],
+      "cobblemon:mudkip": [
+        "male"
+      ],
+      "cobblemon:cetitan": [
+        "male",
         "alpha"
       ]
     }
