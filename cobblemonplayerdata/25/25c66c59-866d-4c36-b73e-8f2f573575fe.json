@@ -10,14 +10,14 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 51,
+    "totalCaptureCount": 54,
     "totalEggsCollected": 3,
-    "totalEggsHatched": 16,
+    "totalEggsHatched": 56,
     "totalEvolvedCount": 11,
-    "totalBattleVictoryCount": 149,
+    "totalBattleVictoryCount": 165,
     "totalPvPBattleVictoryCount": 2,
-    "totalPvWBattleVictoryCount": 98,
-    "totalPvNBattleVictoryCount": 49,
+    "totalPvWBattleVictoryCount": 109,
+    "totalPvNBattleVictoryCount": 54,
     "totalShinyCaptureCount": 2,
     "totalTradedCount": 42,
     "totalTypeCaptureCounts": {
@@ -25,17 +25,17 @@
       "water": 5,
       "dark": 3,
       "normal": 8,
-      "flying": 9,
+      "flying": 10,
       "fairy": 1,
       "fighting": 4,
-      "rock": 1,
+      "rock": 2,
       "bug": 4,
       "poison": 2,
       "fire": 9,
       "ice": 1,
-      "ground": 1,
-      "electric": 6,
-      "psychic": 5
+      "ground": 2,
+      "electric": 7,
+      "psychic": 6
     },
     "totalDefeatedCounts": {
       "cobblemon:ditto": 1,
@@ -57,7 +57,7 @@
       "cobblemon:grimer": 1,
       "cobblemon:snorunt": 2,
       "cobblemon:spiritomb": 1,
-      "cobblemon:gimmighoul": 2,
+      "cobblemon:gimmighoul": 3,
       "cobblemon:terrakion": 1,
       "cobblemon:smoliv": 1,
       "cobblemon:woobat": 2,
@@ -88,7 +88,11 @@
       "cobblemon:espurr": 1,
       "cobblemon:dubwool": 1,
       "cobblemon:slowpoke": 2,
-      "cobblemon:spinarak": 2
+      "cobblemon:spinarak": 2,
+      "cobblemon:unown": 5,
+      "cobblemon:ferrothorn": 1,
+      "cobblemon:pupitar": 1,
+      "cobblemon:gible": 1
     },
     "aspectsCollected": {
       "cobblemon:seedot": [
@@ -351,6 +355,13 @@
         "genderless"
       ],
       "cobblemon:sceptile": [
+        "male"
+      ],
+      "cobblemon:unown": [
+        "genderless",
+        "character-x"
+      ],
+      "cobblemon:pupitar": [
         "male"
       ]
     }

@@ -8102,6 +8102,30 @@
     },
     "done": false
   },
+  "cobblemon:first_battle_victory": {
+    "criteria": {
+      "win": "2026-03-23 22:21:34 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2026-03-23 22:34:32 +0100"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2026-03-23 22:34:32 +0100"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2026-03-23 22:34:32 +0100"
+    },
+    "done": true
+  },
   "mega_showdown:recipes/misc/alakazite": {
     "criteria": {
       "has_mega_stone": "2026-03-23 22:35:09 +0100"
@@ -8113,15 +8137,6 @@
       "has_mega_stone": "2026-03-23 22:35:09 +0100"
     },
     "done": true
-  },
-  "minecraft:nether/explore_nether": {
-    "criteria": {
-      "minecraft:crimson_forest": "2026-03-23 22:40:34 +0100",
-      "minecraft:nether_wastes": "2026-03-23 22:41:08 +0100",
-      "minecraft:soul_sand_valley": "2026-03-23 22:40:16 +0100",
-      "minecraft:warped_forest": "2026-03-23 23:09:19 +0100"
-    },
-    "done": false
   },
   "mega_showdown:recipes/misc/absolite": {
     "criteria": {
@@ -8159,21 +8174,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/diorite": {
-    "criteria": {
-      "has_quartz": "2026-03-23 22:41:34 +0100"
-    },
-    "done": true
-  },
   "mega_showdown:recipes/misc/galladite": {
     "criteria": {
       "has_mega_stone": "2026-03-23 22:35:09 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite": {
-    "criteria": {
-      "has_quartz": "2026-03-23 22:41:34 +0100"
     },
     "done": true
   },
@@ -8195,21 +8198,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/quartz_block": {
-    "criteria": {
-      "has_quartz": "2026-03-23 22:41:34 +0100"
-    },
-    "done": true
-  },
   "mega_showdown:recipes/misc/swampertite": {
     "criteria": {
       "has_mega_stone": "2026-03-23 22:35:09 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/comparator": {
-    "criteria": {
-      "has_quartz": "2026-03-23 22:41:34 +0100"
     },
     "done": true
   },
@@ -8292,27 +8283,9 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/fancy_painting": {
-    "criteria": {
-      "has_fancy_painting": "2026-03-23 22:56:41 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/nether_brick": {
-    "criteria": {
-      "has_netherrack": "2026-03-23 22:41:22 +0100"
-    },
-    "done": true
-  },
   "mega_showdown:recipes/misc/diancite": {
     "criteria": {
       "has_mega_stone": "2026-03-23 22:35:09 +0100"
-    },
-    "done": true
-  },
-  "minecraft:story/enter_the_end": {
-    "criteria": {
-      "entered_end": "2026-03-23 22:34:32 +0100"
     },
     "done": true
   },
@@ -8343,18 +8316,6 @@
   "mega_showdown:recipes/misc/blazikenite": {
     "criteria": {
       "has_mega_stone": "2026-03-23 22:35:09 +0100"
-    },
-    "done": true
-  },
-  "minecraft:story/enter_the_nether": {
-    "criteria": {
-      "entered_nether": "2026-03-23 22:40:15 +0100"
-    },
-    "done": true
-  },
-  "cobblemon:first_battle_victory": {
-    "criteria": {
-      "win": "2026-03-23 22:21:34 +0100"
     },
     "done": true
   },
@@ -8400,18 +8361,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/daylight_detector": {
-    "criteria": {
-      "has_quartz": "2026-03-23 22:41:34 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/observer": {
-    "criteria": {
-      "has_quartz": "2026-03-23 22:41:34 +0100"
-    },
-    "done": true
-  },
   "mega_showdown:recipes/misc/mewtwonite_y": {
     "criteria": {
       "has_mega_stone": "2026-03-23 22:35:09 +0100"
@@ -8436,12 +8385,6 @@
     },
     "done": true
   },
-  "minecraft:nether/root": {
-    "criteria": {
-      "entered_nether": "2026-03-23 22:40:15 +0100"
-    },
-    "done": true
-  },
   "mega_showdown:recipes/misc/ampharosite": {
     "criteria": {
       "has_mega_stone": "2026-03-23 22:35:09 +0100",
@@ -8452,12 +8395,6 @@
   "mega_showdown:recipes/misc/sceptilite": {
     "criteria": {
       "has_mega_stone": "2026-03-23 22:35:09 +0100"
-    },
-    "done": true
-  },
-  "minecraft:end/find_end_city": {
-    "criteria": {
-      "in_city": "2026-03-23 22:34:32 +0100"
     },
     "done": true
   },
@@ -8473,12 +8410,6 @@
     },
     "done": true
   },
-  "minecraft:end/root": {
-    "criteria": {
-      "entered_end": "2026-03-23 22:34:32 +0100"
-    },
-    "done": true
-  },
   "mega_showdown:recipes/misc/kangaskhanite": {
     "criteria": {
       "has_mega_stone": "2026-03-23 22:35:09 +0100"
@@ -8489,6 +8420,231 @@
     "criteria": {
       "has_mega_stone": "2026-03-23 22:35:09 +0100",
       "has_the_recipe": "2026-03-23 22:35:09 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2026-03-23 22:40:15 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2026-03-23 22:40:15 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2026-03-23 22:40:34 +0100",
+      "minecraft:nether_wastes": "2026-03-23 22:41:08 +0100",
+      "minecraft:soul_sand_valley": "2026-03-23 22:40:16 +0100",
+      "minecraft:warped_forest": "2026-03-23 23:09:19 +0100"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2026-03-23 22:41:22 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2026-03-23 22:41:34 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2026-03-23 22:41:34 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2026-03-23 22:41:34 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2026-03-23 22:41:34 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2026-03-23 22:41:34 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2026-03-23 22:41:34 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/fancy_painting": {
+    "criteria": {
+      "has_fancy_painting": "2026-03-23 22:56:41 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/campfire_pot/suspicious_stew_from_white_tulip_in_campfire_pot": {
+    "criteria": {
+      "has_white_tulip": "2026-03-26 23:39:35 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/white_dye_from_white_tulip": {
+    "criteria": {
+      "has_white_tulip": "2026-03-26 23:39:35 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/magenta_sheet": {
+    "criteria": {
+      "has_magenta_sheet": "2026-03-26 23:33:56 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2026-03-26 23:28:26 +0100"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mossy_cobblestone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2026-03-26 23:28:26 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2026-03-26 23:28:26 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2026-03-26 23:28:26 +0100"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_mossy_cobblestone_bridge": {
+    "criteria": {
+      "has_planks": "2026-03-26 23:28:26 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_banner": {
+    "criteria": {
+      "has_magenta_wool": "2026-03-26 23:33:56 +0100"
+    },
+    "done": true
+  },
+  "rctmod:trainers/defeat_commander_mars_1": {
+    "criteria": {
+      "defeat_commander_mars_1": "2026-03-27 00:28:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2026-03-26 23:28:26 +0100"
+    },
+    "done": true
+  },
+  "comforts:recipes/decorations/hammock_magenta": {
+    "criteria": {
+      "has_magenta_wool": "2026-03-26 23:33:56 +0100"
+    },
+    "done": true
+  },
+  "comforts:recipes/decorations/sleeping_bag_magenta": {
+    "criteria": {
+      "has_magenta_wool": "2026-03-26 23:33:56 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_bed": {
+    "criteria": {
+      "has_magenta_wool": "2026-03-26 23:33:56 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_white_tulip": "2026-03-26 23:39:35 +0100"
+    },
+    "done": true
+  },
+  "rctmod:trainers/defeat_commander_jupiter_1": {
+    "criteria": {
+      "defeat_commander_jupiter_1": "2026-03-27 00:47:07 +0100"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mossy_cobblestone_bridge": {
+    "criteria": {
+      "has_planks": "2026-03-26 23:28:26 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_carpet": {
+    "criteria": {
+      "has_magenta_wool": "2026-03-26 23:33:56 +0100"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mossy_stone_brick_bridge": {
+    "criteria": {
+      "has_planks": "2026-03-26 23:28:26 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2026-03-26 23:28:26 +0100"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mossy_cobblestone_bridge_stair": {
+    "criteria": {
+      "has_planks": "2026-03-26 23:28:26 +0100"
+    },
+    "done": true
+  },
+  "rctmod:trainers/defeat_gym_leader_gardenia_1": {
+    "criteria": {
+      "defeat_gym_leader_gardenia_1": "2026-03-27 01:09:32 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/magenta_cushion": {
+    "criteria": {
+      "has_magenta_cushion": "2026-03-26 23:33:56 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:obtain_fossil": {
+    "criteria": {
+      "check_inv": "2026-03-26 23:59:27 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2026-03-26 23:28:26 +0100"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mossy_stone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2026-03-26 23:28:26 +0100"
     },
     "done": true
   },

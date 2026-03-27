@@ -10,22 +10,22 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 67,
+    "totalCaptureCount": 74,
     "totalEggsCollected": 2,
     "totalEggsHatched": 38,
-    "totalEvolvedCount": 2,
-    "totalBattleVictoryCount": 37,
+    "totalEvolvedCount": 3,
+    "totalBattleVictoryCount": 44,
     "totalPvPBattleVictoryCount": 1,
-    "totalPvWBattleVictoryCount": 34,
-    "totalPvNBattleVictoryCount": 2,
+    "totalPvWBattleVictoryCount": 37,
+    "totalPvNBattleVictoryCount": 6,
     "totalShinyCaptureCount": 3,
     "totalTradedCount": 9,
     "totalTypeCaptureCounts": {
-      "water": 9,
+      "water": 10,
       "electric": 7,
-      "normal": 20,
+      "normal": 25,
       "bug": 8,
-      "flying": 6,
+      "flying": 7,
       "poison": 4,
       "fairy": 3,
       "dark": 5,
@@ -35,7 +35,8 @@
       "dragon": 1,
       "psychic": 1,
       "steel": 1,
-      "rock": 2
+      "rock": 2,
+      "fighting": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:mareep": 2,
@@ -263,6 +264,33 @@
       "cobblemon:komala": [
         "female",
         "tree-none",
+        "alpha"
+      ],
+      "cobblemon:tauros": [
+        "male",
+        "combat-breed",
+        "alpha"
+      ],
+      "cobblemon:vaporeon": [
+        "male"
+      ],
+      "cobblemon:raticate": [
+        "male",
+        "alpha"
+      ],
+      "cobblemon:mienshao": [
+        "female",
+        "alpha"
+      ],
+      "cobblemon:bidoof": [
+        "female"
+      ],
+      "cobblemon:watchog": [
+        "female",
+        "alpha"
+      ],
+      "cobblemon:fearow": [
+        "male",
         "alpha"
       ]
     }
