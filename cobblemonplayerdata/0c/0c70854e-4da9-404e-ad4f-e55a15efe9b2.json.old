@@ -10,34 +10,34 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 302,
+    "totalCaptureCount": 308,
     "totalEggsCollected": 70,
-    "totalEggsHatched": 4842,
+    "totalEggsHatched": 5272,
     "totalEvolvedCount": 23,
-    "totalBattleVictoryCount": 325,
+    "totalBattleVictoryCount": 348,
     "totalPvPBattleVictoryCount": 4,
-    "totalPvWBattleVictoryCount": 302,
-    "totalPvNBattleVictoryCount": 19,
-    "totalShinyCaptureCount": 7,
+    "totalPvWBattleVictoryCount": 308,
+    "totalPvNBattleVictoryCount": 36,
+    "totalShinyCaptureCount": 8,
     "totalTradedCount": 54,
     "totalTypeCaptureCounts": {
-      "normal": 93,
+      "normal": 94,
       "ground": 24,
       "electric": 18,
       "fairy": 29,
       "water": 46,
-      "grass": 37,
-      "ghost": 12,
+      "grass": 38,
+      "ghost": 15,
       "dark": 14,
-      "fire": 30,
+      "fire": 33,
       "bug": 4,
       "psychic": 21,
       "poison": 11,
-      "steel": 8,
+      "steel": 9,
       "rock": 7,
       "dragon": 6,
       "ice": 14,
-      "flying": 11,
+      "flying": 12,
       "fighting": 7
     },
     "totalDefeatedCounts": {
@@ -98,7 +98,7 @@
       "cobblemon:minior": 1,
       "cobblemon:roselia": 1,
       "cobblemon:gumshoos": 1,
-      "cobblemon:watchog": 1,
+      "cobblemon:watchog": 2,
       "cobblemon:dugtrio": 1,
       "cobblemon:flaaffy": 1,
       "cobblemon:jigglypuff": 1,
@@ -596,7 +596,8 @@
         "male"
       ],
       "cobblemon:drifloon": [
-        "female"
+        "female",
+        "shiny"
       ],
       "cobblemon:raboot": [
         "male"
@@ -924,6 +925,15 @@
       "cobblemon:cetitan": [
         "male",
         "alpha"
+      ],
+      "cobblemon:fuecoco": [
+        "male"
+      ],
+      "cobblemon:blacephalon": [
+        "genderless"
+      ],
+      "cobblemon:kartana": [
+        "genderless"
       ]
     }
   }

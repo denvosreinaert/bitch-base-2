@@ -12,35 +12,35 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 273,
+    "totalCaptureCount": 281,
     "totalEggsCollected": 296,
     "totalEggsHatched": 4548,
-    "totalEvolvedCount": 24,
-    "totalBattleVictoryCount": 794,
-    "totalPvPBattleVictoryCount": 2,
-    "totalPvWBattleVictoryCount": 308,
-    "totalPvNBattleVictoryCount": 484,
+    "totalEvolvedCount": 28,
+    "totalBattleVictoryCount": 837,
+    "totalPvPBattleVictoryCount": 3,
+    "totalPvWBattleVictoryCount": 323,
+    "totalPvNBattleVictoryCount": 511,
     "totalShinyCaptureCount": 19,
     "totalTradedCount": 121,
     "totalTypeCaptureCounts": {
       "normal": 46,
       "water": 28,
       "poison": 24,
-      "ground": 33,
+      "ground": 37,
       "electric": 18,
-      "fire": 25,
-      "fighting": 16,
-      "grass": 28,
+      "fire": 26,
+      "fighting": 17,
+      "grass": 29,
       "bug": 23,
-      "rock": 9,
-      "dragon": 12,
-      "flying": 28,
+      "rock": 11,
+      "dragon": 13,
+      "flying": 29,
       "fairy": 22,
       "ghost": 15,
       "psychic": 26,
       "ice": 13,
       "steel": 23,
-      "dark": 16
+      "dark": 18
     },
     "totalDefeatedCounts": {
       "cobblemon:hoppip": 2,
@@ -84,8 +84,8 @@
       "cobblemon:farigiraf": 1,
       "cobblemon:slowbro": 1,
       "cobblemon:spinarak": 1,
-      "cobblemon:paras": 2,
-      "cobblemon:carnivine": 2,
+      "cobblemon:paras": 5,
+      "cobblemon:carnivine": 3,
       "cobblemon:drowzee": 1,
       "cobblemon:swoobat": 1,
       "cobblemon:oricorio": 2,
@@ -140,7 +140,10 @@
       "cobblemon:misdreavus": 1,
       "cobblemon:shiinotic": 3,
       "cobblemon:darumaka": 1,
-      "cobblemon:koffing": 1
+      "cobblemon:koffing": 1,
+      "cobblemon:unown": 7,
+      "cobblemon:elgyem": 1,
+      "cobblemon:cubone": 1
     },
     "aspectsCollected": {
       "cobblemon:kangaskhan": [
@@ -556,7 +559,8 @@
         "female"
       ],
       "cobblemon:gabite": [
-        "male"
+        "male",
+        "female"
       ],
       "cobblemon:lillipup": [
         "female"
@@ -1134,6 +1138,35 @@
       ],
       "cobblemon:mamoswine": [
         "female"
+      ],
+      "cobblemon:archeops": [
+        "male"
+      ],
+      "cobblemon:incineroar": [
+        "male"
+      ],
+      "cobblemon:flamigo": [
+        "male",
+        "alpha"
+      ],
+      "cobblemon:larvitar": [
+        "male"
+      ],
+      "cobblemon:tyranitar": [
+        "female",
+        "alpha"
+      ],
+      "cobblemon:chespin": [
+        "male"
+      ],
+      "cobblemon:camerupt": [
+        "female"
+      ],
+      "cobblemon:trapinch": [
+        "male"
+      ],
+      "cobblemon:drakloak": [
+        "male"
       ]
     }
   }

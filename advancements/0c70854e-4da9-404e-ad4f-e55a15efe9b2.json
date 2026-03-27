@@ -5153,9 +5153,10 @@
   },
   "cobblemon:recipes/resist_feather": {
     "criteria": {
-      "has_feather": "2026-03-17 15:19:48 +0100"
+      "has_feather": "2026-03-17 15:19:48 +0100",
+      "has_mint": "2026-03-26 23:08:49 +0100"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/muscle_feather": {
     "criteria": {
@@ -10361,6 +10362,114 @@
       "has_gem": "2026-03-26 02:31:15 +0100"
     },
     "done": true
+  },
+  "rctmod:trainers/defeat_gym_leader_candice_1": {
+    "criteria": {
+      "defeat_gym_leader_candice_1": "2026-03-26 17:50:15 +0100"
+    },
+    "done": true
+  },
+  "rctmod:trainers/defeat_team_galactic_boss_cyrus_1": {
+    "criteria": {
+      "defeat_team_galactic_boss_cyrus_1": "2026-03-26 18:56:11 +0100"
+    },
+    "done": true
+  },
+  "rctmod:trainers/defeat_commander_saturn_2": {
+    "criteria": {
+      "defeat_commander_saturn_2": "2026-03-26 19:02:08 +0100"
+    },
+    "done": true
+  },
+  "rctmod:trainers/defeat_commander_mars_jupiter": {
+    "criteria": {
+      "defeat_commander_mars_jupiter": "2026-03-26 19:10:45 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/bold_mint": {
+    "criteria": {
+      "has_benefit_mint": "2026-03-26 23:08:49 +0100"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_the_recipe": "2026-03-27 01:50:30 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/gentle_mint": {
+    "criteria": {
+      "has_detriment_mint": "2026-03-26 23:08:49 +0100"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/consumables/impish_mint": {
+    "criteria": {
+      "has_benefit_mint": "2026-03-26 23:08:49 +0100"
+    },
+    "done": false
+  },
+  "rctmod:trainers/defeat_team_galactic_boss_cyrus_2": {
+    "criteria": {
+      "defeat_team_galactic_boss_cyrus_2": "2026-03-26 23:08:41 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:obtain_mint": {
+    "criteria": {
+      "check_inv": "2026-03-26 23:08:49 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:obtain_all_mints": {
+    "criteria": {
+      "obtain_blue_mint_leaf": "2026-03-26 23:08:49 +0100"
+    },
+    "done": false
+  },
+  "rctmod:trainers/defeat_gym_leader_volkner_1": {
+    "criteria": {
+      "defeat_gym_leader_volkner_1": "2026-03-26 23:34:21 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/hasty_mint": {
+    "criteria": {
+      "has_detriment_mint": "2026-03-26 23:08:49 +0100"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/held/power_belt": {
+    "criteria": {
+      "has_mint": "2026-03-26 23:08:49 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/mild_mint": {
+    "criteria": {
+      "has_detriment_mint": "2026-03-26 23:08:49 +0100"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/consumables/lax_mint": {
+    "criteria": {
+      "has_benefit_mint": "2026-03-26 23:08:49 +0100"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/consumables/relaxed_mint": {
+    "criteria": {
+      "has_benefit_mint": "2026-03-26 23:08:49 +0100"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/consumables/lonely_mint": {
+    "criteria": {
+      "has_detriment_mint": "2026-03-26 23:08:49 +0100"
+    },
+    "done": false
   },
   "DataVersion": 3955
 }
