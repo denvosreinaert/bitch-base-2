@@ -10,16 +10,16 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 54,
+    "totalCaptureCount": 55,
     "totalEggsCollected": 3,
-    "totalEggsHatched": 56,
+    "totalEggsHatched": 126,
     "totalEvolvedCount": 11,
-    "totalBattleVictoryCount": 165,
+    "totalBattleVictoryCount": 169,
     "totalPvPBattleVictoryCount": 2,
-    "totalPvWBattleVictoryCount": 109,
-    "totalPvNBattleVictoryCount": 54,
-    "totalShinyCaptureCount": 2,
-    "totalTradedCount": 42,
+    "totalPvWBattleVictoryCount": 112,
+    "totalPvNBattleVictoryCount": 55,
+    "totalShinyCaptureCount": 3,
+    "totalTradedCount": 43,
     "totalTypeCaptureCounts": {
       "grass": 8,
       "water": 5,
@@ -34,11 +34,11 @@
       "fire": 9,
       "ice": 1,
       "ground": 2,
-      "electric": 7,
+      "electric": 8,
       "psychic": 6
     },
     "totalDefeatedCounts": {
-      "cobblemon:ditto": 1,
+      "cobblemon:ditto": 2,
       "cobblemon:igglybuff": 1,
       "cobblemon:sentret": 1,
       "cobblemon:bunnelby": 2,
@@ -92,7 +92,8 @@
       "cobblemon:unown": 5,
       "cobblemon:ferrothorn": 1,
       "cobblemon:pupitar": 1,
-      "cobblemon:gible": 1
+      "cobblemon:gible": 1,
+      "cobblemon:sinistcha": 1
     },
     "aspectsCollected": {
       "cobblemon:seedot": [
@@ -362,6 +363,10 @@
         "character-x"
       ],
       "cobblemon:pupitar": [
+        "male"
+      ],
+      "cobblemon:pawmi": [
+        "shiny",
         "male"
       ]
     }

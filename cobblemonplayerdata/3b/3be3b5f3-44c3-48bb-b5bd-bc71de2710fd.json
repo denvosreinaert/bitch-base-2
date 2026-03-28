@@ -11,13 +11,13 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 105,
+    "totalCaptureCount": 106,
     "totalEggsCollected": 80,
-    "totalEggsHatched": 6534,
+    "totalEggsHatched": 7080,
     "totalEvolvedCount": 22,
-    "totalBattleVictoryCount": 189,
+    "totalBattleVictoryCount": 190,
     "totalPvPBattleVictoryCount": 1,
-    "totalPvWBattleVictoryCount": 110,
+    "totalPvWBattleVictoryCount": 111,
     "totalPvNBattleVictoryCount": 78,
     "totalShinyCaptureCount": 11,
     "totalTradedCount": 60,
@@ -26,7 +26,7 @@
       "dark": 5,
       "grass": 12,
       "psychic": 18,
-      "water": 11,
+      "water": 12,
       "fighting": 6,
       "fire": 17,
       "bug": 8,
@@ -508,6 +508,10 @@
       ],
       "cobblemon:falinks": [
         "genderless"
+      ],
+      "cobblemon:floatzel": [
+        "female",
+        "alpha"
       ]
     }
   }

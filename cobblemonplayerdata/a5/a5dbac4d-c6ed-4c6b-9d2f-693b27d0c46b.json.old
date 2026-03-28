@@ -12,25 +12,25 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 281,
+    "totalCaptureCount": 284,
     "totalEggsCollected": 296,
     "totalEggsHatched": 4548,
     "totalEvolvedCount": 28,
-    "totalBattleVictoryCount": 837,
+    "totalBattleVictoryCount": 869,
     "totalPvPBattleVictoryCount": 3,
     "totalPvWBattleVictoryCount": 323,
-    "totalPvNBattleVictoryCount": 511,
-    "totalShinyCaptureCount": 19,
-    "totalTradedCount": 121,
+    "totalPvNBattleVictoryCount": 543,
+    "totalShinyCaptureCount": 20,
+    "totalTradedCount": 122,
     "totalTypeCaptureCounts": {
-      "normal": 46,
+      "normal": 47,
       "water": 28,
       "poison": 24,
-      "ground": 37,
-      "electric": 18,
-      "fire": 26,
+      "ground": 38,
+      "electric": 19,
+      "fire": 27,
       "fighting": 17,
-      "grass": 29,
+      "grass": 30,
       "bug": 23,
       "rock": 11,
       "dragon": 13,
@@ -40,7 +40,7 @@
       "psychic": 26,
       "ice": 13,
       "steel": 23,
-      "dark": 18
+      "dark": 19
     },
     "totalDefeatedCounts": {
       "cobblemon:hoppip": 2,
@@ -567,7 +567,9 @@
       ],
       "cobblemon:deerling": [
         "female",
-        "spring"
+        "spring",
+        "male",
+        "autumn"
       ],
       "cobblemon:bunnelby": [
         "male"
@@ -1167,6 +1169,15 @@
       ],
       "cobblemon:drakloak": [
         "male"
+      ],
+      "cobblemon:numel": [
+        "shiny",
+        "male"
+      ],
+      "cobblemon:morpeko": [
+        "female",
+        "full_belly-mode",
+        "alpha"
       ]
     }
   }
