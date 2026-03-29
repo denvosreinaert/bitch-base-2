@@ -10,30 +10,30 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 74,
+    "totalCaptureCount": 78,
     "totalEggsCollected": 2,
     "totalEggsHatched": 38,
     "totalEvolvedCount": 3,
-    "totalBattleVictoryCount": 44,
+    "totalBattleVictoryCount": 63,
     "totalPvPBattleVictoryCount": 1,
-    "totalPvWBattleVictoryCount": 37,
-    "totalPvNBattleVictoryCount": 6,
+    "totalPvWBattleVictoryCount": 43,
+    "totalPvNBattleVictoryCount": 19,
     "totalShinyCaptureCount": 3,
     "totalTradedCount": 9,
     "totalTypeCaptureCounts": {
       "water": 10,
       "electric": 7,
-      "normal": 25,
+      "normal": 26,
       "bug": 8,
       "flying": 7,
       "poison": 4,
       "fairy": 3,
-      "dark": 5,
-      "grass": 8,
-      "fire": 5,
+      "dark": 6,
+      "grass": 9,
+      "fire": 6,
       "ground": 2,
       "dragon": 1,
-      "psychic": 1,
+      "psychic": 2,
       "steel": 1,
       "rock": 2,
       "fighting": 1
@@ -47,12 +47,16 @@
       "cobblemon:rellor": 1,
       "cobblemon:igglybuff": 1,
       "cobblemon:psyduck": 2,
-      "cobblemon:spearow": 2,
+      "cobblemon:spearow": 3,
       "cobblemon:ledyba": 1,
       "cobblemon:joltik": 2,
       "cobblemon:spinarak": 2,
       "cobblemon:paras": 2,
-      "cobblemon:gimmighoul": 1
+      "cobblemon:gimmighoul": 1,
+      "cobblemon:glameow": 1,
+      "cobblemon:scraggy": 1,
+      "cobblemon:sandshrew": 1,
+      "cobblemon:fidough": 1
     },
     "aspectsCollected": {
       "cobblemon:chewtle": [
@@ -292,6 +296,18 @@
       "cobblemon:fearow": [
         "male",
         "alpha"
+      ],
+      "cobblemon:espurr": [
+        "male"
+      ],
+      "cobblemon:litleo": [
+        "female"
+      ],
+      "cobblemon:mightyena": [
+        "male"
+      ],
+      "cobblemon:turtwig": [
+        "male"
       ]
     }
   }

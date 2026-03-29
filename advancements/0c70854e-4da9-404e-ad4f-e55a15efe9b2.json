@@ -437,6 +437,7 @@
       "lure_ball": "2026-03-15 01:26:07 +0100",
       "roseate_ball": "2026-03-23 22:41:19 +0100",
       "friend_ball": "2026-03-16 22:29:39 +0100",
+      "safari_ball": "2026-03-28 22:06:51 +0100",
       "master_ball": "2026-03-20 19:24:45 +0100",
       "ultra_ball": "2026-03-13 00:21:06 +0100"
     },
@@ -3068,6 +3069,7 @@
   },
   "cobblemon:brew_all": {
     "criteria": {
+      "obtain_max_elixir": "2026-03-28 21:05:46 +0100",
       "obtain_awakening": "2026-03-23 00:39:33 +0100",
       "obtain_paralyze_heal": "2026-03-17 16:55:08 +0100",
       "obtain_super_potion": "2026-03-15 00:20:29 +0100",
@@ -3083,7 +3085,7 @@
       "obtain_elixir": "2026-03-19 17:38:04 +0100",
       "obtain_ether": "2026-03-21 00:48:21 +0100"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:brew_potion": {
     "criteria": {
@@ -3264,9 +3266,10 @@
   },
   "cobblemon:recipes/misc/safari_rod": {
     "criteria": {
-      "has_smithing_trim_template": "2026-03-15 01:26:07 +0100"
+      "has_smithing_trim_template": "2026-03-15 01:26:07 +0100",
+      "has_ball": "2026-03-28 22:06:51 +0100"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/misc/azure_rod": {
     "criteria": {
@@ -3836,7 +3839,9 @@
   },
   "cobblemon:obtain_all_berries": {
     "criteria": {
+      "obtain_sitrus_berry": "2026-03-28 21:13:30 +0100",
       "obtain_oran_berry": "2026-03-17 15:38:11 +0100",
+      "obtain_bluk_berry": "2026-03-28 20:33:47 +0100",
       "obtain_chilan_berry": "2026-03-16 21:15:09 +0100",
       "obtain_leppa_berry": "2026-03-18 21:16:24 +0100",
       "obtain_passho_berry": "2026-03-16 21:14:43 +0100",
@@ -10387,17 +10392,17 @@
     },
     "done": true
   },
+  "rctmod:trainers/defeat_team_galactic_boss_cyrus_2": {
+    "criteria": {
+      "defeat_team_galactic_boss_cyrus_2": "2026-03-26 23:08:41 +0100"
+    },
+    "done": true
+  },
   "cobblemon:recipes/consumables/bold_mint": {
     "criteria": {
       "has_benefit_mint": "2026-03-26 23:08:49 +0100"
     },
     "done": false
-  },
-  "minecraft:recipes/tools/brush": {
-    "criteria": {
-      "has_the_recipe": "2026-03-27 01:50:30 +0100"
-    },
-    "done": true
   },
   "cobblemon:recipes/consumables/gentle_mint": {
     "criteria": {
@@ -10411,12 +10416,6 @@
     },
     "done": false
   },
-  "rctmod:trainers/defeat_team_galactic_boss_cyrus_2": {
-    "criteria": {
-      "defeat_team_galactic_boss_cyrus_2": "2026-03-26 23:08:41 +0100"
-    },
-    "done": true
-  },
   "cobblemon:obtain_mint": {
     "criteria": {
       "check_inv": "2026-03-26 23:08:49 +0100"
@@ -10428,12 +10427,6 @@
       "obtain_blue_mint_leaf": "2026-03-26 23:08:49 +0100"
     },
     "done": false
-  },
-  "rctmod:trainers/defeat_gym_leader_volkner_1": {
-    "criteria": {
-      "defeat_gym_leader_volkner_1": "2026-03-26 23:34:21 +0100"
-    },
-    "done": true
   },
   "cobblemon:recipes/consumables/hasty_mint": {
     "criteria": {
@@ -10470,6 +10463,618 @@
       "has_detriment_mint": "2026-03-26 23:08:49 +0100"
     },
     "done": false
+  },
+  "rctmod:trainers/defeat_gym_leader_volkner_1": {
+    "criteria": {
+      "defeat_gym_leader_volkner_1": "2026-03-26 23:34:21 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_the_recipe": "2026-03-27 01:50:30 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2026-03-28 20:11:40 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/campfire_pot/suspicious_stew_from_cornflower_in_campfire_pot": {
+    "criteria": {
+      "has_cornflower": "2026-03-28 20:11:40 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2026-03-28 20:31:32 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2026-03-28 20:31:32 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2026-03-28 20:31:32 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/agriculture/bluk_berry_smelt_to_dye": {
+    "criteria": {
+      "has_berry": "2026-03-28 20:33:47 +0100"
+    },
+    "done": true
+  },
+  "cobblemonextrastructures:bell_tower": {
+    "criteria": {
+      "bell_tower": "2026-03-28 21:00:34 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/campfire_pot/revive": {
+    "criteria": {
+      "has_heal": "2026-03-28 21:05:46 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/agriculture/sitrus_berry_smelt_to_dye": {
+    "criteria": {
+      "has_berry": "2026-03-28 21:13:30 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/campfire_pot/hyper_potion_in_campfire_pot": {
+    "criteria": {
+      "has_berry": "2026-03-28 21:13:30 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2026-03-28 21:46:28 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2026-03-28 21:46:28 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2026-03-28 21:46:28 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2026-03-28 21:46:28 +0100"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_mossy_stone_bricks_bridge": {
+    "criteria": {
+      "has_planks": "2026-03-28 21:46:28 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2026-03-28 21:46:28 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2026-03-28 21:46:28 +0100"
+    },
+    "done": true
+  },
+  "lootr:all_gravel": {
+    "criteria": {
+      "brushed_gravel": "2026-03-28 21:48:35 +0100"
+    },
+    "done": false
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2026-03-28 21:49:31 +0100"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/evolution/cracked_pot": {
+    "criteria": {
+      "has_authentic": "2026-03-28 21:51:27 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/evolution/chipped_pot": {
+    "criteria": {
+      "has_original": "2026-03-28 21:51:27 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/n_solarizer": {
+    "criteria": {
+      "has_sunstone": "2026-03-28 21:53:23 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/blocks/sun_stone_block": {
+    "criteria": {
+      "has_sun_stone": "2026-03-28 21:53:23 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_kitchen_sink": {
+    "criteria": {
+      "has_minecraft:copper_ingot": "2026-03-28 21:54:29 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_kitchen_sink": {
+    "criteria": {
+      "has_minecraft:copper_ingot": "2026-03-28 21:54:29 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/rotom_oven": {
+    "criteria": {
+      "has_copper": "2026-03-28 21:54:29 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/rotom_fridge": {
+    "criteria": {
+      "has_copper": "2026-03-28 21:54:29 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2026-03-28 21:54:29 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_sink": {
+    "criteria": {
+      "has_minecraft:copper_ingot": "2026-03-28 21:54:29 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2026-03-28 21:54:29 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_sink": {
+    "criteria": {
+      "has_minecraft:copper_ingot": "2026-03-28 21:54:29 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/rotom_washing_machine": {
+    "criteria": {
+      "has_copper": "2026-03-28 21:54:29 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/rotom_mow": {
+    "criteria": {
+      "has_copper": "2026-03-28 21:54:29 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/rotom_fan": {
+    "criteria": {
+      "has_copper": "2026-03-28 21:54:29 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/copper_trapdoor": {
+    "criteria": {
+      "has_copper_ingot": "2026-03-28 21:54:29 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/cell_battery": {
+    "criteria": {
+      "has_copper": "2026-03-28 21:54:29 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_sink": {
+    "criteria": {
+      "has_minecraft:copper_ingot": "2026-03-28 21:54:29 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/copper_door": {
+    "criteria": {
+      "has_copper_ingot": "2026-03-28 21:54:29 +0100"
+    },
+    "done": true
+  },
+  "sootychimneys:recipe/decorations/copper_chimney": {
+    "criteria": {
+      "has_copper": "2026-03-28 21:54:29 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/blocks/dawn_stone_block": {
+    "criteria": {
+      "has_dawn_stone": "2026-03-28 21:58:29 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/assault_vest": {
+    "criteria": {
+      "has_protector": "2026-03-28 21:58:46 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_2": {
+    "criteria": {
+      "has_stack_upgrade_tier_1": "2026-03-28 22:36:36 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2026-03-28 22:38:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2026-03-28 22:38:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2026-03-28 22:38:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2026-03-28 22:38:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/copper_bulb": {
+    "criteria": {
+      "has_copper_block": "2026-03-28 22:38:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_grate": {
+    "criteria": {
+      "has_copper_block": "2026-03-28 22:38:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_grate_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2026-03-28 22:38:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2026-03-28 22:38:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2026-03-28 22:38:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2026-03-28 22:38:05 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2026-03-28 22:39:04 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2026-03-28 22:39:10 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2026-03-28 22:39:16 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2026-03-28 22:39:22 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/deposit_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-03-28 22:42:26 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/filter_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-03-28 22:42:26 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/feeding_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-03-28 22:42:26 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/battery_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-03-28 22:42:26 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1": {
+    "criteria": {
+      "has_upgrade_base": "2026-03-28 22:42:26 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/void_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-03-28 22:42:26 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/smelting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-03-28 22:42:26 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/refill_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-03-28 22:42:26 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stonecutter_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-03-28 22:42:26 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/botanist_workbench_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-03-28 22:42:26 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/pickup_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-03-28 22:42:26 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/jukebox_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-03-28 22:42:26 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/pump_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-03-28 22:42:26 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/anvil_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-03-28 22:42:26 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/smoking_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-03-28 22:42:26 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/everlasting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-03-28 22:42:26 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/mason_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-03-28 22:42:26 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/carpenters_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-03-28 22:42:26 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/alchemy_bench_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-03-28 22:42:26 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_starter_tier": {
+    "criteria": {
+      "has_upgrade_base": "2026-03-28 22:42:26 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/glassblower_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-03-28 22:42:26 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/tinkering_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-03-28 22:42:26 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/smithing_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-03-28 22:42:26 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/compacting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-03-28 22:42:26 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/inception_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-03-28 22:42:26 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_downgrade_tier_1": {
+    "criteria": {
+      "has_upgrade_base": "2026-03-28 22:42:26 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_downgrade_tier_3": {
+    "criteria": {
+      "has_upgrade_base": "2026-03-28 22:42:26 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_downgrade_tier_2": {
+    "criteria": {
+      "has_upgrade_base": "2026-03-28 22:42:26 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/blasting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-03-28 22:42:26 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/loom_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-03-28 22:42:26 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/restock_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-03-28 22:42:26 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/tool_swapper_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-03-28 22:42:26 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/tank_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-03-28 22:42:26 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/crafting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-03-28 22:42:26 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/magnet_upgrade": {
+    "criteria": {
+      "has_pickup_upgrade": "2026-03-28 22:42:33 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_pickup_upgrade": {
+    "criteria": {
+      "has_pickup_upgrade": "2026-03-28 22:42:33 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_magnet_upgrade_from_basic": {
+    "criteria": {
+      "has_magnet_upgrade": "2026-03-28 22:42:41 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_compacting_upgrade": {
+    "criteria": {
+      "has_compacting_upgrade": "2026-03-28 22:44:05 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/blasting_upgrade_from_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2026-03-28 22:44:19 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/auto_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2026-03-28 22:44:19 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/smoking_upgrade_from_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2026-03-28 22:44:19 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_3": {
+    "criteria": {
+      "has_stack_upgrade_tier_2": "2026-03-28 22:49:58 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_4": {
+    "criteria": {
+      "has_stack_upgrade_tier_3": "2026-03-28 22:50:01 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_magnet_upgrade": {
+    "criteria": {
+      "has_advanced_pickup_upgrade": "2026-03-28 23:00:11 +0100"
+    },
+    "done": true
   },
   "DataVersion": 3955
 }
