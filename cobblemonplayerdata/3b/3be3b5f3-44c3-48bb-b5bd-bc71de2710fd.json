@@ -11,16 +11,16 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 169,
-    "totalEggsCollected": 80,
-    "totalEggsHatched": 7116,
+    "totalCaptureCount": 171,
+    "totalEggsCollected": 85,
+    "totalEggsHatched": 7126,
     "totalEvolvedCount": 23,
-    "totalBattleVictoryCount": 237,
+    "totalBattleVictoryCount": 239,
     "totalPvPBattleVictoryCount": 2,
     "totalPvWBattleVictoryCount": 146,
-    "totalPvNBattleVictoryCount": 89,
+    "totalPvNBattleVictoryCount": 91,
     "totalShinyCaptureCount": 13,
-    "totalTradedCount": 60,
+    "totalTradedCount": 61,
     "totalTypeCaptureCounts": {
       "electric": 8,
       "dark": 9,
@@ -29,13 +29,13 @@
       "water": 17,
       "fighting": 10,
       "fire": 20,
-      "bug": 12,
+      "bug": 14,
       "normal": 27,
       "flying": 12,
-      "rock": 11,
+      "rock": 12,
       "ground": 12,
       "ghost": 8,
-      "steel": 5,
+      "steel": 6,
       "poison": 12,
       "ice": 8,
       "dragon": 4,
@@ -674,6 +674,10 @@
       ],
       "cobblemon:aron": [
         "male"
+      ],
+      "cobblemon:wormadam": [
+        "female",
+        "trash-cloak"
       ]
     }
   }

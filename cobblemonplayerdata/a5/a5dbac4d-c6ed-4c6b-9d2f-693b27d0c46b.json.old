@@ -12,25 +12,25 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 301,
+    "totalCaptureCount": 305,
     "totalEggsCollected": 296,
     "totalEggsHatched": 4548,
     "totalEvolvedCount": 29,
-    "totalBattleVictoryCount": 941,
+    "totalBattleVictoryCount": 942,
     "totalPvPBattleVictoryCount": 3,
-    "totalPvWBattleVictoryCount": 337,
+    "totalPvWBattleVictoryCount": 338,
     "totalPvNBattleVictoryCount": 601,
     "totalShinyCaptureCount": 21,
     "totalTradedCount": 123,
     "totalTypeCaptureCounts": {
-      "normal": 48,
-      "water": 30,
-      "poison": 25,
+      "normal": 50,
+      "water": 31,
+      "poison": 26,
       "ground": 39,
       "electric": 21,
       "fire": 29,
       "fighting": 20,
-      "grass": 32,
+      "grass": 34,
       "bug": 24,
       "rock": 11,
       "dragon": 16,
@@ -1234,6 +1234,21 @@
       "cobblemon:annihilape": [
         "male",
         "alpha"
+      ],
+      "cobblemon:arboliva": [
+        "male",
+        "alpha"
+      ],
+      "cobblemon:clauncher": [
+        "female",
+        "claw-right"
+      ],
+      "cobblemon:venusaur": [
+        "male",
+        "alpha"
+      ],
+      "cobblemon:skitty": [
+        "female"
       ]
     }
   }

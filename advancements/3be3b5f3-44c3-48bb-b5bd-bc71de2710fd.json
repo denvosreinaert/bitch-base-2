@@ -13609,489 +13609,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/grilled_salmon": {
-    "criteria": {
-      "has_salmon": "2026-03-29 03:37:29 +0200"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/rabbit_stew": {
-    "criteria": {
-      "has_any_ingredient": "2026-03-29 03:02:32 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_slab": {
-    "criteria": {
-      "has_quartz_block": "2026-03-28 22:26:08 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/netherite_chestplate_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2026-03-28 23:53:29 +0100"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/agriculture/petaya_berry_smelt_to_dye": {
-    "criteria": {
-      "has_berry": "2026-03-28 22:05:01 +0100"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/campfire_pot/x_special_defence": {
-    "criteria": {
-      "has_berry": "2026-03-28 21:52:35 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_bricks": {
-    "criteria": {
-      "has_quartz_block": "2026-03-28 22:26:08 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine": {
-    "criteria": {
-      "has_prismarine_shard": "2026-03-28 20:52:58 +0100"
-    },
-    "done": true
-  },
-  "cobblemon:obtain_leek": {
-    "criteria": {
-      "check_inv": "2026-03-29 00:34:18 +0100"
-    },
-    "done": true
-  },
-  "refinedstorage:upgrading": {
-    "criteria": {
-      "upgrade_in_inventory": "2026-03-28 22:33:44 +0100"
-    },
-    "done": true
-  },
-  "mega_showdown:mega_showdown/dynamax/get_dynamax_band": {
-    "criteria": {
-      "obtained_dynamax_band": "2026-03-28 20:33:52 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_rabbit": {
-    "criteria": {
-      "has_rabbit": "2026-03-29 03:02:32 +0200"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/dripstone_pillar_trim": {
-    "criteria": {
-      "has_dripstone_pillar_trim": "2026-03-29 03:47:19 +0200"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/balls/ancient_great_ball": {
-    "criteria": {
-      "has_tumblestone": "2026-03-29 03:33:35 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
-    "criteria": {
-      "has_rabbit": "2026-03-29 03:02:32 +0200"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/misc/ancient_origin_rod": {
-    "criteria": {
-      "has_ball": "2026-03-29 04:01:20 +0200"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
-    "criteria": {
-      "has_log": "2026-03-28 21:49:10 +0100"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/misc/friend_rod": {
-    "criteria": {
-      "has_ball": "2026-03-29 01:34:53 +0100"
-    },
-    "done": false
-  },
-  "cobblemon:recipes/held/choice_specs": {
-    "criteria": {
-      "has_glasses": "2026-03-29 01:27:07 +0100"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/campfire_pot/open_faced_sandwich": {
-    "criteria": {
-      "has_bread": "2026-03-28 22:06:56 +0100"
-    },
-    "done": true
-  },
-  "cobblemonextrastructures:pharmacy": {
-    "criteria": {
-      "pharmacy": "2026-03-28 21:08:06 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/netherite_helmet_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2026-03-28 23:53:29 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_stairs": {
-    "criteria": {
-      "has_quartz_block": "2026-03-28 22:26:08 +0100"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/combat/netherite_knife_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2026-03-28 23:53:29 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/netherite_boots_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2026-03-28 23:53:29 +0100"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/balls/ancient_slate_ball": {
-    "criteria": {
-      "has_tumblestone": "2026-03-29 03:33:35 +0200"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/held/air_balloon": {
-    "criteria": {
-      "has_membrane": "2026-03-29 04:12:30 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/leather": {
-    "criteria": {
-      "has_rabbit_hide": "2026-03-29 03:02:32 +0200"
-    },
-    "done": true
-  },
-  "rctmod:trainers/defeat_commander_mars_2": {
-    "criteria": {
-      "defeat_commander_mars_2": "2026-03-29 01:14:05 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
-    "criteria": {
-      "has_salmon": "2026-03-29 03:37:29 +0200"
-    },
-    "done": true
-  },
-  "rctmod:trainers/defeat_gym_leader_byron_1": {
-    "criteria": {
-      "defeat_gym_leader_byron_1": "2026-03-29 00:51:39 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/netherite_axe_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2026-03-28 23:53:29 +0100"
-    },
-    "done": true
-  },
-  "legendarymonuments:recipes/building_blocks/distortion_planks_from_log": {
-    "criteria": {
-      "has_distortion_log": "2026-03-29 03:40:28 +0200"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/quartz_pillar_trim": {
-    "criteria": {
-      "has_quartz_pillar_trim": "2026-03-28 22:26:08 +0100"
-    },
-    "done": true
-  },
-  "cobblemonextrastructures:sea_mauville": {
-    "criteria": {
-      "sea_mauville": "2026-03-28 22:12:52 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
-    "criteria": {
-      "has_quartz_block": "2026-03-28 22:26:08 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2026-03-28 21:49:10 +0100"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/agriculture/nanab_berry_smelt_to_dye": {
-    "criteria": {
-      "has_berry": "2026-03-28 21:17:26 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
-    "criteria": {
-      "has_quartz_block": "2026-03-28 22:26:08 +0100"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/balls/ancient_ivory_ball": {
-    "criteria": {
-      "has_tumblestone": "2026-03-29 03:33:35 +0200"
-    },
-    "done": true
-  },
-  "mega_showdown:recipes/misc/dna_splicer": {
-    "criteria": {
-      "has_netherite": "2026-03-28 23:53:29 +0100"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/blocks/dawn_stone_block": {
-    "criteria": {
-      "has_dawn_stone": "2026-03-28 21:21:58 +0100"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/phantom_trophy": {
-    "criteria": {
-      "has_phantom_trophy": "2026-03-29 04:12:30 +0200"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/bread_slice_from_bread": {
-    "criteria": {
-      "has_bread": "2026-03-28 22:06:56 +0100"
-    },
-    "done": true
-  },
-  "mega_showdown:recipes/misc/zygarde_cube": {
-    "criteria": {
-      "has_netherite": "2026-03-28 23:53:29 +0100"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/fish_stew": {
-    "criteria": {
-      "has_any_ingredient": "2026-03-29 03:37:29 +0200"
-    },
-    "done": true
-  },
-  "cobblemonextrastructures:pokemon_center": {
-    "criteria": {
-      "pokemon_center": "2026-03-28 23:16:55 +0100"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/plate": {
-    "criteria": {
-      "has_minecraft:quartz_block": "2026-03-28 22:26:08 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/netherite_sword_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2026-03-28 23:53:29 +0100"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/agriculture/apicot_berry_smelt_to_dye": {
-    "criteria": {
-      "has_berry": "2026-03-28 21:52:35 +0100"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/balls/ancient_poke_ball": {
-    "criteria": {
-      "has_tumblestone": "2026-03-29 03:33:35 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/netherite_leggings_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2026-03-28 23:53:29 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon": {
-    "criteria": {
-      "has_salmon": "2026-03-29 03:37:29 +0200"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/quartz_corner_trim": {
-    "criteria": {
-      "has_quartz_corner_trim": "2026-03-28 22:26:08 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/netherite_hoe_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2026-03-28 23:53:29 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
-    "criteria": {
-      "has_rabbit": "2026-03-29 03:02:32 +0200"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/blocks/moon_stone_block": {
-    "criteria": {
-      "has_moon_stone": "2026-03-28 21:57:40 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
-    "criteria": {
-      "has_quartz_block": "2026-03-28 22:26:08 +0100"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/held/destiny_knot": {
-    "criteria": {
-      "has_tear": "2026-03-29 03:38:21 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine_bricks": {
-    "criteria": {
-      "has_prismarine_shard": "2026-03-28 20:52:58 +0100"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/balls/ancient_citrine_ball": {
-    "criteria": {
-      "has_tumblestone": "2026-03-29 03:33:35 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_pillar": {
-    "criteria": {
-      "has_quartz_block": "2026-03-28 22:26:08 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_prismarine": {
-    "criteria": {
-      "has_prismarine_shard": "2026-03-28 20:52:58 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
-    "criteria": {
-      "has_quartz_block": "2026-03-28 22:26:08 +0100"
-    },
-    "done": true
-  },
-  "mega_showdown:recipes/misc/omni_ring": {
-    "criteria": {
-      "has_netherite_ingot": "2026-03-28 23:53:29 +0100"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/consumables/roasted_leek_by_smoking": {
-    "criteria": {
-      "has_leek": "2026-03-29 00:34:18 +0100"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/campfire_pot/x_special_attack": {
-    "criteria": {
-      "has_berry": "2026-03-28 22:05:01 +0100"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/balls/ancient_roseate_ball": {
-    "criteria": {
-      "has_tumblestone": "2026-03-29 03:33:35 +0200"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/dripstone_corner_trim": {
-    "criteria": {
-      "has_dripstone_corner_trim": "2026-03-29 03:47:19 +0200"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/consumables/roasted_leek": {
-    "criteria": {
-      "has_leek": "2026-03-29 00:34:18 +0100"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/agriculture/liechi_berry_smelt_to_dye": {
-    "criteria": {
-      "has_berry": "2026-03-28 22:29:36 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/lodestone": {
-    "criteria": {
-      "has_netherite_ingot": "2026-03-28 23:53:29 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_planks": {
-    "criteria": {
-      "has_log": "2026-03-28 21:49:10 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/netherite_block": {
-    "criteria": {
-      "has_netherite_ingot": "2026-03-28 23:53:29 +0100"
-    },
-    "done": true
-  },
-  "rctmod:trainers/defeat_commander_saturn_1": {
-    "criteria": {
-      "defeat_commander_saturn_1": "2026-03-29 01:02:45 +0100"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/slicing/red_dye_from_spider_eye": {
     "criteria": {
       "has_spider_eye": "2026-03-28 20:03:02 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_quartz": {
-    "criteria": {
-      "has_quartz_block": "2026-03-28 22:26:08 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon_from_smoking": {
-    "criteria": {
-      "has_salmon": "2026-03-29 03:37:29 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/netherite_shovel_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2026-03-28 23:53:29 +0100"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/balls/ancient_ultra_ball": {
-    "criteria": {
-      "has_tumblestone": "2026-03-29 03:33:35 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
-    "criteria": {
-      "has_quartz_block": "2026-03-28 22:26:08 +0100"
     },
     "done": true
   },
@@ -14101,9 +13621,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+  "mega_showdown:mega_showdown/dynamax/find_dynamax_structure": {
     "criteria": {
-      "has_quartz_block": "2026-03-28 22:26:08 +0100"
+      "in_dynamax_structure": "2026-03-28 20:32:41 +0100"
     },
     "done": true
   },
@@ -14119,21 +13639,219 @@
     },
     "done": true
   },
+  "mega_showdown:mega_showdown/dynamax/find_wishing_star": {
+    "criteria": {
+      "obtained_wishing_star": "2026-03-28 20:32:57 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:mega_showdown/dynamax/get_dynamax_band": {
+    "criteria": {
+      "obtained_dynamax_band": "2026-03-28 20:33:52 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2026-03-28 20:52:58 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2026-03-28 20:52:58 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2026-03-28 20:52:58 +0100"
+    },
+    "done": true
+  },
+  "cobblemonextrastructures:pharmacy": {
+    "criteria": {
+      "pharmacy": "2026-03-28 21:08:06 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/agriculture/nanab_berry_smelt_to_dye": {
+    "criteria": {
+      "has_berry": "2026-03-28 21:17:26 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/blocks/dawn_stone_block": {
+    "criteria": {
+      "has_dawn_stone": "2026-03-28 21:21:58 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2026-03-28 21:49:10 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2026-03-28 21:49:10 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2026-03-28 21:49:10 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/campfire_pot/x_special_defence": {
+    "criteria": {
+      "has_berry": "2026-03-28 21:52:35 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/agriculture/apicot_berry_smelt_to_dye": {
+    "criteria": {
+      "has_berry": "2026-03-28 21:52:35 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/blocks/moon_stone_block": {
+    "criteria": {
+      "has_moon_stone": "2026-03-28 21:57:40 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/n_lunarizer": {
+    "criteria": {
+      "has_moonstone": "2026-03-28 21:57:40 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/agriculture/petaya_berry_smelt_to_dye": {
+    "criteria": {
+      "has_berry": "2026-03-28 22:05:01 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/campfire_pot/x_special_attack": {
+    "criteria": {
+      "has_berry": "2026-03-28 22:05:01 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/campfire_pot/open_faced_sandwich": {
+    "criteria": {
+      "has_bread": "2026-03-28 22:06:56 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/bread_slice_from_bread": {
+    "criteria": {
+      "has_bread": "2026-03-28 22:06:56 +0100"
+    },
+    "done": true
+  },
+  "cobblemonextrastructures:sea_mauville": {
+    "criteria": {
+      "sea_mauville": "2026-03-28 22:12:52 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2026-03-28 22:26:08 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2026-03-28 22:26:08 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2026-03-28 22:26:08 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/quartz_pillar_trim": {
+    "criteria": {
+      "has_quartz_pillar_trim": "2026-03-28 22:26:08 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2026-03-28 22:26:08 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2026-03-28 22:26:08 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/plate": {
+    "criteria": {
+      "has_minecraft:quartz_block": "2026-03-28 22:26:08 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/quartz_corner_trim": {
+    "criteria": {
+      "has_quartz_corner_trim": "2026-03-28 22:26:08 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2026-03-28 22:26:08 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2026-03-28 22:26:08 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2026-03-28 22:26:08 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2026-03-28 22:26:08 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2026-03-28 22:26:08 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2026-03-28 22:26:08 +0100"
+    },
+    "done": true
+  },
   "farmersdelight:main/use_cutting_board": {
     "criteria": {
       "cutting_board": "2026-03-28 22:26:30 +0100"
     },
     "done": true
   },
-  "cobblemon:recipes/consumables/roasted_leek_by_campfire": {
+  "cobblemon:recipes/agriculture/liechi_berry_smelt_to_dye": {
     "criteria": {
-      "has_leek": "2026-03-29 00:34:18 +0100"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/held/covert_cloak": {
-    "criteria": {
-      "has_membrane": "2026-03-29 04:12:30 +0200"
+      "has_berry": "2026-03-28 22:29:36 +0100"
     },
     "done": true
   },
@@ -14149,27 +13867,99 @@
     },
     "done": true
   },
-  "rctmod:trainers/defeat_gym_leader_candice_1": {
+  "refinedstorage:upgrading": {
     "criteria": {
-      "defeat_gym_leader_candice_1": "2026-03-29 03:14:46 +0200"
+      "upgrade_in_inventory": "2026-03-28 22:33:44 +0100"
     },
     "done": true
   },
-  "cobblemon:recipes/balls/ancient_azure_ball": {
+  "cobblemonextrastructures:pokemon_center": {
     "criteria": {
-      "has_tumblestone": "2026-03-29 03:33:35 +0200"
+      "pokemon_center": "2026-03-28 23:16:55 +0100"
     },
     "done": true
   },
-  "mega_showdown:mega_showdown/dynamax/find_wishing_star": {
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
     "criteria": {
-      "obtained_wishing_star": "2026-03-28 20:32:57 +0100"
+      "has_netherite_ingot": "2026-03-28 23:53:29 +0100"
     },
     "done": true
   },
-  "mega_showdown:mega_showdown/dynamax/find_dynamax_structure": {
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
     "criteria": {
-      "in_dynamax_structure": "2026-03-28 20:32:41 +0100"
+      "has_netherite_ingot": "2026-03-28 23:53:29 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/netherite_knife_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2026-03-28 23:53:29 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2026-03-28 23:53:29 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2026-03-28 23:53:29 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/dna_splicer": {
+    "criteria": {
+      "has_netherite": "2026-03-28 23:53:29 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/zygarde_cube": {
+    "criteria": {
+      "has_netherite": "2026-03-28 23:53:29 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2026-03-28 23:53:29 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2026-03-28 23:53:29 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2026-03-28 23:53:29 +0100"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/omni_ring": {
+    "criteria": {
+      "has_netherite_ingot": "2026-03-28 23:53:29 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2026-03-28 23:53:29 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2026-03-28 23:53:29 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2026-03-28 23:53:29 +0100"
     },
     "done": true
   },
@@ -14179,15 +13969,141 @@
     },
     "done": true
   },
-  "mega_showdown:recipes/misc/n_lunarizer": {
+  "cobblemon:obtain_leek": {
     "criteria": {
-      "has_moonstone": "2026-03-28 21:57:40 +0100"
+      "check_inv": "2026-03-29 00:34:18 +0100"
     },
     "done": true
   },
-  "cobblemon:recipes/evolution/reaper_cloth": {
+  "cobblemon:recipes/consumables/roasted_leek_by_smoking": {
     "criteria": {
-      "has_membrane": "2026-03-29 04:12:30 +0200"
+      "has_leek": "2026-03-29 00:34:18 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/roasted_leek": {
+    "criteria": {
+      "has_leek": "2026-03-29 00:34:18 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/roasted_leek_by_campfire": {
+    "criteria": {
+      "has_leek": "2026-03-29 00:34:18 +0100"
+    },
+    "done": true
+  },
+  "rctmod:trainers/defeat_gym_leader_byron_1": {
+    "criteria": {
+      "defeat_gym_leader_byron_1": "2026-03-29 00:51:39 +0100"
+    },
+    "done": true
+  },
+  "rctmod:trainers/defeat_commander_saturn_1": {
+    "criteria": {
+      "defeat_commander_saturn_1": "2026-03-29 01:02:45 +0100"
+    },
+    "done": true
+  },
+  "rctmod:trainers/defeat_commander_mars_2": {
+    "criteria": {
+      "defeat_commander_mars_2": "2026-03-29 01:14:05 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/choice_specs": {
+    "criteria": {
+      "has_glasses": "2026-03-29 01:27:07 +0100"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/misc/friend_rod": {
+    "criteria": {
+      "has_ball": "2026-03-29 01:34:53 +0100"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2026-03-29 03:02:32 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2026-03-29 03:02:32 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2026-03-29 03:02:32 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2026-03-29 03:02:32 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2026-03-29 03:02:32 +0200"
+    },
+    "done": true
+  },
+  "rctmod:trainers/defeat_gym_leader_candice_1": {
+    "criteria": {
+      "defeat_gym_leader_candice_1": "2026-03-29 03:14:46 +0200"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/ancient_great_ball": {
+    "criteria": {
+      "has_tumblestone": "2026-03-29 03:33:35 +0200"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/ancient_slate_ball": {
+    "criteria": {
+      "has_tumblestone": "2026-03-29 03:33:35 +0200"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/ancient_ivory_ball": {
+    "criteria": {
+      "has_tumblestone": "2026-03-29 03:33:35 +0200"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/ancient_poke_ball": {
+    "criteria": {
+      "has_tumblestone": "2026-03-29 03:33:35 +0200"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/ancient_citrine_ball": {
+    "criteria": {
+      "has_tumblestone": "2026-03-29 03:33:35 +0200"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/ancient_roseate_ball": {
+    "criteria": {
+      "has_tumblestone": "2026-03-29 03:33:35 +0200"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/ancient_ultra_ball": {
+    "criteria": {
+      "has_tumblestone": "2026-03-29 03:33:35 +0200"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/ancient_azure_ball": {
+    "criteria": {
+      "has_tumblestone": "2026-03-29 03:33:35 +0200"
     },
     "done": true
   },
@@ -14200,6 +14116,108 @@
   "cobblemon:recipes/blocks/tumblestone_block": {
     "criteria": {
       "has_tumblestone": "2026-03-29 03:33:35 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2026-03-29 03:37:29 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2026-03-29 03:37:29 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2026-03-29 03:37:29 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2026-03-29 03:37:29 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2026-03-29 03:37:29 +0200"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/destiny_knot": {
+    "criteria": {
+      "has_tear": "2026-03-29 03:38:21 +0200"
+    },
+    "done": true
+  },
+  "legendarymonuments:recipes/building_blocks/distortion_planks_from_log": {
+    "criteria": {
+      "has_distortion_log": "2026-03-29 03:40:28 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dripstone_pillar_trim": {
+    "criteria": {
+      "has_dripstone_pillar_trim": "2026-03-29 03:47:19 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dripstone_corner_trim": {
+    "criteria": {
+      "has_dripstone_corner_trim": "2026-03-29 03:47:19 +0200"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/misc/ancient_origin_rod": {
+    "criteria": {
+      "has_ball": "2026-03-29 04:01:20 +0200"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/held/air_balloon": {
+    "criteria": {
+      "has_membrane": "2026-03-29 04:12:30 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/phantom_trophy": {
+    "criteria": {
+      "has_phantom_trophy": "2026-03-29 04:12:30 +0200"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/covert_cloak": {
+    "criteria": {
+      "has_membrane": "2026-03-29 04:12:30 +0200"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/evolution/reaper_cloth": {
+    "criteria": {
+      "has_membrane": "2026-03-29 04:12:30 +0200"
+    },
+    "done": true
+  },
+  "rctmod:trainers/defeat_team_galactic_boss_cyrus_1": {
+    "criteria": {
+      "defeat_team_galactic_boss_cyrus_1": "2026-03-29 21:40:03 +0200"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/fairy_feather": {
+    "criteria": {
+      "has_gem": "2026-03-29 21:45:55 +0200"
+    },
+    "done": true
+  },
+  "rctmod:trainers/defeat_commander_saturn_2": {
+    "criteria": {
+      "defeat_commander_saturn_2": "2026-03-29 21:45:53 +0200"
     },
     "done": true
   },

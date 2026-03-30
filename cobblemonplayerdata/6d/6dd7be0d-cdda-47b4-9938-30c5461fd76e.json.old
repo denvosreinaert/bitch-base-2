@@ -10,18 +10,18 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 78,
+    "totalCaptureCount": 79,
     "totalEggsCollected": 2,
     "totalEggsHatched": 38,
     "totalEvolvedCount": 3,
-    "totalBattleVictoryCount": 63,
+    "totalBattleVictoryCount": 64,
     "totalPvPBattleVictoryCount": 1,
-    "totalPvWBattleVictoryCount": 43,
+    "totalPvWBattleVictoryCount": 44,
     "totalPvNBattleVictoryCount": 19,
     "totalShinyCaptureCount": 3,
     "totalTradedCount": 9,
     "totalTypeCaptureCounts": {
-      "water": 10,
+      "water": 11,
       "electric": 7,
       "normal": 26,
       "bug": 8,
@@ -36,7 +36,8 @@
       "psychic": 2,
       "steel": 1,
       "rock": 2,
-      "fighting": 1
+      "fighting": 1,
+      "ice": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:mareep": 2,
@@ -308,6 +309,9 @@
       ],
       "cobblemon:turtwig": [
         "male"
+      ],
+      "cobblemon:lapras": [
+        "female"
       ]
     }
   }
