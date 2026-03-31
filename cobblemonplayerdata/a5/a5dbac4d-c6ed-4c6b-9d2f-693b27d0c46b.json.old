@@ -12,30 +12,30 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 305,
+    "totalCaptureCount": 308,
     "totalEggsCollected": 296,
     "totalEggsHatched": 4548,
     "totalEvolvedCount": 29,
-    "totalBattleVictoryCount": 942,
+    "totalBattleVictoryCount": 945,
     "totalPvPBattleVictoryCount": 3,
-    "totalPvWBattleVictoryCount": 338,
+    "totalPvWBattleVictoryCount": 341,
     "totalPvNBattleVictoryCount": 601,
     "totalShinyCaptureCount": 21,
     "totalTradedCount": 123,
     "totalTypeCaptureCounts": {
-      "normal": 50,
+      "normal": 51,
       "water": 31,
       "poison": 26,
       "ground": 39,
-      "electric": 21,
+      "electric": 22,
       "fire": 29,
       "fighting": 20,
-      "grass": 34,
+      "grass": 35,
       "bug": 24,
       "rock": 11,
       "dragon": 16,
       "flying": 30,
-      "fairy": 22,
+      "fairy": 23,
       "ghost": 18,
       "psychic": 27,
       "ice": 13,
@@ -724,7 +724,8 @@
         "genderless"
       ],
       "cobblemon:ditto": [
-        "genderless"
+        "genderless",
+        "bucket-ultra-rare"
       ],
       "cobblemon:mightyena": [
         "male"
@@ -1249,6 +1250,15 @@
       ],
       "cobblemon:skitty": [
         "female"
+      ],
+      "cobblemon:whimsicott": [
+        "male",
+        "bucket-common"
+      ],
+      "cobblemon:luxray": [
+        "male",
+        "bucket-",
+        "alpha"
       ]
     }
   }
