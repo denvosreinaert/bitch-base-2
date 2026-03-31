@@ -8934,6 +8934,12 @@
     },
     "done": true
   },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2026-03-29 23:57:35 +0200"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/balustrade_blackstone_bridge": {
     "criteria": {
       "has_planks": "2026-03-30 00:41:01 +0200"
@@ -8955,12 +8961,6 @@
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2026-03-30 00:41:01 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_poppy": {
-    "criteria": {
-      "has_poppy": "2026-03-30 01:17:13 +0200"
     },
     "done": true
   },
@@ -8988,12 +8988,6 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/slicing/red_dye_from_poppy": {
-    "criteria": {
-      "has_poppy": "2026-03-30 01:17:13 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/blackstone_slab": {
     "criteria": {
       "has_blackstone": "2026-03-30 00:41:01 +0200"
@@ -9009,12 +9003,6 @@
   "mcwbridges:recipes/blackstone_bridge_pier": {
     "criteria": {
       "has_planks": "2026-03-30 00:41:01 +0200"
-    },
-    "done": true
-  },
-  "mega_showdown:recipes/misc/pedestal": {
-    "criteria": {
-      "has_chiseled_stone_bricks": "2026-03-30 00:59:35 +0200"
     },
     "done": true
   },
@@ -9036,12 +9024,6 @@
     },
     "done": true
   },
-  "minecraft:end/dragon_breath": {
-    "criteria": {
-      "dragon_breath": "2026-03-29 23:57:35 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2026-03-30 00:41:01 +0200"
@@ -9051,12 +9033,6 @@
   "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2026-03-30 00:41:01 +0200"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/campfire_pot/suspicious_stew_from_poppy_in_campfire_pot": {
-    "criteria": {
-      "has_poppy": "2026-03-30 01:17:13 +0200"
     },
     "done": true
   },
@@ -9093,6 +9069,78 @@
   "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2026-03-30 00:41:01 +0200"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/pedestal": {
+    "criteria": {
+      "has_chiseled_stone_bricks": "2026-03-30 00:59:35 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2026-03-30 01:17:13 +0200"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2026-03-30 01:17:13 +0200"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/campfire_pot/suspicious_stew_from_poppy_in_campfire_pot": {
+    "criteria": {
+      "has_poppy": "2026-03-30 01:17:13 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2026-03-31 19:13:59 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2026-03-31 19:13:59 +0200"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/campfire_pot/leek_and_potato_stew_in_campfire_pot": {
+    "criteria": {
+      "has_leek": "2026-03-31 19:29:03 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/stackable_book": {
+    "criteria": {
+      "has_stackable_book": "2026-03-31 19:13:59 +0200"
+    },
+    "done": true
+  },
+  "mega_showdown:recipes/misc/rotom_catalogue": {
+    "criteria": {
+      "has_book": "2026-03-31 19:13:59 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2026-03-31 19:13:59 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2026-03-31 19:13:59 +0200"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/leek_and_potato_stew": {
+    "criteria": {
+      "has_leek": "2026-03-31 19:29:03 +0200"
     },
     "done": true
   },
