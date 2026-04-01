@@ -10,13 +10,13 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 312,
+    "totalCaptureCount": 313,
     "totalEggsCollected": 70,
     "totalEggsHatched": 5720,
     "totalEvolvedCount": 23,
-    "totalBattleVictoryCount": 443,
+    "totalBattleVictoryCount": 458,
     "totalPvPBattleVictoryCount": 4,
-    "totalPvWBattleVictoryCount": 403,
+    "totalPvWBattleVictoryCount": 418,
     "totalPvNBattleVictoryCount": 36,
     "totalShinyCaptureCount": 10,
     "totalTradedCount": 56,
@@ -26,7 +26,7 @@
       "electric": 18,
       "fairy": 29,
       "water": 48,
-      "grass": 38,
+      "grass": 39,
       "ghost": 15,
       "dark": 14,
       "fire": 33,
@@ -172,7 +172,9 @@
       "cobblemon:froslass": 2,
       "cobblemon:ceruledge": 2,
       "cobblemon:skeledirge": 1,
-      "cobblemon:typhlosion": 1
+      "cobblemon:typhlosion": 1,
+      "cobblemon:golett": 7,
+      "cobblemon:croagunk": 8
     },
     "aspectsCollected": {
       "cobblemon:komala": [
@@ -514,7 +516,9 @@
         "male"
       ],
       "cobblemon:leafeon": [
-        "male"
+        "male",
+        "female",
+        "bucket-"
       ],
       "cobblemon:jolteon": [
         "female"

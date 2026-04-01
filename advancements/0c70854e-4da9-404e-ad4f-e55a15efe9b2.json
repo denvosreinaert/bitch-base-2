@@ -11076,5 +11076,11 @@
     },
     "done": true
   },
+  "minecraft:adventure/under_lock_and_key": {
+    "criteria": {
+      "under_lock_and_key": "2026-04-01 21:44:11 +0200"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }

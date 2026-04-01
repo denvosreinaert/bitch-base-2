@@ -791,6 +791,7 @@
       "ancient_slate_ball": "2026-03-26 17:32:15 +0100",
       "ancient_ultra_ball": "2026-03-03 00:51:58 +0100",
       "safari_ball": "2026-03-28 01:55:31 +0100",
+      "heavy_ball": "2026-04-01 21:46:29 +0200",
       "verdant_ball": "2026-03-03 01:37:41 +0100",
       "ancient_heavy_ball": "2026-03-20 22:41:06 +0100",
       "ultra_ball": "2026-03-01 23:37:39 +0100",
@@ -7246,6 +7247,7 @@
     "criteria": {
       "lure_ball": "2026-03-05 00:38:00 +0100",
       "friend_ball": "2026-03-17 21:39:48 +0100",
+      "heavy_ball": "2026-04-01 21:46:29 +0200",
       "love_ball": "2026-03-07 03:02:45 +0100",
       "fast_ball": "2026-03-05 22:06:17 +0100"
     },
@@ -7446,9 +7448,10 @@
   },
   "cobblemon:recipes/misc/heavy_rod": {
     "criteria": {
-      "has_smithing_trim_template": "2026-03-05 01:08:07 +0100"
+      "has_smithing_trim_template": "2026-03-05 01:08:07 +0100",
+      "has_ball": "2026-04-01 21:46:29 +0200"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/misc/premier_rod": {
     "criteria": {
@@ -15668,15 +15671,15 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/black_kitchen_sink": {
+  "refurbished_furniture:recipes/misc/constructing/oak_hedge": {
     "criteria": {
-      "has_wooden_kitchen_sinks": "2026-03-31 21:05:59 +0200"
+      "has_minecraft:oak_leaves": "2026-03-31 20:15:22 +0200"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/warped_desk": {
+  "refurbished_furniture:recipes/misc/constructing/black_kitchen_sink": {
     "criteria": {
-      "has_minecraft:warped_planks": "2026-03-31 23:40:46 +0200"
+      "has_wooden_kitchen_sinks": "2026-03-31 21:05:59 +0200"
     },
     "done": true
   },
@@ -15686,9 +15689,75 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/dark_range_hood": {
+  "refurbished_furniture:recipes/misc/constructing/white_kitchen_sink": {
     "criteria": {
-      "has_refurbished_furniture:light_range_hood": "2026-03-31 21:13:27 +0200"
+      "has_wooden_kitchen_sinks": "2026-03-31 21:05:59 +0200"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/brown_kitchen_sink": {
+    "criteria": {
+      "has_wooden_kitchen_sinks": "2026-03-31 21:05:59 +0200"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_gray_kitchen_sink": {
+    "criteria": {
+      "has_wooden_kitchen_sinks": "2026-03-31 21:05:59 +0200"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_blue_kitchen_sink": {
+    "criteria": {
+      "has_wooden_kitchen_sinks": "2026-03-31 21:05:59 +0200"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/blue_kitchen_sink": {
+    "criteria": {
+      "has_wooden_kitchen_sinks": "2026-03-31 21:05:59 +0200"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/orange_kitchen_sink": {
+    "criteria": {
+      "has_wooden_kitchen_sinks": "2026-03-31 21:05:59 +0200"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/magenta_kitchen_sink": {
+    "criteria": {
+      "has_wooden_kitchen_sinks": "2026-03-31 21:05:59 +0200"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cyan_kitchen_sink": {
+    "criteria": {
+      "has_wooden_kitchen_sinks": "2026-03-31 21:05:59 +0200"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_kitchen_sink": {
+    "criteria": {
+      "has_wooden_kitchen_sinks": "2026-03-31 21:05:59 +0200"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/gray_kitchen_sink": {
+    "criteria": {
+      "has_wooden_kitchen_sinks": "2026-03-31 21:05:59 +0200"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/green_kitchen_sink": {
+    "criteria": {
+      "has_wooden_kitchen_sinks": "2026-03-31 21:05:59 +0200"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/purple_kitchen_sink": {
+    "criteria": {
+      "has_wooden_kitchen_sinks": "2026-03-31 21:05:59 +0200"
     },
     "done": true
   },
@@ -15704,81 +15773,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/green_kitchen_cabinetry": {
-    "criteria": {
-      "has_wooden_kitchen_cabinetry": "2026-03-31 21:12:07 +0200"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/white_kitchen_storage_cabinet": {
-    "criteria": {
-      "has_wooden_kitchen_storage_cabinets": "2026-03-31 21:06:05 +0200"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/dark_toaster": {
-    "criteria": {
-      "has_toaster": "2026-03-31 21:13:27 +0200"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/white_kitchen_sink": {
-    "criteria": {
-      "has_wooden_kitchen_sinks": "2026-03-31 21:05:59 +0200"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/rope_warped_bridge": {
-    "criteria": {
-      "has_planks": "2026-03-31 23:40:46 +0200"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/dark_stove": {
-    "criteria": {
-      "has_refurbished_furniture:light_stove": "2026-03-31 21:06:22 +0200"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/dark_microwave": {
-    "criteria": {
-      "has_microwave": "2026-03-31 21:13:27 +0200"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/black_kitchen_cabinetry": {
-    "criteria": {
-      "has_wooden_kitchen_cabinetry": "2026-03-31 21:12:07 +0200"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/lime_kitchen_drawer": {
     "criteria": {
       "has_wooden_kitchen_drawers": "2026-03-31 21:06:01 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/birch_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2026-03-31 21:08:16 +0200"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/brown_kitchen_sink": {
-    "criteria": {
-      "has_wooden_kitchen_sinks": "2026-03-31 21:05:59 +0200"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/warped_cutting_board": {
-    "criteria": {
-      "has_minecraft:warped_planks": "2026-03-31 23:40:46 +0200"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/dark_toaster": {
-    "criteria": {
-      "has_refurbished_furniture:light_toaster": "2026-03-31 21:13:27 +0200"
     },
     "done": true
   },
@@ -15788,105 +15785,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/brown_kitchen_storage_cabinet": {
-    "criteria": {
-      "has_wooden_kitchen_storage_cabinets": "2026-03-31 21:06:05 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/warped_trapdoor": {
-    "criteria": {
-      "has_planks": "2026-03-31 23:40:46 +0200"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/light_gray_kitchen_sink": {
-    "criteria": {
-      "has_wooden_kitchen_sinks": "2026-03-31 21:05:59 +0200"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/warped_drawer": {
-    "criteria": {
-      "has_minecraft:warped_planks": "2026-03-31 23:40:46 +0200"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/warped_crate": {
-    "criteria": {
-      "has_minecraft:warped_planks": "2026-03-31 23:40:46 +0200"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/green_kitchen_drawer": {
     "criteria": {
       "has_wooden_kitchen_drawers": "2026-03-31 21:06:01 +0200"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/green_basin": {
-    "criteria": {
-      "has_basins": "2026-03-31 21:13:27 +0200"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/purple_basin": {
-    "criteria": {
-      "has_basins": "2026-03-31 21:13:27 +0200"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/pink_kitchen_cabinetry": {
-    "criteria": {
-      "has_wooden_kitchen_cabinetry": "2026-03-31 21:12:07 +0200"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/warped_shelf": {
-    "criteria": {
-      "has_warped_shelf": "2026-03-31 23:40:46 +0200"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/blue_kitchen_storage_cabinet": {
-    "criteria": {
-      "has_wooden_kitchen_storage_cabinets": "2026-03-31 21:06:05 +0200"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/purple_kitchen_cabinetry": {
-    "criteria": {
-      "has_wooden_kitchen_cabinetry": "2026-03-31 21:12:07 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/warped_pressure_plate": {
-    "criteria": {
-      "has_planks": "2026-03-31 23:40:46 +0200"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/magenta_kitchen_cabinetry": {
-    "criteria": {
-      "has_wooden_kitchen_cabinetry": "2026-03-31 21:12:07 +0200"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/cyan_basin": {
-    "criteria": {
-      "has_basins": "2026-03-31 21:13:27 +0200"
-    },
-    "done": true
-  },
-  "legendarymonuments:recipes/building_blocks/distortion_planks_from_log": {
-    "criteria": {
-      "has_distortion_log": "2026-03-31 23:37:02 +0200"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/black_kitchen_storage_cabinet": {
-    "criteria": {
-      "has_wooden_kitchen_storage_cabinets": "2026-03-31 21:06:05 +0200"
     },
     "done": true
   },
@@ -15896,81 +15797,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/warped_table": {
-    "criteria": {
-      "has_minecraft:warped_planks": "2026-03-31 23:40:46 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/warped_fence": {
-    "criteria": {
-      "has_planks": "2026-03-31 23:40:46 +0200"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/purple_kitchen_drawer": {
     "criteria": {
       "has_wooden_kitchen_drawers": "2026-03-31 21:06:01 +0200"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/warped_cupboard": {
-    "criteria": {
-      "has_warped_cupboard": "2026-03-31 23:40:46 +0200"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/gray_kitchen_cabinetry": {
-    "criteria": {
-      "has_wooden_kitchen_cabinetry": "2026-03-31 21:12:07 +0200"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/warped_table": {
-    "criteria": {
-      "has_warped_table": "2026-03-31 23:40:46 +0200"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/light_blue_kitchen_sink": {
-    "criteria": {
-      "has_wooden_kitchen_sinks": "2026-03-31 21:05:59 +0200"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/cherry_dark_ceiling_fan": {
-    "criteria": {
-      "has_ceiling_fan": "2026-03-31 21:12:00 +0200"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/blue_kitchen_sink": {
-    "criteria": {
-      "has_wooden_kitchen_sinks": "2026-03-31 21:05:59 +0200"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/white_kitchen_cabinetry": {
-    "criteria": {
-      "has_wooden_kitchen_cabinetry": "2026-03-31 21:12:07 +0200"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/lime_basin": {
-    "criteria": {
-      "has_basins": "2026-03-31 21:13:27 +0200"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/warped_kitchen_cabinetry": {
-    "criteria": {
-      "has_minecraft:warped_planks": "2026-03-31 23:40:46 +0200"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/light_blue_kitchen_cabinetry": {
-    "criteria": {
-      "has_wooden_kitchen_cabinetry": "2026-03-31 21:12:07 +0200"
     },
     "done": true
   },
@@ -15980,9 +15809,63 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/orange_kitchen_sink": {
+  "refurbished_furniture:recipes/misc/constructing/brown_kitchen_drawer": {
     "criteria": {
-      "has_wooden_kitchen_sinks": "2026-03-31 21:05:59 +0200"
+      "has_wooden_kitchen_drawers": "2026-03-31 21:06:01 +0200"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/orange_kitchen_drawer": {
+    "criteria": {
+      "has_wooden_kitchen_drawers": "2026-03-31 21:06:01 +0200"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_blue_kitchen_drawer": {
+    "criteria": {
+      "has_wooden_kitchen_drawers": "2026-03-31 21:06:01 +0200"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cyan_kitchen_drawer": {
+    "criteria": {
+      "has_wooden_kitchen_drawers": "2026-03-31 21:06:01 +0200"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_gray_kitchen_drawer": {
+    "criteria": {
+      "has_wooden_kitchen_drawers": "2026-03-31 21:06:01 +0200"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_kitchen_drawer": {
+    "criteria": {
+      "has_wooden_kitchen_drawers": "2026-03-31 21:06:01 +0200"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/white_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_wooden_kitchen_storage_cabinets": "2026-03-31 21:06:05 +0200"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/brown_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_wooden_kitchen_storage_cabinets": "2026-03-31 21:06:05 +0200"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/blue_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_wooden_kitchen_storage_cabinets": "2026-03-31 21:06:05 +0200"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_wooden_kitchen_storage_cabinets": "2026-03-31 21:06:05 +0200"
     },
     "done": true
   },
@@ -15992,81 +15875,15 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/dark_microwave": {
-    "criteria": {
-      "has_refurbished_furniture:light_microwave": "2026-03-31 21:13:27 +0200"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/warped_nightstand": {
-    "criteria": {
-      "has_warped_nightstand": "2026-03-31 23:40:46 +0200"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/light_blue_kitchen_storage_cabinet": {
     "criteria": {
       "has_wooden_kitchen_storage_cabinets": "2026-03-31 21:06:05 +0200"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/warped_chair": {
-    "criteria": {
-      "has_minecraft:warped_planks": "2026-03-31 23:40:46 +0200"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/orange_kitchen_storage_cabinet": {
     "criteria": {
       "has_wooden_kitchen_storage_cabinets": "2026-03-31 21:06:05 +0200"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/warped_mail_box": {
-    "criteria": {
-      "has_minecraft:warped_planks": "2026-03-31 23:40:46 +0200"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/magenta_kitchen_sink": {
-    "criteria": {
-      "has_wooden_kitchen_sinks": "2026-03-31 21:05:59 +0200"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/cyan_kitchen_cabinetry": {
-    "criteria": {
-      "has_wooden_kitchen_cabinetry": "2026-03-31 21:12:07 +0200"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/cyan_kitchen_sink": {
-    "criteria": {
-      "has_wooden_kitchen_sinks": "2026-03-31 21:05:59 +0200"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/dark_range_hood": {
-    "criteria": {
-      "has_range_hood": "2026-03-31 21:13:27 +0200"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/warped_bench": {
-    "criteria": {
-      "has_warped_bench": "2026-03-31 23:40:46 +0200"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/warped_fancy_bed": {
-    "criteria": {
-      "has_warped_fancy_bed": "2026-03-31 23:40:46 +0200"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/brown_kitchen_drawer": {
-    "criteria": {
-      "has_wooden_kitchen_drawers": "2026-03-31 21:06:01 +0200"
     },
     "done": true
   },
@@ -16082,15 +15899,51 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/oak_hedge": {
+  "refurbished_furniture:recipes/misc/constructing/cyan_kitchen_storage_cabinet": {
     "criteria": {
-      "has_minecraft:oak_leaves": "2026-03-31 20:15:22 +0200"
+      "has_wooden_kitchen_storage_cabinets": "2026-03-31 21:06:05 +0200"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/pink_basin": {
+  "refurbished_furniture:recipes/misc/constructing/light_gray_kitchen_storage_cabinet": {
     "criteria": {
-      "has_basins": "2026-03-31 21:13:27 +0200"
+      "has_wooden_kitchen_storage_cabinets": "2026-03-31 21:06:05 +0200"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/lime_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_wooden_kitchen_storage_cabinets": "2026-03-31 21:06:05 +0200"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_wooden_kitchen_storage_cabinets": "2026-03-31 21:06:05 +0200"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/gray_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_wooden_kitchen_storage_cabinets": "2026-03-31 21:06:05 +0200"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_stove": {
+    "criteria": {
+      "has_refurbished_furniture:light_stove": "2026-03-31 21:06:22 +0200"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/dark_stove": {
+    "criteria": {
+      "has_stove": "2026-03-31 21:06:22 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2026-03-31 21:08:16 +0200"
     },
     "done": true
   },
@@ -16100,21 +15953,165 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/warped_fence_gate": {
+  "refurbished_furniture:recipes/decorations/cherry_dark_ceiling_fan": {
     "criteria": {
-      "has_planks": "2026-03-31 23:40:46 +0200"
+      "has_ceiling_fan": "2026-03-31 21:12:00 +0200"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/warped_side_table": {
+  "refurbished_furniture:recipes/misc/constructing/cherry_dark_ceiling_fan": {
     "criteria": {
-      "has_warped_side_table": "2026-03-31 23:40:46 +0200"
+      "has_refurbished_furniture:cherry_light_ceiling_fan": "2026-03-31 21:12:00 +0200"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/orange_kitchen_drawer": {
+  "refurbished_furniture:recipes/misc/constructing/green_kitchen_cabinetry": {
     "criteria": {
-      "has_wooden_kitchen_drawers": "2026-03-31 21:06:01 +0200"
+      "has_wooden_kitchen_cabinetry": "2026-03-31 21:12:07 +0200"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_kitchen_cabinetry": {
+    "criteria": {
+      "has_wooden_kitchen_cabinetry": "2026-03-31 21:12:07 +0200"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_kitchen_cabinetry": {
+    "criteria": {
+      "has_wooden_kitchen_cabinetry": "2026-03-31 21:12:07 +0200"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/purple_kitchen_cabinetry": {
+    "criteria": {
+      "has_wooden_kitchen_cabinetry": "2026-03-31 21:12:07 +0200"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/magenta_kitchen_cabinetry": {
+    "criteria": {
+      "has_wooden_kitchen_cabinetry": "2026-03-31 21:12:07 +0200"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/gray_kitchen_cabinetry": {
+    "criteria": {
+      "has_wooden_kitchen_cabinetry": "2026-03-31 21:12:07 +0200"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/white_kitchen_cabinetry": {
+    "criteria": {
+      "has_wooden_kitchen_cabinetry": "2026-03-31 21:12:07 +0200"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_blue_kitchen_cabinetry": {
+    "criteria": {
+      "has_wooden_kitchen_cabinetry": "2026-03-31 21:12:07 +0200"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cyan_kitchen_cabinetry": {
+    "criteria": {
+      "has_wooden_kitchen_cabinetry": "2026-03-31 21:12:07 +0200"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/lime_kitchen_cabinetry": {
+    "criteria": {
+      "has_wooden_kitchen_cabinetry": "2026-03-31 21:12:07 +0200"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/orange_kitchen_cabinetry": {
+    "criteria": {
+      "has_wooden_kitchen_cabinetry": "2026-03-31 21:12:07 +0200"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/blue_kitchen_cabinetry": {
+    "criteria": {
+      "has_wooden_kitchen_cabinetry": "2026-03-31 21:12:07 +0200"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/brown_kitchen_cabinetry": {
+    "criteria": {
+      "has_wooden_kitchen_cabinetry": "2026-03-31 21:12:07 +0200"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_gray_kitchen_cabinetry": {
+    "criteria": {
+      "has_wooden_kitchen_cabinetry": "2026-03-31 21:12:07 +0200"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_range_hood": {
+    "criteria": {
+      "has_refurbished_furniture:light_range_hood": "2026-03-31 21:13:27 +0200"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/dark_toaster": {
+    "criteria": {
+      "has_toaster": "2026-03-31 21:13:27 +0200"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/dark_microwave": {
+    "criteria": {
+      "has_microwave": "2026-03-31 21:13:27 +0200"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_toaster": {
+    "criteria": {
+      "has_refurbished_furniture:light_toaster": "2026-03-31 21:13:27 +0200"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/green_basin": {
+    "criteria": {
+      "has_basins": "2026-03-31 21:13:27 +0200"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/purple_basin": {
+    "criteria": {
+      "has_basins": "2026-03-31 21:13:27 +0200"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cyan_basin": {
+    "criteria": {
+      "has_basins": "2026-03-31 21:13:27 +0200"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/lime_basin": {
+    "criteria": {
+      "has_basins": "2026-03-31 21:13:27 +0200"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_microwave": {
+    "criteria": {
+      "has_refurbished_furniture:light_microwave": "2026-03-31 21:13:27 +0200"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/dark_range_hood": {
+    "criteria": {
+      "has_range_hood": "2026-03-31 21:13:27 +0200"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_basin": {
+    "criteria": {
+      "has_basins": "2026-03-31 21:13:27 +0200"
     },
     "done": true
   },
@@ -16136,99 +16133,15 @@
     },
     "done": true
   },
-  "mcwbridges:recipes/warped_rail_bridge": {
-    "criteria": {
-      "has_planks": "2026-03-31 23:40:46 +0200"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/pink_kitchen_sink": {
-    "criteria": {
-      "has_wooden_kitchen_sinks": "2026-03-31 21:05:59 +0200"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/light_gray_basin": {
     "criteria": {
       "has_basins": "2026-03-31 21:13:27 +0200"
     },
     "done": true
   },
-  "minecraft:husbandry/wax_on": {
-    "criteria": {
-      "wax_on": "2026-03-31 23:58:20 +0200"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/cyan_kitchen_storage_cabinet": {
-    "criteria": {
-      "has_wooden_kitchen_storage_cabinets": "2026-03-31 21:06:05 +0200"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/gray_kitchen_sink": {
-    "criteria": {
-      "has_wooden_kitchen_sinks": "2026-03-31 21:05:59 +0200"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/warped_chair": {
-    "criteria": {
-      "has_warped_chair": "2026-03-31 23:40:46 +0200"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/light_blue_kitchen_drawer": {
-    "criteria": {
-      "has_wooden_kitchen_drawers": "2026-03-31 21:06:01 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/warped_button": {
-    "criteria": {
-      "has_planks": "2026-03-31 23:40:46 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/warped_stairs": {
-    "criteria": {
-      "has_planks": "2026-03-31 23:40:46 +0200"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/lime_kitchen_cabinetry": {
-    "criteria": {
-      "has_wooden_kitchen_cabinetry": "2026-03-31 21:12:07 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/warped_sign": {
-    "criteria": {
-      "has_planks": "2026-03-31 23:40:46 +0200"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/green_kitchen_sink": {
-    "criteria": {
-      "has_wooden_kitchen_sinks": "2026-03-31 21:05:59 +0200"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/warped_log_bridge_middle": {
-    "criteria": {
-      "has_planks": "2026-03-31 23:40:46 +0200"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/brown_basin": {
     "criteria": {
       "has_basins": "2026-03-31 21:13:27 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/warped_door": {
-    "criteria": {
-      "has_planks": "2026-03-31 23:40:46 +0200"
     },
     "done": true
   },
@@ -16244,39 +16157,189 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/decorations/dark_stove": {
-    "criteria": {
-      "has_stove": "2026-03-31 21:06:22 +0200"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/white_basin": {
     "criteria": {
       "has_basins": "2026-03-31 21:13:27 +0200"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/orange_kitchen_cabinetry": {
+  "refurbished_furniture:recipes/misc/constructing/gray_basin": {
     "criteria": {
-      "has_wooden_kitchen_cabinetry": "2026-03-31 21:12:07 +0200"
+      "has_basins": "2026-03-31 21:13:27 +0200"
+    },
+    "done": true
+  },
+  "legendarymonuments:recipes/building_blocks/distortion_planks_from_log": {
+    "criteria": {
+      "has_distortion_log": "2026-03-31 23:37:02 +0200"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_desk": {
+    "criteria": {
+      "has_minecraft:warped_planks": "2026-03-31 23:40:46 +0200"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/rope_warped_bridge": {
+    "criteria": {
+      "has_planks": "2026-03-31 23:40:46 +0200"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_cutting_board": {
+    "criteria": {
+      "has_minecraft:warped_planks": "2026-03-31 23:40:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_trapdoor": {
+    "criteria": {
+      "has_planks": "2026-03-31 23:40:46 +0200"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_drawer": {
+    "criteria": {
+      "has_minecraft:warped_planks": "2026-03-31 23:40:46 +0200"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_crate": {
+    "criteria": {
+      "has_minecraft:warped_planks": "2026-03-31 23:40:46 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_shelf": {
+    "criteria": {
+      "has_warped_shelf": "2026-03-31 23:40:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_pressure_plate": {
+    "criteria": {
+      "has_planks": "2026-03-31 23:40:46 +0200"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_table": {
+    "criteria": {
+      "has_minecraft:warped_planks": "2026-03-31 23:40:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_fence": {
+    "criteria": {
+      "has_planks": "2026-03-31 23:40:46 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_cupboard": {
+    "criteria": {
+      "has_warped_cupboard": "2026-03-31 23:40:46 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_table": {
+    "criteria": {
+      "has_warped_table": "2026-03-31 23:40:46 +0200"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_kitchen_cabinetry": {
+    "criteria": {
+      "has_minecraft:warped_planks": "2026-03-31 23:40:46 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_nightstand": {
+    "criteria": {
+      "has_warped_nightstand": "2026-03-31 23:40:46 +0200"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_chair": {
+    "criteria": {
+      "has_minecraft:warped_planks": "2026-03-31 23:40:46 +0200"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_mail_box": {
+    "criteria": {
+      "has_minecraft:warped_planks": "2026-03-31 23:40:46 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_bench": {
+    "criteria": {
+      "has_warped_bench": "2026-03-31 23:40:46 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_fancy_bed": {
+    "criteria": {
+      "has_warped_fancy_bed": "2026-03-31 23:40:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_fence_gate": {
+    "criteria": {
+      "has_planks": "2026-03-31 23:40:46 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_side_table": {
+    "criteria": {
+      "has_warped_side_table": "2026-03-31 23:40:46 +0200"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/warped_rail_bridge": {
+    "criteria": {
+      "has_planks": "2026-03-31 23:40:46 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_chair": {
+    "criteria": {
+      "has_warped_chair": "2026-03-31 23:40:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_button": {
+    "criteria": {
+      "has_planks": "2026-03-31 23:40:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_stairs": {
+    "criteria": {
+      "has_planks": "2026-03-31 23:40:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_sign": {
+    "criteria": {
+      "has_planks": "2026-03-31 23:40:46 +0200"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/warped_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2026-03-31 23:40:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_door": {
+    "criteria": {
+      "has_planks": "2026-03-31 23:40:46 +0200"
     },
     "done": true
   },
   "handcrafted:recipes/misc/warped_dining_bench": {
     "criteria": {
       "has_warped_dining_bench": "2026-03-31 23:40:46 +0200"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/blue_kitchen_cabinetry": {
-    "criteria": {
-      "has_wooden_kitchen_cabinetry": "2026-03-31 21:12:07 +0200"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/cyan_kitchen_drawer": {
-    "criteria": {
-      "has_wooden_kitchen_drawers": "2026-03-31 21:06:01 +0200"
     },
     "done": true
   },
@@ -16298,27 +16361,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/gray_basin": {
-    "criteria": {
-      "has_basins": "2026-03-31 21:13:27 +0200"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/brown_kitchen_cabinetry": {
-    "criteria": {
-      "has_wooden_kitchen_cabinetry": "2026-03-31 21:12:07 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/warped_slab": {
     "criteria": {
       "has_planks": "2026-03-31 23:40:46 +0200"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/light_gray_kitchen_storage_cabinet": {
-    "criteria": {
-      "has_wooden_kitchen_storage_cabinets": "2026-03-31 21:06:05 +0200"
     },
     "done": true
   },
@@ -16334,33 +16379,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/light_gray_kitchen_drawer": {
-    "criteria": {
-      "has_wooden_kitchen_drawers": "2026-03-31 21:06:01 +0200"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/warped_couch": {
     "criteria": {
       "has_warped_couch": "2026-03-31 23:40:46 +0200"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/cherry_dark_ceiling_fan": {
-    "criteria": {
-      "has_refurbished_furniture:cherry_light_ceiling_fan": "2026-03-31 21:12:00 +0200"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/lime_kitchen_storage_cabinet": {
-    "criteria": {
-      "has_wooden_kitchen_storage_cabinets": "2026-03-31 21:06:05 +0200"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/pink_kitchen_storage_cabinet": {
-    "criteria": {
-      "has_wooden_kitchen_storage_cabinets": "2026-03-31 21:06:05 +0200"
     },
     "done": true
   },
@@ -16370,33 +16391,21 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/light_gray_kitchen_cabinetry": {
-    "criteria": {
-      "has_wooden_kitchen_cabinetry": "2026-03-31 21:12:07 +0200"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/warped_counter": {
     "criteria": {
       "has_warped_counter": "2026-03-31 23:40:46 +0200"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/gray_kitchen_storage_cabinet": {
+  "minecraft:husbandry/wax_on": {
     "criteria": {
-      "has_wooden_kitchen_storage_cabinets": "2026-03-31 21:06:05 +0200"
+      "wax_on": "2026-03-31 23:58:20 +0200"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/purple_kitchen_sink": {
+  "rctmod:trainers/defeat_trainer_may": {
     "criteria": {
-      "has_wooden_kitchen_sinks": "2026-03-31 21:05:59 +0200"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/pink_kitchen_drawer": {
-    "criteria": {
-      "has_wooden_kitchen_drawers": "2026-03-31 21:06:01 +0200"
+      "defeat_trainer_may": "2026-04-02 01:16:42 +0200"
     },
     "done": true
   },

@@ -8,28 +8,28 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 22,
-    "totalEggsCollected": 8,
-    "totalEggsHatched": 56,
-    "totalEvolvedCount": 10,
-    "totalBattleVictoryCount": 160,
+    "totalCaptureCount": 28,
+    "totalEggsCollected": 9,
+    "totalEggsHatched": 58,
+    "totalEvolvedCount": 12,
+    "totalBattleVictoryCount": 185,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 111,
-    "totalPvNBattleVictoryCount": 49,
-    "totalShinyCaptureCount": 2,
+    "totalPvWBattleVictoryCount": 126,
+    "totalPvNBattleVictoryCount": 59,
+    "totalShinyCaptureCount": 3,
     "totalTradedCount": 19,
     "totalTypeCaptureCounts": {
-      "normal": 7,
+      "normal": 8,
       "dark": 1,
       "flying": 2,
       "electric": 3,
       "ground": 1,
-      "steel": 1,
-      "bug": 1,
+      "steel": 2,
+      "bug": 2,
       "rock": 1,
       "fire": 5,
       "psychic": 2,
-      "water": 2,
+      "water": 5,
       "fairy": 1
     },
     "totalDefeatedCounts": {
@@ -94,7 +94,15 @@
       "cobblemon:buneary": 1,
       "cobblemon:joltik": 1,
       "cobblemon:blitzle": 1,
-      "cobblemon:woobat": 1
+      "cobblemon:woobat": 1,
+      "cobblemon:bidoof": 2,
+      "cobblemon:magikarp": 1,
+      "cobblemon:barboach": 1,
+      "cobblemon:wooper": 2,
+      "cobblemon:goldeen": 2,
+      "cobblemon:basculin": 2,
+      "cobblemon:chewtle": 1,
+      "cobblemon:drifloon": 1
     },
     "aspectsCollected": {
       "cobblemon:patrat": [
@@ -157,7 +165,9 @@
       ],
       "cobblemon:basculin": [
         "male",
-        "bluestriped"
+        "bluestriped",
+        "bucket-common",
+        "whitestriped"
       ],
       "cobblemon:raboot": [
         "male"
@@ -174,7 +184,8 @@
         "character-e"
       ],
       "cobblemon:rillaboom": [
-        "male"
+        "male",
+        "bucket-"
       ],
       "cobblemon:darumaka": [
         "female"
@@ -209,6 +220,34 @@
       ],
       "cobblemon:munchlax": [
         "male"
+      ],
+      "cobblemon:cinccino": [
+        "female",
+        "bucket-",
+        "alpha"
+      ],
+      "cobblemon:finizen": [
+        "male",
+        "bucket-uncommon"
+      ],
+      "cobblemon:grubbin": [
+        "shiny",
+        "male",
+        "bucket-"
+      ],
+      "cobblemon:feebas": [
+        "male",
+        "bucket-common",
+        "fished"
+      ],
+      "cobblemon:perrserker": [
+        "female",
+        "bucket-",
+        "alpha"
+      ],
+      "cobblemon:metagross": [
+        "genderless",
+        "bucket-"
       ]
     }
   }
